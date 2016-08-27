@@ -8,7 +8,7 @@ $ cpan Dapper
 
 ### Amazon Route 53, S3
 
-Go into Amazon's AWS Console and create 2 buckets: 'www.markbenson.io' and 'markbenson.io'. We'll only actually load content into one of these, the other just helps route traffic from www.markbenson.io to markbenson.io.
+Go into Amazon's AWS Console under S3 and create 2 buckets: 'www.markbenson.io' and 'markbenson.io'. We'll only actually load content into one of these, the other just helps route traffic from www.markbenson.io to markbenson.io.
 
 Under properties for 'www.markbenson.io', choose 'redirect all requests to another host name' under 'Static Web Hosting'.
 
