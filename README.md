@@ -1,4 +1,4 @@
-# README for Vanilla Draft
+# README for markbenson.io 
 
 ## Installation
 
@@ -8,11 +8,11 @@ $ cpan Dapper
 
 ### Amazon Route 53, S3
 
-Go into Amazon's AWS Console and create 2 buckets: 'www.vanilladraft.com' and 'vanilladraft.com'. We'll only actually load content into one of these, the other just helps route traffic from www.vanilladraft.com to vanilladraft.com.
+Go into Amazon's AWS Console and create 2 buckets: 'www.markbenson.io' and 'markbenson.io'. We'll only actually load content into one of these, the other just helps route traffic from www.markbenson.io to markbenson.io.
 
-Under properties for 'www.vanilladraft.com', choose 'redirect all requests to another host name' under 'Static Web Hosting'.
+Under properties for 'www.markbenson.io', choose 'redirect all requests to another host name' under 'Static Web Hosting'.
 
-Under properties for 'vanilladraft.com', choose 'enable website hosting' under 'Static Web Hosting', and set 'Index Document' to 'index.html'.
+Under properties for 'markbenson.io', choose 'enable website hosting' under 'Static Web Hosting', and set 'Index Document' to 'index.html'.
 
 $ brew install s3cmd
 $ s3cmd --configure
