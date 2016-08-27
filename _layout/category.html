@@ -1,0 +1,27 @@
+---
+layout: index
+---
+
+[% use date %]
+
+<h2>[% page.title %]</h2>
+
+[% page.content %]
+
+[% for category in site.categories %]
+    [% if category.key == page.category %]
+        <table>
+            <tr><td style="font-weight: bold; width: 120px;">Date</td><td style="font-weight: bold;">Title</td></tr>
+        [% for page in category.value.reverse %]
+            [% if page.link %]
+                [% url = page.url %]
+            [% else %]
+                [% url = page.url %]
+            [% end %]
+            <tr><td class="pubdate"><p>[% date.format(page.date, "%d %B %Y") %]</p>[% if page.thumbnail %]<p><a href="[% url %]" title="[% page.title | smart %]"><img src="[% page.thumbnail %]" width="90px" /></a></p>[% end %]</td><td><p class="pubtitle"><strong><a href="[% url %]">
+[% page.title | smart %]</a></strong></p><div class="pubcontent">[% if category.key == 'publications' %][% page.excerpt | smart %][% end %]</div></td></tr>
+        [% end %]
+        </table>
+    [% end %]
+[% end %]
+

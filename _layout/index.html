@@ -1,0 +1,297 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+  <title>[% if page.title != site.name %][% page.title _ ' - ' _ site.name %][% else %][% page.title %][% end %]</title>
+  [% include "meta.html" %]
+</head>
+
+<body>
+
+  <!-- LOADER -->
+  <div id="loader-overflow">
+    <div id="loader3">Please enable JS</div>
+  </div>
+
+  <div id="wrap" class="boxed ">
+    <div class="grey-bg">
+      <!-- Grey BG  -->
+      [% include "ie-warn.html" %]
+      <div class="header-transparent-bg-black">
+
+        [% include "header.html" %]
+
+        <!-- TOP PANEL -->
+        <div id="about" class="page-section" style="background-image: url(/images/static-media/circuits-board_00450801.jpg)">
+          <div class="container fes1-cont">
+            <div class="row">
+
+              <div class="col-md-4 fes1-img-cont wow fadeInUp mb-20">
+                <img src="/images/static-media/stmes_cover_333x500.jpg" alt="img">
+              </div>
+
+              <div class="col-md-8">
+
+                <div class="row">
+                  <div class="col-md-12">
+                    <div class="fes1-main-title-cont wow fadeInDown">
+                      <div class="title-fs-60 font-white">
+                        The Art of <span class="bold">Software Thermal Management</span> for Embedded Systems
+                      </div>
+
+                      <div class="line-3-100"></div>
+
+                      <h1><span class="font-white thin">A new book on the art of controlling the thermodynamic behavior of computing systems with software, by Mark Benson.</span></h1>
+
+                      <div class="right-0-478">
+                        <a class="button medium deeporange" href="/stmes/">Learn more</a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+
+              </div>
+
+            </div>
+          </div>
+        </div>
+        <!-- END TOP PANEL -->
+
+      </div>
+      <!-- END HEADER -->
+
+
+      <!-- PUBLICATIONS -->
+      <div class="page-section pt-110-b-30-cont">
+        <div class="container">
+
+          <div class="mb-50">
+            <h2 class="section-title pr-0">RECENT <span class="bold">PUBLICATIONS</span>
+            </h2>
+          </div>
+
+          <div class="row">
+
+            [% for post in site.categories.publications.reverse %]
+            [% if post.link %]
+              [% url = post.link %]
+            [% else %]
+              [% url = post.url %]
+            [% end %]
+            <div class="col-md-12 wow fadeInRight pb-30">
+              <div class="row">
+
+                <div class="col-md-4 blog2-post-title-cont">
+                  <div class="post-prev-date-cont">
+                    [% if post.thumbnail %]
+                    <p>
+                      <a href="[% url %]" title="[% page.title | smart %]"><img src="[% page.thumbnail %]" width="90px" /></a>
+                    </p>[% end %]
+                    <span class="blog2-month">[% use date %][% date.format(post.date, "%d %B %Y") %]</span><br />
+                  </div>
+                  <div class="post-prev-title">
+                    <h3><a href="[% url %]">[% post.title | smart %]</a></h3>
+                    <div class="post-prev-info">
+                      <a href="/publications/">PUBLICATION</a><span class="slash-divider">/</span><a href="/preface/">MARK BENSON</a>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="col-md-8">
+                  <div class="blog2-post-prev-text">
+                    [% post.content | smart %]
+                  </div>
+                </div>
+
+              </div>
+            </div>
+            [% if loop.count >= 2 %][% last %][% end %] [% end %]
+
+          </div>
+
+          <div class="row">
+            <div class="mb-100">
+              <a href="/cv/" class="section-more right button medium deeporange">More publications</a>
+            </div>
+          </div>
+
+        </div>
+      </div>
+      <!-- END PUBLICATIONS -->
+
+
+
+
+
+      <!-- DAPPER -->
+      <div class="page-section grey-light-bg">
+        <div class="container fes4-cont">
+          <div class="row">
+
+            <div class="col-md-4 ">
+              <div class="mb-30">
+                <h2 class="section-title">INTRODUCING <span class="bold">DAPPER</span></h2>
+              </div>
+              <p class="mb-20 normal wow fadeInLeft">Dapper is a simple but powerful static website generator written in Perl. Dapper makes it easy to develop locally
+                and deploy your site to Amazon S3 directly. It works great for corporate, portfolio, or personal websites
+                and blogs.</p>
+              <div class="right-0-478 wow fadeInUp">
+                <a class="button medium deeporange" href="/dapper/">Learn more</a>
+              </div>
+            </div>
+            <div class="col-md-7 col-lg-offset-1">
+
+              <div class="row wow fadeInUp">
+
+                <div class="col-xs-12 col-sm-6 col-md-6 wow fadeIn">
+                  <div class="fes4-box">
+                    <div class="fes4-title-cont">
+                      <div class="fes4-box-icon">
+                        <div class="icon icon-basic-sheet-pencil"></div>
+                      </div>
+                      <h3><span class="bold">SIMPLE</span></h3>
+                      <p>Learning Dapper is easy — it gets out of the way so you can write, develop, and deploy the way you
+                        want.</p>
+                    </div>
+
+                  </div>
+                </div>
+                <div class="col-xs-12 col-sm-6 col-md-6 wow fadeIn">
+                  <div class="fes4-box">
+                    <div class="fes4-title-cont">
+                      <div class="fes4-box-icon">
+                        <div class="icon icon-basic-mixer2"></div>
+                      </div>
+                      <h3><span class="bold">FLEXIBLE</span></h3>
+                      <p>Content is written in Markdown, and templates are written using the TT3 mini-language from Template::Alloy
+                        for maximum flexibility.</p>
+                    </div>
+                  </div>
+                </div>
+
+              </div>
+
+              <div class="row wow fadeInUp">
+
+                <div class="col-xs-12 col-sm-6 col-md-6 wow fadeIn">
+                  <div class="fes4-box">
+                    <div class="fes4-title-cont">
+                      <div class="fes4-box-icon">
+                        <div class="icon icon-basic-cup"></div>
+                      </div>
+                      <h3><span class="bold">FAST</span></h3>
+                      <p>Static pages are fast to load and easy to cache. Dapper makes sites that can be deployed staticly and
+                        are blazingly fast.</p>
+                    </div>
+
+                  </div>
+                </div>
+                <div class="col-xs-12 col-sm-6 col-md-6 wow fadeIn">
+                  <div class="fes4-box">
+                    <div class="fes4-title-cont">
+                      <div class="fes4-box-icon">
+                        <div class="icon icon-basic-paperplane"></div>
+                      </div>
+                      <h3><span class="bold">PORTABLE</span></h3>
+                      <p>With a static site, it’s easy to move the site to a new host in the future without incurring unnecessary
+                        cost and complexity.</p>
+                    </div>
+                  </div>
+                </div>
+
+              </div>
+
+
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- END DAPPER -->
+
+
+
+
+
+      <!-- NOTA BENE -->
+      <div class="page-section pt-110-b-30-cont">
+        <div class="container">
+
+          <div class="mb-50">
+            <h2 class="section-title pr-0">NOTA <span class="bold">BENE</span></h2>
+          </div>
+
+          <div class="row">
+
+            [% for post in site.categories.notabene.reverse %]
+                [% if post.link %][% url = post.link %][% else %][% url = post.url %][% end %] [% pilcrow = '<a href="' _ post.url _ '" class="pilcrow">&para;</a>' %]
+
+            <!-- Post Item -->
+            <div class="col-sm-6 col-md-4 col-lg-4 wow fadeIn[% if loop.even %]Down[% else %]Up[% end %] pb-70">
+
+              [% if post.image %]
+              <div class="post-prev-img">
+                <a href="[% post.url %]"><img src="[% post.image %]" alt="img"></a>
+              </div>
+              [% end %]
+
+              <div class="post-prev-title">
+                <h3><a href="[% post.url %]">[% post.title | smart %]</a></h3>
+              </div>
+
+              <div class="post-prev-info">
+                <a href="[% post.url %]" title="Read [% post.title %]">[% use date %][% date.format(post.date, '%d %B %Y') %]</a>
+                <span class="slash-divider">/</span><a href="/preface/">Mark Benson</a>
+              </div>
+
+              <div class="post-prev-text">
+                [% post.excerpt | smart %]
+              </div>
+
+              <div class="post-prev-more-cont clearfix">
+                <div class="post-prev-more left">
+                  <a href="[% post.url %]" class="blog-more">READ MORE</a>
+                </div>
+              </div>
+
+            </div>
+
+            [% if loop.count >= 3 %][% last %][% end %] [% end %]
+
+          </div>
+
+          <div class="row">
+            <div class="mb-100">
+              <a href="/notabene/" class="section-more right button medium deeporange">More notes</a>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+
+
+
+
+    [% include "counters.html" %]
+
+
+    [% include "footer.html" %]
+
+
+    <!-- BACK TO TOP -->
+    <p id="back-top">
+      <a href="#top" title="Back to Top"><span class="icon icon-arrows-up"></span></a>
+    </p>
+
+  </div>
+  <!-- End BG -->
+  </div>
+  <!-- End wrap -->
+
+  [% include "javascript.html" %]
+
+</body>
+
+</html>

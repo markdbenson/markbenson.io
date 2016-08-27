@@ -1,0 +1,13 @@
+# Dapper config file
+---
+name: Mark Benson
+url: http://markbenson.io/
+ignore :
+    - "^\."
+    - "^_"
+    - "^design$"
+    - "^README.md$"
+    - "^Makefile$"
+copyright: "[% use date %]&copy; Mark Benson [% date.format(date.now, '%Y') %]"
+
+

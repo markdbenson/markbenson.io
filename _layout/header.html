@@ -1,0 +1,66 @@
+        <!-- HEADER 1 BLACK -->
+				<header id="nav" class="header header-1 black-header [% if page.header == "of" %]no-transparent mobile-no-transparent[% else %]mobile-no-transparent[% end %]">
+				  <div class="header-wrapper [% if page.header == "of" %]grey-dark-bg[% end %]">
+					<div class="container-m-30 clearfix">
+					  <div class="logo-row">
+					  
+						<!-- LOGO --> 
+						<div class="logo-container-2">
+                <div class="logo-2">
+                  <a href="/" class="clearfix">
+                    <img src="/images/logo-white.png" class="logo-img" alt="Logo">
+                  </a>
+                </div>
+              </div>
+						<!-- BUTTON --> 
+						<div class="menu-btn-respons-container">
+							<button type="button" class="navbar-toggle btn-navbar collapsed" data-toggle="collapse" data-target="#main-menu .navbar-collapse">
+								<span aria-hidden="true" class="icon_menu hamb-mob-icon"></span>
+							</button>
+						</div>
+					 </div>
+					</div>
+
+					<!-- MAIN MENU CONTAINER -->
+					<div class="main-menu-container">
+						
+						  <div class="container-m-30 clearfix">	
+						  
+								<!-- MAIN MENU -->
+								<div id="main-menu">
+								  <div class="navbar navbar-default" role="navigation">
+
+									<!-- MAIN MENU LIST -->
+									<nav class="collapse collapsing navbar-collapse right-1024">
+									  <ul class="nav navbar-nav">
+                      
+                      <!-- MENU ITEMS -->
+                      <li class="parent [% if page.menu == 'home' %]current[% end %]">
+                        <a href="/"><div class="main-menu-title">HOME</div></a>
+                      </li>
+
+                      <li class="parent [% if page.menu == "preface" %]current[% end %]">
+                        <a href="/preface/"><div class="main-menu-title">PREFACE</div></a>
+                      </li>
+
+                      <li class="parent [% if page.menu == "cv" %]current[% end %]">
+                        <a href="/cv/"><div class="main-menu-title">CARRICULUM VITAE</div></a>
+                      </li>
+
+                      <li class="parent [% if page.menu == "notabene" || page.categories == "notabene" %]current[% end %]">
+                        <a href="/notabene/"><div class="main-menu-title">NOTA BENE</div></a>
+                      </li>
+
+                      <li class="parent [% if page.menu == "colophon" %]current[% end %]">
+                        <a href="/colophon/"><div class="main-menu-title">COLOPHON</div></a>
+                      </li>
+
+                    </div>
+					</div>
+					<!-- END main-menu-container -->
+					
+				  </div>
+				  <!-- END header-wrapper -->
+				  
+				</header>
+			

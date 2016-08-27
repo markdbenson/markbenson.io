@@ -1,0 +1,36 @@
+---
+title: ATOM
+layout: atom
+extension: .xml
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+  <title>[% site.name %]</title>
+  <link href="[% site.url %]"/>
+  <link type="application/atom+xml" rel="self" href="[% site.url %]/feeds/atom.xml" />
+  <icon>[% site.url %]/images/favicon.png</icon>
+  <updated>[% site.time | xml_escape %]</updated>
+  <id>[% site.url %]/</id>
+  <author>
+    <name>Mark Benson</name>
+    <email>mark@vanilladraft.com</email>
+  </author>
+
+  [% for page in site.categories.notabene %]
+  <entry>
+    <id>[% site.url %][% page.id %]</id>
+    <link type="text/html" rel="alternate" href="[% page.url %]"/>
+    <title>[% page.title %]</title>
+    <published>[% page.date | xml_escape %]</published>
+    <updated>[% page.date | xml_escape %]</updated>
+    <author>
+      <name>Mark Benson</name>
+      <uri>[% site.url %]</uri>
+    </author>
+    <content type="html">[% page.content | xml_escape %]</content>
+  </entry>
+  [% end %]
+ 
+</feed>
+
