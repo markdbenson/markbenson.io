@@ -2,7 +2,7 @@ BASEDIR=$(CURDIR)
 INPUTDIR=$(BASEDIR)/_source
 OUTPUTDIR=$(BASEDIR)/_output
 
-S3_BUCKET=vanilladraft.com
+S3_BUCKET=markbenson.io
 
 build:
 	dapper build
