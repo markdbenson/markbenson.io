@@ -112,9 +112,9 @@ menu: cv
                     <span class="blog2-month">[% use date %][% date.format(post.date, "%d %B %Y") %]</span><br />
                   </div>
                   <div class="post-prev-title">
-                    <h3><a href="[% url %]">[% post.title | smart %]</a></h3>
+                    <h3>[% post.title | smart %]</h3>
                     <div class="post-prev-info">
-                      <a href="/publications/">PUBLICATION</a><span class="slash-divider">/</span><a href="/preface/">MARK BENSON</a>
+                      PUBLICATION<span class="slash-divider">/</span><a href="/preface/">MARK BENSON</a>
                     </div>
                   </div>
                 </div>
