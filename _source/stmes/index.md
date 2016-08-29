@@ -3,17 +3,17 @@ layout: page
 title: The Art of Software Thermal Management for Embedded Systems
 subtitle: "An introduction to the art of controlling the thermodynamic behavior of computing systems with software."
 menu: cv
-header: off
+header: transparent
 ---
 
 
 <!-- FEATURES 1 -->
-<div id="about" class="page-section" style="background-image: url(/images/static-media/circuits-board_00450801.jpg)">
+<div id="about" class="page-section" style="background-image: url(/images/circuits-board_00450801.jpg)">
   <div class="container fes1-cont">
     <div class="row">
             
       <div class="col-md-4 fes1-img-cont wow fadeInUp">
-        <img src="/images/static-media/stmes_cover_333x500.jpg" alt="img">
+        <img src="/images/stmes_cover_333x500.jpg" alt="img">
       </div>
               
       <div class="col-md-8">

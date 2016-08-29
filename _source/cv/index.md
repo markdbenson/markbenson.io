@@ -93,7 +93,7 @@ menu: cv
 
 
 <!-- PUBLICATIONS -->
-<div class="page-section pt-110-b-30-cont grey-light-bg">
+<div class="page-section pt-110-b-30-cont grey-light-bg" id="publications">
         <div class="container">
 
           <div class="mb-50">

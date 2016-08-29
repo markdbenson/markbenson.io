@@ -3,11 +3,9 @@ layout: page
 title: Colophon
 subtitle: "How this site was made"
 menu: colophon
-masthead: on
 ---
 
-<div class="container p-80-cont">
-<div class="row">
+<div class="container">
 
 <p>This site is written and published using a static content management system that I wrote in perl called <a href="/dapper/" title="Dapper">Dapper</a>.</p>
 
@@ -44,6 +42,5 @@ $ dapper serve      # Build and serve locally at http://localhost:8000
 <li>Amazon S3</li>
 </ul>
 
-</div>
 </div>
 
