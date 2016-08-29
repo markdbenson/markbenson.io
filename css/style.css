@@ -267,7 +267,8 @@ body {
 	line-height: 25px;
 	font-family: 'Open Sans', Arial, Helvetica, sans-serif; 
 	font-weight: normal;
-	color: #7e8082; 
+	/* color: #7e8082;  */
+    color: #333;
 	background-color: #fff;
 	-webkit-font-smoothing: antialiased !important;
 	-webkit-text-size-adjust: 100% !important;
@@ -1218,6 +1219,7 @@ support for no js
 .pt-110-b-80-cont{ padding-top:110px; padding-bottom:80px;}
 .pt-120-b-100-cont{ padding-top:120px; padding-bottom:100px;}
 .pt-150-b-110-cont{ padding-top:150px; padding-bottom:110px;}
+.pt-150-b-50-cont{ padding-top:150px; padding-bottom:50px;}
 
 @media only screen and (max-width : 1024px) {
   .p-140-cont{ padding-top:120px; padding-bottom:120px;}
@@ -4039,8 +4041,8 @@ blockquote, blockquote p {
   font-family: 'Lato',Arial,Helvetica,sans-serif;
   /* font-size: 21px;
   line-height:32px; */
-  /* color:#4b4e53; */
-  font-weight:100;
+  color: #666;
+  font-weight:400;
 }
 blockquote p {
   margin-bottom:13px;
@@ -4572,6 +4574,7 @@ blockquote.custom-blockquote:before {
 .post-author-avatar {
   margin-right:20px;
   float:left;
+  width: 250px;
 }
 .post-author-container .comment-author {
   margin-top:7px;
