@@ -2,7 +2,6 @@
 layout: post
 title: "University of Minnesota - Twin Cities"
 logo: /images/logo-umn.png
-link: http://umn.edu/
 degree: Master of Science, Software Engineering
 start: 2005
 end: 2007

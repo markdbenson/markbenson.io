@@ -2,7 +2,6 @@
 layout: post
 title: "Bethel University"
 logo: /images/logo-bethel.png
-link: http://bethel.edu/
 degree: Bachelor of Science, Computer Science
 date: 1997-09-01 17:29:34
 categories: education

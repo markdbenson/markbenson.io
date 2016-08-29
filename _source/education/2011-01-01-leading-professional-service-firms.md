@@ -2,7 +2,6 @@
 layout: post
 title: "Harvard Business School"
 logo: /images/logo-hbs.png
-link: http://hbs.edu/
 degree: "Leading Professional Service Firms"
 start: 2011
 end: 2011

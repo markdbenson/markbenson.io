@@ -58,12 +58,12 @@ menu: cv
                 <div class="col-md-4 blog2-post-title-cont mb-30">
                   <div class="post-prev-date-cont" style="text-align: center" >
                     [% if post.logo %]
-                    <p><a href="[% post.link %]"><img src="[% post.logo %]" width="80px" /></a></p>
+                    <p><img src="[% post.logo %]" width="80px" /></p>
                     [% end %]
                     <p>[% post.start %] - [% post.end %]</p>
                   </div>
                   <div class="post-prev-title">
-                    <h3><a href="[% post.link %]">[% post.degree | smart %]</a></h3>
+                    <h3>[% if post.link %]<a href="[% post.link %]">[% end %][% post.degree | smart %][% if post.link %]</a>[% end %]</h3>
                     <div class="post-prev-info">
                       <p>[% post.title %]</p>
                     </div>
