@@ -4574,7 +4574,6 @@ blockquote.custom-blockquote:before {
 .post-author-avatar {
   margin-right:20px;
   float:left;
-  width: 250px;
 }
 .post-author-container .comment-author {
   margin-top:7px;
@@ -5883,16 +5882,21 @@ button {
 	background-color:#575757;
 }
 a {
-  color: #4b4e53;
-	outline: none !important;
-  text-decoration: none;
+  /* color: #4b4e53; */
+  /* outline: none !important; */
+  text-decoration: none; 
   transition: all .3s ease 0s;
 }
 a:hover {
-  color: #97999c;
-  text-decoration: none;
+  /* color: #97999c; */
+  /* text-decoration: none;  */
   transition: all .3s ease 0s;
 	cursor:pointer;
+}
+a:visited {
+  /* color: #97999c; */
+  /* text-decoration: none; */
+  transition: all .3s ease 0s;
 }
 .a-dark{
 	color: #101010;

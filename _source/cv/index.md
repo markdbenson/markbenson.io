@@ -29,9 +29,9 @@ menu: cv
               <div class="col-md-8" style="font-size: 1.3em; line-height: 1.3em;">
                 <h1>Mark Benson, CTO and Software Leader, Specializing in the Internet of Things</h1>
                 <p class="mb-20">Accomplished C-level technology leader. Experienced in strategic, operational, and financial management of cross-functional teams in highly-competitive markets. Successful track record of defining and realizing pragmatic product strategies to meet the requirements of complex enterprises across multiple functions and verticals. Strong interpersonal and formal communication skills.</p>
-                <p class="mb-20"><span class="bold">SKILLS:</span> Technology Leadership | Strategic Planning and Execution | Product Development | Intellectual Property Portfolio Management | Software Architecture | Information Security</p>
+                <p class="mb-20"><span class="bold">SKILLS:</span> Product Development | Technology Leadership | Strategic Planning and Execution | Intellectual Property Portfolio Management | Software Architecture | Information Security | Competitive Strategy | Organizational Behavior</p>
                 <p class="mb-30"><span class="bold">STRENGTHS:</span> Learner, Restorative, Individualization, Achiever, Intellection.</p>
-                <p class="mb-20"><a class="button medium deeporange" href="/media/mdb_resume_2016.pdf">Download CV</a></p>
+                <p class="mb-20"><a class="button large deeporange" href="/media/mdb_resume_2016.pdf">Download CV</a></p>
               </div>
 
             </div>
@@ -112,7 +112,7 @@ menu: cv
                     <span class="blog2-month">[% use date %][% date.format(post.date, "%d %B %Y") %]</span><br />
                   </div>
                   <div class="post-prev-title">
-                    <h3>[% post.title | smart %]</h3>
+                    <h3><a href="[% post.url %]" title="Read [% post.title | smart %]">[% post.title | smart %]</a></h3>
                     <div class="post-prev-info">
                       PUBLICATION<span class="slash-divider">/</span><a href="/preface/">MARK BENSON</a>
                     </div>
@@ -163,7 +163,7 @@ menu: cv
                     [% if post.logo %]
                     <p><img src="[% post.logo %]" /></p>
                     [% end %]
-                    [% post.start %] &ndash; [% post.end %]<br />
+                    [% post.start %] &ndash;<br />[% post.end %]<br />
                   </div>
                   <div class="post-prev-title">
                     <h3>[% post.title | smart %]</h3>
@@ -252,10 +252,10 @@ menu: cv
               <div class="row">
 
                 <div class="col-md-4 blog2-post-title-cont">
-                  <div class="post-prev-date-cont">
+                  <div class="post-prev-date-cont col-sm-4">
                     [% use date %][% date.format(post.date, "%d %B %Y") %]<br />
                   </div>
-                  <div class="post-prev-title">
+                  <div class="post-prev-title col-sm-8">
                     <h3><a href="[% post.link %]">[% post.title | smart %]</a></h3>
                     <div class="post-prev-info">
                       [% post.office %] [% post.number %]<br />

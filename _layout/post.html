@@ -11,7 +11,7 @@ layout: page
 [% end %]
 
 <div class="post-prev-info">
-  <a href="[% page.url %]" title="Read [% page.title %]">[% use date %][% date.format(page.date, '%d %B %Y') %]</a>
+  [% use date %][% date.format(page.date, '%d %B %Y') %]
   <span class="slash-divider">/</span><a href="/preface/">Mark Benson</a>
 </div>
                   
@@ -22,18 +22,18 @@ layout: page
 <!-- AUTHOR -->   
 <div class="post-author-container clearfix mb-50">
               
-  <div class="post-author-avatar">
+  <div class="col-sm-6 col-md-5 col-lg-4">
     <a href="/preface/"><img alt="ava" src="/images/mug.jpg" ></a>
   </div>
                 
-  <div class="comment-content">
+  <div class="col-sm-6 col-md-7 col-lg-8">
                   
     <div class="comment-author">
-      <a href="/preface/">By Mark Benson</a>
+      By Mark Benson
     </div>
                   
-    <p>Accomplished C-level technology leader. Experienced in strategic, operational, and financial management of cross-functional teams in highly-competitive markets. Successful track record of defining and realizing pragmatic product strategies to meet the requirements of complex enterprises across multiple functions and verticals. Strong interpersonal and formal communication skills.</p>
-    <p><a href="/preface/" class="button medium deeporange">Read more in the preface</a></p>
+    <p>Mark Benson is the Chief Technology Officer at <a href="http://exosite.com">Exosite</a>, an Internet of Things (IoT) platform company based in Minneapolis, MN. Mark is a regular speaker and writer on the intersection of technology, business, and society as it relates to product development, technology leadership, strategic planning and execution, intellectual property portfolio management, software architecture, information security, competitive positioning, and organizational behavior.</p>
+    <p><a href="/preface/" class="button small deeporange">Read more about Mark in the preface</a></p>
                                              
   </div>
 </div>

@@ -25,7 +25,9 @@
       </div>
       <!-- END HEADER -->
 
+      [% unless page.header == "transparent" %]
       <div class="page-section pt-150-b-50-cont">
+
         <div class="container">
             <div class="mb-30">
               <h2 class="section-title"><span class="bold">[% page.title | upper %]</span>[% if page.subtitle %]<br /><span style="font-size: .7em;">[% page.subtitle | smart %]</span>[% end %]</h2>
@@ -35,6 +37,9 @@
         [% page.content %]
 
       </div>
+      [% else %]
+        [% page.content %]
+      [% end %]
 
     [% include "footer.html" %]
 
