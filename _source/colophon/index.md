@@ -33,7 +33,7 @@ $ dapper serve      # Build and serve locally at http://localhost:8000
 <li>Easy instructions for publishing to Amazon S3 or Github Pages</li>
 </ul>
 
-<p>You can see the full Dapper documentation here: <a href="http://vanilladraft.com/dapper/">http://vanilladraft.com/dapper/</a></p>
+<p>You can see the full Dapper documentation here: <a href="/dapper/">http://markbenson.io/dapper/</a></p>
 
 <p>Other tools I use:</p>
 
