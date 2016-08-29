@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Executive Corner"
+title: "Executive Corner: Mark Benson"
 issuer: Hewlett Packard Enterprise
 date: 2015-10-01 20:42:55
 categories: honors
