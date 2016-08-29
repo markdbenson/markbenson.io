@@ -22,30 +22,19 @@
 
         [% include "header.html" %]
 
-        [% unless page.header == "off" %]
-        <!-- PAGE TITLE SMALL DARK -->
-        <div class="page-title-cont page-title-small [% if page.header == "off" %]grey-dark-bg[% end %]">
-          <div class="relative container align-left">
-            <div class="row">
-              
-              <div class="col-md-8">
-                <h1 class="page-title">[% page.title %]</h1>
-                  [% if page.subtitle %]
-                  <div class="page-sub-title">
-                    [% page.subtitle %]
-                  </div>
-                  [% end %]
-              </div>
-        
-            </div>
-          </div>
-        </div>
-        [% end %]
-
       </div>
       <!-- END HEADER -->
 
-      [% page.content %]
+      <div class="page-section pt-150-b-50-cont">
+        <div class="container">
+            <div class="mb-30">
+              <h2 class="section-title"><span class="bold">[% page.title | upper %]</span>[% if page.subtitle %]<br /><span style="font-size: .7em;">[% page.subtitle | smart %]</span>[% end %]</h2>
+            </div>
+        </div>
+
+        [% page.content %]
+
+      </div>
 
     [% include "footer.html" %]
 

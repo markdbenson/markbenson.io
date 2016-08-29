@@ -1,6 +1,6 @@
         <!-- HEADER 1 BLACK -->
-				<header id="nav" class="header header-1 black-header [% if page.header == "of" %]no-transparent mobile-no-transparent[% else %]mobile-no-transparent[% end %]">
-				  <div class="header-wrapper [% if page.header == "of" %]grey-dark-bg[% end %]">
+				<header id="nav" class="header header-1 black-header [% unless page.header == "transparent" %]no-transparent mobile-no-transparent[% end %]">
+				  <div class="header-wrapper [% unless page.header == "transparent" %]grey-dark-bg[% end %]">
 					<div class="container-m-30 clearfix">
 					  <div class="logo-row">
 					  

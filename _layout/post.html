@@ -2,65 +2,40 @@
 layout: page
 ---
 
-<!-- CONTENT CONTAINER -->
-<div class="container p-80-cont">
-  <div class="row">
-          
-  <!-- CONTENT -->
-  <div class="col-md-12 blog-main-posts">
-          
-    <!-- POST ITEM -->
-    <div class="blog-post wow fadeIn pb-50">
-      
-      <div class="post-prev-text">
-        [% page.content | smart %]
-      </div>
+<div class="container">
                   
-      <div class="post-prev-more-cont clearfix">
-        <div class="post-prev-more left">
-          <div class="tags">
-            <a href="">Design</a>
-            <a href="">Development</a>
-            <a href="">Minimal</a>
-          </div>
-        </div>
-        <div class="right" >
-          <a href="blog-single-sidebar-right.html#comments" class="post-prev-count"><span aria-hidden="true" class="icon_comment_alt"></span><span class="icon-count">21</span></a>
-          <a href="http://themeforest.net/user/abcgomel/portfolio?ref=abcgomel" class="post-prev-count"><span aria-hidden="true" class="icon_heart_alt"></span><span class="icon-count">53</span></a>
-          <a href="#" class="post-prev-count dropdown-toggle" data-toggle="dropdown" aria-expanded="false" ><span aria-hidden="true" class="social_share"></span></a>
-          <ul class="social-menu dropdown-menu dropdown-menu-right" role="menu">
-            <li><a href="#"><span aria-hidden="true" class="social_facebook"></span></a></li>
-            <li><a href="#"><span aria-hidden="true" class="social_twitter"></span></a></li>
-            <li><a href="#"><span aria-hidden="true" class="social_dribbble"></span></a></li>
-          </ul>
-        </div>
-      </div>
-    </div>
-    <!-- END POST ITEM -->
+[% if page.image %]
+<div class="post-prev-img">
+  <img src="[% page.image %]" alt="img">
+</div>
+[% end %]
 
-              
-    <!-- AUTHOR -->   
-    <div class="post-author-container clearfix mb-50">
-              
-      <div class="post-author-avatar">
-        <img alt="ava" src="images/content/avatar-1.png" >
-      </div>
-                
-      <div class="comment-content">
-        <div class="comment-author">
-          <a href="http://themeforest.net/user/abcgomel/portfolio?ref=abcgomel">JOHN DOE</a>
-        </div>
+<div class="post-prev-info">
+  <a href="[% page.url %]" title="Read [% page.title %]">[% use date %][% date.format(page.date, '%d %B %Y') %]</a>
+  <span class="slash-divider">/</span><a href="/preface/">Mark Benson</a>
+</div>
                   
-        <p>CEO & Founder Haswell. Data lover, hobby chef, econometrician with strong experiences in the finance industry. </p>
-                                             
-      </div>
-    </div>
-    <!-- END AUTHOR -->
-
+<div class="post-prev-text">
+  [% page.content | smart %]
+</div>
+                  
+<!-- AUTHOR -->   
+<div class="post-author-container clearfix mb-50">
+              
+  <div class="post-author-avatar">
+    <a href="/preface/"><img alt="ava" src="/images/mug.jpg" ></a>
   </div>
-  <!-- END CONTENT -->
-
+                
+  <div class="comment-content">
+                  
+    <div class="comment-author">
+      <a href="/preface/">By Mark Benson</a>
+    </div>
+                  
+    <p>Accomplished C-level technology leader. Experienced in strategic, operational, and financial management of cross-functional teams in highly-competitive markets. Successful track record of defining and realizing pragmatic product strategies to meet the requirements of complex enterprises across multiple functions and verticals. Strong interpersonal and formal communication skills.</p>
+    <p><a href="/preface/" class="button medium deeporange">Read more in the preface</a></p>
+                                             
   </div>
 </div>
-<!-- END CONTENT CONTAINER -->
+</div>
 
