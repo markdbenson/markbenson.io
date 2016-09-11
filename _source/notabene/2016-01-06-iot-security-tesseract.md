@@ -4,6 +4,7 @@ title: "The Security Tesseract of the Internet of Things"
 date: 2016-01-06 22:06:34
 categories: notabene
 thumbnail: "/images/IoTSecurityLayers.png"
+feature: yes
 ---
 
 Devices all around us are becoming connected to the Internet. A quick search online turns up a multitude of wild predictions. One thing is for certain: by 2020, there are going to be a lot of devices connected to the Internet.
