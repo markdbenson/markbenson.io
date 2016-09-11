@@ -42,7 +42,7 @@ menu: cv
 
 
 <!-- EDUCATION -->
-<div class="page-section pt-110-b-30-cont">
+<div class="page-section pt-110-b-30-cont" id="education">
         <div class="container">
 
           <div class="mb-50">
@@ -145,7 +145,7 @@ menu: cv
 
 
 <!-- EXPERIENCE -->
-<div class="page-section pt-110-b-30-cont">
+<div class="page-section pt-110-b-30-cont" id="experience">
         <div class="container">
 
           <div class="mb-50">
@@ -191,7 +191,7 @@ menu: cv
 
 
 <!-- HONORS & AWARDS -->
-<div class="page-section pt-110-b-30-cont grey-light-bg">
+<div class="page-section pt-110-b-30-cont grey-light-bg" id="honors">
         <div class="container">
 
           <div class="mb-50">
@@ -238,7 +238,7 @@ menu: cv
 
 
 <!-- PATENTS -->
-<div class="page-section pt-110-b-30-cont">
+<div class="page-section pt-110-b-30-cont" id="patents">
         <div class="container">
 
           <div class="mb-50">
