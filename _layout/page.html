@@ -28,11 +28,13 @@
       [% unless page.header == "transparent" %]
       <div class="page-section pt-150-b-50-cont">
 
+        [% unless page.style == "plain" %]
         <div class="container">
             <div class="mb-30">
               <h2 class="section-title"><span class="bold">[% page.title | upper | smart %]</span>[% if page.subtitle %]<br /><span style="font-size: .7em;">[% page.subtitle | smart %]</span>[% end %]</h2>
             </div>
         </div>
+        [% end %]
 
         [% page.content %]
 
