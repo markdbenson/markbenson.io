@@ -20,6 +20,36 @@ menu: preface
 <p class="mb-30"><span class="bold">STRENGTHS</span>: Learner, Restorative, Individualization, Achiever, Intellection.</p>
               
               <p><a href="/cv/" class="button large deeporange">Carriculum Vitae</a></p>
+
+[% comment %]
+<div class="divider"><i class="fa fa-star"></i></div>
+<dl class="toggle">
+  <dt>
+    <a href="#">STORIES: Posted originally on Jayber.org</a>
+  </dt>
+  <dd>
+    <table class="table table-hover mb-40">
+      <thead>
+        <tr>
+          <th>Date</th>
+          <th>Title</th>
+        </tr>
+      </thead>
+      <tbody>
+        [% for post in site.categories.stories.reverse %]
+        <tr>
+          <td>[% use date %][% date.format(post.date, "%d %B %Y") %]</td>
+          <td>
+            <p><a href="[% post.url %]" title="Read [% post.title | smart %]">[% post.title | smart %]</a></p>
+          </td>
+        </tr>
+        [% end %]
+      </tbody>
+    </table>
+  </dd>
+</dl>
+[% end %]
+
   </div>
 </div>
 
