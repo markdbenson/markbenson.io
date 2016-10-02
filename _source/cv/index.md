@@ -97,7 +97,7 @@ menu: cv
         <div class="container">
 
           <div class="mb-50">
-            <h2 class="section-title pr-0"><span class="bold">PUBLICATIONS</span></h2>
+            <h2 class="section-title pr-0"><span class="bold">PUBLICATIONS & PRESENTATIONS</span></h2>
           </div>
 
           <div class="row">

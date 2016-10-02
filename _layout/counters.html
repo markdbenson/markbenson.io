@@ -10,17 +10,6 @@
           <!-- Item -->
           <div class="col-xs-6 col-sm-3">
             <div class="count-number">
-              [% use date %]
-              [% date.format(date.now, '%Y') - 1999 %]
-            </div>
-            <div class="count-descr">
-              <a href="/cv/#experience"><span class="count-title">YEARS OF EXPERIENCE</span></a>
-            </div>
-          </div>
-
-          <!-- Item -->
-          <div class="col-xs-6 col-sm-3">
-            <div class="count-number">
               [% p = 0 %]
               [% for post in site.categories.publications %]
                 [% p = p + 1 %]
@@ -29,6 +18,17 @@
             </div>
             <div class="count-descr">
               <a href="/cv/#publications"><span class="count-title">PUBLICATIONS</span></a>
+            </div>
+          </div>
+
+          <!-- Item -->
+          <div class="col-xs-6 col-sm-3">
+            <div class="count-number">
+              [% use date %]
+              [% date.format(date.now, '%Y') - 1999 %]
+            </div>
+            <div class="count-descr">
+              <a href="/cv/#experience"><span class="count-title">YEARS OF EXPERIENCE</span></a>
             </div>
           </div>
 
