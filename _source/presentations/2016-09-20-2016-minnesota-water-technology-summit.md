@@ -2,7 +2,7 @@
 layout: post
 title: "Future on Water: IoT Infiltration into Water Management Solutions"
 date: 2016-09-20 14:57:12
-categories: publications
+categories: presentations 
 publisher: Minnesota Water Technology Summit
 ---
 

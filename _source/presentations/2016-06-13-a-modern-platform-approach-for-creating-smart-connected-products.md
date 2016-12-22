@@ -2,7 +2,7 @@
 layout: post
 title: "A Modern Platform Approach for Creating Smart Connected Products"
 date: 2016-06-13 16:38:49
-categories: publications
+categories: presentations
 publisher: Sensors Expo
 ---
 

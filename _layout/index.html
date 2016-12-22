@@ -74,7 +74,7 @@
         <div class="container">
 
           <div class="mb-50">
-            <h2 class="section-title pr-0">RECENT <span class="bold">PUBLICATIONS & PRESENTATIONS</span>
+            <h2 class="section-title pr-0">RECENT <span class="bold">PUBLICATIONS</span>
             </h2>
           </div>
 
@@ -98,7 +98,7 @@
                     [% if post.publisher %]<span class="small bold">[% post.publisher | upper %]</span><br />[% end %]
                     <h3><a href="[% post.url %]">[% post.title | smart %]</a></h3>
                     <div class="post-prev-info">
-                      <p class="small"><a href="/cv/#publications">PUBLICATION</a><span class="slash-divider">/</span><a href="/preface/">MARK BENSON</a></p>
+                      <p class="small"><a href="/cv/#[% post.categories | lower %]">[% post.categories | upper %]</a><span class="slash-divider">/</span><a href="/preface/">MARK BENSON</a></p>
                     </div>
                   </div>
                 </div>
@@ -117,7 +117,7 @@
 
           <div class="row">
             <div class="mb-100">
-              <a href="/cv/#publications" class="section-more right button medium deeporange">More publications & presentations</a>
+              <a href="/cv/#publications" class="section-more right button medium deeporange">More publications</a>
             </div>
           </div>
 
@@ -126,11 +126,67 @@
       <!-- END PUBLICATIONS -->
 
 
+      <!-- PRESENTATIONS -->
+      <div class="page-section pt-110-b-30-cont grey-light-bg">
+        <div class="container">
+
+          <div class="mb-50">
+            <h2 class="section-title pr-0">RECENT <span class="bold">PRESENTATIONS</span>
+            </h2>
+          </div>
+
+          <div class="row">
+
+            [% for post in site.categories.presentations.reverse %]
+            [% if post.link %]
+              [% url = post.link %]
+            [% else %]
+              [% url = post.url %]
+            [% end %]
+            <div class="col-md-12 wow fadeInRight pb-30">
+              <div class="row">
+
+                <div class="col-md-4 blog2-post-title-cont">
+                  <div class="post-prev-date-cont">
+                    <p><span class="small">[% use date %][% date.format(post.date, "%d %B %Y") | upper %]</span></p>
+                    [% if post.thumbnail %]<p><a href="[% url %]" title="[% post.title | smart %]"><img src="[% post.thumbnail %]" /></a></p>[% end %]
+                  </div>
+                  <div class="post-prev-title">
+                    [% if post.publisher %]<span class="small bold">[% post.publisher | upper %]</span><br />[% end %]
+                    <h3><a href="[% post.url %]">[% post.title | smart %]</a></h3>
+                    <div class="post-prev-info">
+                      <p class="small"><a href="/cv/#[% post.categories | lower %]">[% post.categories | upper %]</a><span class="slash-divider">/</span><a href="/preface/">MARK BENSON</a></p>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="col-md-8">
+                  <div class="blog2-post-prev-text">
+                    [% post.content | smart %]
+                  </div>
+                </div>
+
+              </div>
+            </div>
+            [% if loop.count >= 2 %][% last %][% end %] [% end %]
+
+          </div>
+
+          <div class="row">
+            <div class="mb-100">
+              <a href="/cv/#presentations" class="section-more right button medium deeporange">More presentations</a>
+            </div>
+          </div>
+
+        </div>
+      </div>
+      <!-- END PRESENTATIONS -->
+
 
 
 
       <!-- DAPPER -->
-      <div class="page-section grey-light-bg">
+      <div class="page-section">
         <div class="container fes4-cont">
           <div class="row">
 
@@ -219,7 +275,7 @@
 
 
       <!-- NOTA BENE -->
-      <div class="page-section pt-110-b-30-cont">
+      <div class="page-section pt-110-b-30-cont grey-light-bg">
         <div class="container">
 
           <div class="mb-50">

@@ -14,10 +14,14 @@
               [% for post in site.categories.publications %]
                 [% p = p + 1 %]
               [% end %]
+              [% for post in site.categories.presentations %]
+                [% p = p + 1 %]
+              [% end %]
               [% p %]
             </div>
             <div class="count-descr">
-              <a href="/cv/#publications"><span class="count-title">PUBLICATIONS</span></a>
+              <a href="/cv/#publications"><span class="count-title">PUBLICATIONS</span></a> &
+              <a href="/cv/#presentations"><span class="count-title">PRESENTATIONS</span></a>
             </div>
           </div>
 

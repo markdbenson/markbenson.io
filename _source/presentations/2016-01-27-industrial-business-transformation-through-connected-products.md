@@ -2,7 +2,7 @@
 layout: post
 title: "Industrial Business Transformation Through Connected Products"
 date: 2016-01-27 16:13:42
-categories: publications
+categories: presentations
 publisher: IoT Evolution
 ---
 

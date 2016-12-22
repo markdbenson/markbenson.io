@@ -2,7 +2,7 @@
 layout: post
 title: "Building Sticky Brand Loyalty with a Connected Product Strategy"
 date: 2016-01-27 00:09:34
-categories: publications 
+categories: presentations
 publisher: IoT Evolution
 ---
 

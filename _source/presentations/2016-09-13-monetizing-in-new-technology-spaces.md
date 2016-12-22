@@ -2,7 +2,7 @@
 layout: post
 title: "Monetizing in New Technology Spaces"
 date: 2016-09-13 08:33:09
-categories: publications
+categories: presentations
 publisher: Frost & Sullivan Growth, Innovation, and Leadership
 ---
 

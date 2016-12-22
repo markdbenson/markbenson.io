@@ -2,7 +2,7 @@
 layout: post
 title: "Introduction to the M2M Ecosystem: Emerging Trends"
 date: 2013-03-14 00:00:00
-categories: publications
+categories: presentations 
 publisher: IoT Twin Cities
 ---
 

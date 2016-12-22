@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Carriculum Vitae
-subtitle: "Education, Publications, Experience, Honors & Awards, and Patents."
+subtitle: "Education, publications, experience, presentations, patents, and honors & awards."
 menu: cv
 ---
 
@@ -60,12 +60,12 @@ menu: cv
                     [% if post.logo %]
                     <p><img src="[% post.logo %]" width="80px" /></p>
                     [% end %]
-                    <p>[% post.start %] - [% post.end %]</p>
+                    <p class="small">[% post.start %] - [% post.end %]</p>
                   </div>
                   <div class="post-prev-title">
                     <h3>[% if post.link %]<a href="[% post.link %]">[% end %][% post.degree | smart %][% if post.link %]</a>[% end %]</h3>
                     <div class="post-prev-info">
-                      <p>[% post.title %]</p>
+                      <p class="small">[% post.title %]</p>
                     </div>
                   </div>
                 </div>
@@ -97,7 +97,7 @@ menu: cv
         <div class="container">
 
           <div class="mb-50">
-            <h2 class="section-title pr-0"><span class="bold">PUBLICATIONS & PRESENTATIONS</span></h2>
+            <h2 class="section-title pr-0"><span class="bold">PUBLICATIONS</span></h2>
           </div>
 
           <div class="row">
@@ -116,7 +116,7 @@ menu: cv
                     [% if post.publisher %]<span class="small bold">[% post.publisher | upper %]</span>[% end %]
                     <h3><a href="[% post.url %]" title="Read [% post.title | smart %]">[% post.title | smart %]</a></h3>
                     <div class="post-prev-info">
-                      <p class="small">PUBLICATION<span class="slash-divider">/</span><a href="/preface/">MARK BENSON</a></p>
+                      <p class="small">[% post.categories | upper %]<span class="slash-divider">/</span><a href="/preface/">MARK BENSON</a></p>
                     </div>
                   </div>
                 </div>
@@ -157,12 +157,12 @@ menu: cv
                     [% if post.logo %]
                     <p><img src="[% post.logo %]" /></p>
                     [% end %]
-                    [% post.start %] &ndash;<br />[% post.end %]<br />
+                    <p class="small">[% post.start | upper %] &ndash;<br />[% post.end | upper %]</p>
                   </div>
                   <div class="post-prev-title">
                     <h3>[% post.title | smart %]</h3>
                     <div class="post-prev-info">
-                      [% post.location %]
+                      <p class="small">[% post.location %]</p>
                     </div>
                   </div>
                 </div>
@@ -184,6 +184,95 @@ menu: cv
 <!-- END EXPERIENCE -->
 
 
+<!-- PRESENTATIONS -->
+<div class="page-section pt-110-b-30-cont grey-light-bg" id="presentations">
+        <div class="container">
+
+          <div class="mb-50">
+            <h2 class="section-title pr-0"><span class="bold">PRESENTATIONS</span></h2>
+          </div>
+
+          <div class="row">
+
+            [% for post in site.categories.presentations.reverse %] [% if post.link %][% url = post.link %][% else %][% url = post.url
+            %][% end %]
+            <div class="col-md-12 pb-30">
+              <div class="row">
+
+                <div class="col-md-4 blog2-post-title-cont">
+                  <div class="post-prev-date-cont">
+                    <p><span class="small">[% use date %][% date.format(post.date, "%d %B %Y") | upper %]</span></p>
+                    [% if post.thumbnail %]<p><a href="[% url %]" title="[% post.title | smart %]"><img src="[% post.thumbnail %]" /></a></p>[% end %]
+                  </div>
+                  <div class="post-prev-title">
+                    [% if post.publisher %]<span class="small bold">[% post.publisher | upper %]</span>[% end %]
+                    <h3><a href="[% post.url %]" title="Read [% post.title | smart %]">[% post.title | smart %]</a></h3>
+                    <div class="post-prev-info">
+                      <p class="small">[% post.categories | upper %]<span class="slash-divider">/</span><a href="/preface/">MARK BENSON</a></p>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="col-md-8">
+                  <div class="blog2-post-prev-text">
+                    [% post.content | smart %]
+                  </div>
+                </div>
+
+              </div>
+            </div>
+            [% end %]
+
+          </div>
+
+        </div>
+</div>
+<!-- END PRESENTATIONS -->
+
+<!-- PATENTS -->
+<div class="page-section pt-110-b-30-cont" id="patents">
+        <div class="container">
+
+          <div class="mb-50">
+            <h2 class="section-title pr-0"><span class="bold">PATENTS</span></h2>
+          </div>
+
+          <div class="row">
+
+            [% for post in site.categories.patents.reverse %]
+            <div class="col-md-12 pb-30">
+              <div class="row">
+
+                <div class="col-md-4 blog2-post-title-cont">
+                  <div class="post-prev-date-cont col-sm-4">
+                    <p class="small">[% use date %][% date.format(post.date, "%d %B %Y") | upper %]</p>
+                  </div>
+                  <div class="post-prev-title col-sm-8">
+                    <h3><a href="[% post.link %]">[% post.title | smart %]</a></h3>
+                    <div class="post-prev-info">
+                      <p class="small">[% post.office %] [% post.number %]<br />
+                      Patent [% post.status %]</p>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="col-md-8">
+                  <div class="blog2-post-prev-text">
+                    [% post.content | smart %]
+                  </div>
+                </div>
+
+              </div>
+            </div>
+            [% end %]
+
+          </div>
+
+        </div>
+</div>
+<!-- END PATENTS -->
+
+
 <!-- HONORS & AWARDS -->
 <div class="page-section pt-110-b-30-cont grey-light-bg" id="honors">
         <div class="container">
@@ -200,7 +289,7 @@ menu: cv
 
                 <div class="col-md-4 blog2-post-title-cont">
                   <div class="post-prev-date-cont">
-                    [% use date %][% date.format(post.date, "%B %Y") %]<br />
+                    <p class="small">[% use date %][% date.format(post.date, "%B %Y") | upper %]</p>
                     <div class="fes4-box-icon" style="margin-top: 30px">
                       <div class="icon icon-basic-cup"></div>
                     </div>
@@ -208,7 +297,7 @@ menu: cv
                   <div class="post-prev-title">
                     <h3><a href="[% post.link %]">[% post.title | smart %]</a></h3>
                     <div class="post-prev-info">
-                      [% post.issuer %]
+                      <p class="small">[% post.issuer %]</p>
                     </div>
                   </div>
                 </div>
@@ -230,49 +319,6 @@ menu: cv
 <!-- END HONORS & AWARDS -->
 
 
-
-<!-- PATENTS -->
-<div class="page-section pt-110-b-30-cont" id="patents">
-        <div class="container">
-
-          <div class="mb-50">
-            <h2 class="section-title pr-0"><span class="bold">PATENTS</span></h2>
-          </div>
-
-          <div class="row">
-
-            [% for post in site.categories.patents.reverse %]
-            <div class="col-md-12 pb-30">
-              <div class="row">
-
-                <div class="col-md-4 blog2-post-title-cont">
-                  <div class="post-prev-date-cont col-sm-4">
-                    [% use date %][% date.format(post.date, "%d %B %Y") %]<br />
-                  </div>
-                  <div class="post-prev-title col-sm-8">
-                    <h3><a href="[% post.link %]">[% post.title | smart %]</a></h3>
-                    <div class="post-prev-info">
-                      [% post.office %] [% post.number %]<br />
-                      Patent [% post.status %]
-                    </div>
-                  </div>
-                </div>
-
-                <div class="col-md-8">
-                  <div class="blog2-post-prev-text">
-                    [% post.content | smart %]
-                  </div>
-                </div>
-
-              </div>
-            </div>
-            [% end %]
-
-          </div>
-
-        </div>
-</div>
-<!-- END PATENTS -->
 
 <!-- CALL TO ACTION  -->
 <div class="port-view-more-cont-dark">

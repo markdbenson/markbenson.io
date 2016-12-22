@@ -2309,11 +2309,16 @@ table.shopping-cart-table tr th, table.shopping-cart-table tr td {
 .post-prev-img img {
   width: 100%;
 }
+.post-prev-title {
+  line-height:1.5em;
+}
 .post-prev-title h3{
   margin:0;
-	font-family: 'Open Sans',Arial,Helvetica,sans-serif;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  font-family: 'Open Sans',Arial,Helvetica,sans-serif;
   font-size:16px;
-  line-height:26px;
+  line-height:1.7em;
   font-weight:600;
 }
 .blog-main-posts .post-prev-img{
