@@ -3,6 +3,7 @@ layout: post
 title: "Data Analytics for IoT Device Deployments: Industry Trends and Architectural Trade Offs"
 date: 2016-09-28 15:06:32
 categories: publications
+publisher: Sensors Midwest
 ---
 
 Presented at [Sensors Midwest](http://sensorsmidwest.com/) [Industrial IoT University](http://sensorsmidwest.com/industrial-iot-conference/):

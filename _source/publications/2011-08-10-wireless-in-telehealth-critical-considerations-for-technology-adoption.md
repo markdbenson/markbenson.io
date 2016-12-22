@@ -3,6 +3,7 @@ layout: post
 title: "Wireless in Telehealth: Critical Considerations for Technology Adoption"
 date: 2011-08-10 04:36:52
 categories: publications
+publisher: Embedded Computing Design
 ---
 
 [Published](http://embedded-computing.com/articles/wireless-telehealth-strategy-logic-pd/) in [Embedded Computing Design (ECD)](http://embedded-computing.com/), by Mark Benson. 

@@ -3,6 +3,7 @@ layout: post
 title: "Five Avoidable Complications Of Corporate IoT Innovation Programs"
 date: 2016-12-21 12:24:38
 categories: publications
+publisher: Forbes
 ---
 
 [Published](http://www.forbes.com/sites/forbestechcouncil/2016/12/21/five-avoidable-complications-of-corporate-iot-innovation-programs/#478dfa346a88) in [Forbes](http://forbes.com/), by Mark Benson.

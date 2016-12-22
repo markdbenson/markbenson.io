@@ -3,6 +3,7 @@ layout: post
 title: "Monetizing in New Technology Spaces"
 date: 2016-09-13 08:33:09
 categories: publications
+publisher: Frost & Sullivan Growth, Innovation, and Leadership
 ---
 
 Presentation and facilitated think-tank session at [Frost & Sullivan Growth, Innovation, and Leadership, Silicon Valley 2016](http://ww2.frost.com/event/calendar/transformational-growth-strategies-future-proof-your-business/):

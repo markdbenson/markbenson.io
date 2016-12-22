@@ -3,6 +3,7 @@ layout: post
 title: "Introduction to the M2M Ecosystem: Emerging Trends"
 date: 2013-03-14 00:00:00
 categories: publications
+publisher: IoT Twin Cities
 ---
 
 Presented at the inagural [IoT Meetup in Minneapolis, MN](http://www.meetup.com/IoTTwinCitiesMN/), by Mark Benson.

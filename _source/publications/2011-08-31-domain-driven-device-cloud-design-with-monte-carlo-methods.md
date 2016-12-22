@@ -3,6 +3,7 @@ layout: post
 title: Domain-Driven Device Cloud Design with Monte Carlo Methods
 date: 2011-08-31 04:45:20
 categories: publications
+publisher: Embedded Systems Design
 ---
 
 [Published](http://www.eetimes.com/design/embedded/4219527/Using-Monte-Carlo-methods-to-design-domain-driven-device-clouds) in [Embedded Systems Design (ESD)](http://www.eetimes.com/design/embedded), by Mark Benson. 

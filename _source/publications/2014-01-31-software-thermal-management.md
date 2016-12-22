@@ -5,9 +5,14 @@ date: 2014-01-31 04:29:43
 categories: publications
 thumbnail: /images/stmes.jpg
 link: /stmes/
+publisher: Springer Verlag
 ---
 
-An introduction to the art of controlling the thermodynamic behavior of computing systems with software.<br /><br />Published by Springer, New York (2014). Available January 31st, 2014 via [Springer][ln1] and [Amazon][ln2].
+An introduction to the art of controlling the thermodynamic behavior of computing systems with software.
+
+> ABSTRACT: This book introduces Software Thermal Management (STM) as a means of reducing power consumption in a computing system in order to manage heat, improve component reliability and increase system safety. Whereas most books on thermal management describe mechanisms to remove heat, this book focuses on ways to avoid generating heat in the first place.
+
+Published by Springer, New York (2014). Available January 31st, 2014 via [Springer][ln1] and [Amazon][ln2].
 
 Distributors include: [Springer][ln3], [Amazon][ln4] ([UK][ln4a]), [cCampus][ln5], [Knetbooks][ln6], [Rakuten][ln7], [The Reading Room][ln8], [Bigger Books][ln9], [Bokus][ln10], [Todos Tus Libros (All Your Books)][ln11], [Abe][ln12], [Plautz][ln13], [Desch-Drexler][ln14], [All Bookstores][ln15], and [Foyles][ln16].
 

@@ -3,6 +3,7 @@ layout: post
 title: Preparing For Future Health Technology Trends by Analyzing Current Consumer Demand
 date: 2012-05-01 05:15:10
 categories: publications
+publisher: American Telemedicine Association
 ---
 
 [Presentation](http://www.logicpd.com/news/press-releases/logic-pd-to-speak-at-worlds-largest-telehealth-conference-ata-2012/) at the [American Telemedicine Association (ATA) Conference](http://www.americantelemed.org/), by Mark Benson. 

@@ -109,25 +109,19 @@ menu: cv
 
                 <div class="col-md-4 blog2-post-title-cont">
                   <div class="post-prev-date-cont">
-                    <span class="blog2-month">[% use date %][% date.format(post.date, "%d %B %Y") %]</span><br />
+                    <p><span class="small">[% use date %][% date.format(post.date, "%d %B %Y") | upper %]</span></p>
+                    [% if post.thumbnail %]<p><a href="[% url %]" title="[% post.title | smart %]"><img src="[% post.thumbnail %]" /></a></p>[% end %]
                   </div>
                   <div class="post-prev-title">
+                    [% if post.publisher %]<span class="small bold">[% post.publisher | upper %]</span>[% end %]
                     <h3><a href="[% post.url %]" title="Read [% post.title | smart %]">[% post.title | smart %]</a></h3>
                     <div class="post-prev-info">
-                      PUBLICATION<span class="slash-divider">/</span><a href="/preface/">MARK BENSON</a>
+                      <p class="small">PUBLICATION<span class="slash-divider">/</span><a href="/preface/">MARK BENSON</a></p>
                     </div>
                   </div>
                 </div>
 
-                [% if post.thumbnail %]
-                <div class="col-md-2">
-                  <p>
-                    <a href="[% url %]" title="[% post.title | smart %]"><img src="[% post.thumbnail %]" /></a>
-                  </p>
-                </div>
-                [% end %]
-
-                <div class="[% if post.thumbnail %]col-md-6[% else %]col-md-8[% end %]">
+                <div class="col-md-8">
                   <div class="blog2-post-prev-text">
                     [% post.content | smart %]
                   </div>

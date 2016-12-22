@@ -3,6 +3,7 @@ layout: post
 title: "The Rise of Platforms in the IoT"
 date: 2016-09-09 17:32:41
 categories: publications
+publisher: Peggy Smedley Institute
 ---
 
 Presented at the [Peggy Smedley Institute](http://learnitiot.com/) 2016 in Del Mar, CA:

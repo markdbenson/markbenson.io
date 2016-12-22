@@ -4,6 +4,7 @@ title: "5 Best Practices For Winning the IoT Security Arms Race"
 date: 2016-09-27 15:27:42
 categories: publications
 link: http://www.darkreading.com/operations/5-best-practices-for-winning-the-iot-security-arms-race/a/d-id/1327021
+publisher: Dark Reading
 ---
 
 Published in [Dark Reading](http://www.darkreading.com/operations/5-best-practices-for-winning-the-iot-security-arms-race/a/d-id/1327021):

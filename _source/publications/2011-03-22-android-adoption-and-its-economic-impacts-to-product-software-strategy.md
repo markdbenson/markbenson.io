@@ -3,6 +3,7 @@ layout: post
 title: Android Adoption and its Economic Impacts to Product Software Strategy
 date: 2011-03-22 03:54:48
 categories: publications
+publisher: Real-Time & Embedded Computing Conference
 ---
 
 [Keynote presentation](http://www.rtecc.com/conferences/view/47) at the [Real-Time & Embedded Computing Conference (RTECC)](http://www.rtecc.com/) in Minneapolis, MN, by Mark Benson.

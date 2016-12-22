@@ -3,6 +3,7 @@ layout: post
 title: "A Micro-Vertical Engine Approach for Rapid IoT Mass Customization"
 date: 2014-02-01 23:33:04
 categories: publications
+publisher: M2M Evolution
 ---
 
 Presented at the 2014 M2M Evolution conference in Miami, CA, by Mark Benson.

@@ -3,6 +3,7 @@ layout: post
 title: "Enabling Service-Delivery Business Models with Remote Sensing Technology"
 date: 2016-09-28 15:04:16
 categories: publications
+publisher: Sensors Midwest
 ---
 
 Presented at [Sensors Midwest](http://sensorsmidwest.com/program/) in Chicago, IL:

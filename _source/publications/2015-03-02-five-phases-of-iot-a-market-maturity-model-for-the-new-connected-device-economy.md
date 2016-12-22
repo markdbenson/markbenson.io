@@ -3,6 +3,7 @@ layout: post
 title: "Five Phases of IoT: A Market Maturity Model for the New Connected Device Economy"
 date: 2015-03-02 23:55:46
 categories: publications
+publisher: IoT Fuse
 ---
 
 Presented at IoT Fuse 2015 in Minneapolis.

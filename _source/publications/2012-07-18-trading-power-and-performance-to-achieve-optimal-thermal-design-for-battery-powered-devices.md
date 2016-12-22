@@ -3,6 +3,7 @@ layout: post
 title: Trading Power and Performance to Achieve Optimal Thermal Design for Battery-Powered Devices
 date: 2012-07-18 05:26:26
 categories: publications
+publisher: Communications, Microsystems, Optoelectronics, and Sensors
 ---
 
 [Presentation](http://www.logicpd.com/news/press-releases/logic-pds-director-of-software-strategy-to-speak-at-cmos-emerging-technolog/) at [Communications, Microsystems, Optoelectronics, and Sensors (CMOS)](http://www.cmoset.com/) in Vancouver, BC, by Mark Benson. 

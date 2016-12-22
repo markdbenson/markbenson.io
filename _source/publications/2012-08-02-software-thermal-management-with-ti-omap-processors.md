@@ -3,6 +3,7 @@ layout: post
 title: Software Thermal Management with TI OMAP Processors
 date: 2012-08-02 05:46:11
 categories: publications
+publisher: Electronic Engineering Journal
 ---
 
 [Published](http://www.eejournal.com/archives/articles/20120802-logicpd/) in the [Electronic Engineering Journal (EE Journal)](http://www.eejournal.com/), by Mark Benson.

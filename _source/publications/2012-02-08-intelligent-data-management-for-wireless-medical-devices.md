@@ -3,6 +3,7 @@ layout: post
 title: Intelligent Data Management for Wireless Medical Devices
 date: 2012-02-08 05:02:04
 categories: publications
+publisher: Medical Device and Diagnostic Industry Guide to Outsourcing
 ---
 
 [Published](http://www.mddionline.com/article/intelligent-data-wireless-devices) in the [Medical Device and Diagnostic Industry](http://www.mddionline.com/) (MDDI) [Guide to Outsourcing](http://www.mddionline.com/department/guide-outsourcing), by Mark Benson and Ben Toner. 
