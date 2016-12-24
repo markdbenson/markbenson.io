@@ -4,6 +4,8 @@ title: "Enabling Service-Delivery Business Models with Remote Sensing Technology
 date: 2016-09-28 15:04:16
 categories: presentations
 publisher: Sensors Midwest
+slideshare: |
+    <iframe src="//www.slideshare.net/slideshow/embed_code/key/tT4Id0yq4bpKUF" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/MarkBenson5/enabling-servicedelivery-business-models-with-remote-sensing-technology-70414832" title="Enabling Service-Delivery Business Models with Remote Sensing Technology" target="_blank">Enabling Service-Delivery Business Models with Remote Sensing Technology</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/MarkBenson5">Mark Benson</a></strong> </div>
 ---
 
 Presented at [Sensors Midwest](http://sensorsmidwest.com/program/) in Chicago, IL:

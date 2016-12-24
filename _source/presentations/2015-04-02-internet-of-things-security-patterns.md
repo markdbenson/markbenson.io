@@ -4,6 +4,8 @@ title: "Internet of Things Security Patterns"
 date: 2015-04-02 00:06:28
 categories: presentations
 publisher: Internet of Things Stream Conference
+slideshare: |
+    <iframe src="//www.slideshare.net/slideshow/embed_code/key/riRg7rkWZvHGV" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/MarkBenson5/internet-of-things-security-patterns" title="Internet of Things Security Patterns" target="_blank">Internet of Things Security Patterns</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/MarkBenson5">Mark Benson</a></strong> </div>
 ---
 
 Presented at [Internet of Things Stream Conference](http://www.streamconf.com/) 2015 in San Francisco.

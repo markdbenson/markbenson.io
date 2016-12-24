@@ -4,6 +4,8 @@ title: "IoT: It Takes an Ecosystem"
 date: 2016-04-12 16:31:07
 categories: presentations
 publisher: IoT Fuse
+slideshare: |
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/mf1jFgfJoQk" frameborder="0" allowfullscreen></iframe>
 ---
 
 Presented at [IoT Fuse](https://iotfuse.com/) 2016 in Minneapolis:

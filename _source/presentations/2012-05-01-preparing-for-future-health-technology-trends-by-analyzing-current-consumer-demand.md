@@ -4,6 +4,8 @@ title: Preparing For Future Health Technology Trends by Analyzing Current Consum
 date: 2012-05-01 05:15:10
 categories: presentations
 publisher: American Telemedicine Association
+slideshare: |
+    <iframe src="//www.slideshare.net/slideshow/embed_code/key/mhG4srUQuzzQ94" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/MarkBenson5/preparing-for-future-health-technology-trends-by-analyzing-current-consumer-demand" title="Preparing For Future Health Technology Trends by Analyzing Current Consumer Demand" target="_blank">Preparing For Future Health Technology Trends by Analyzing Current Consumer Demand</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/MarkBenson5">Mark Benson</a></strong> </div>
 ---
 
 [Presentation](http://www.logicpd.com/news/press-releases/logic-pd-to-speak-at-worlds-largest-telehealth-conference-ata-2012/) at the [American Telemedicine Association (ATA) Conference](http://www.americantelemed.org/), by Mark Benson. 

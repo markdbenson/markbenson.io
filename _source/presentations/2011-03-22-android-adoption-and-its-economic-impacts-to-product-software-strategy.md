@@ -4,6 +4,8 @@ title: Android Adoption and its Economic Impacts to Product Software Strategy
 date: 2011-03-22 03:54:48
 categories: presentations
 publisher: Real-Time & Embedded Computing Conference
+slideshare: |
+    <iframe src="//www.slideshare.net/slideshow/embed_code/key/z0WhesWCbSA8eP" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/MarkBenson5/android-adoption-and-its-economic-impacts-to-software-strategy" title="Android Adoption and its Economic Impacts to Software Strategy" target="_blank">Android Adoption and its Economic Impacts to Software Strategy</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/MarkBenson5">Mark Benson</a></strong> </div>
 ---
 
 [Keynote presentation](http://www.rtecc.com/conferences/view/47) at the [Real-Time & Embedded Computing Conference (RTECC)](http://www.rtecc.com/) in Minneapolis, MN, by Mark Benson.

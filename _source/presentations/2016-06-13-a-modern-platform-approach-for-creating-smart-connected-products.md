@@ -4,6 +4,8 @@ title: "A Modern Platform Approach for Creating Smart Connected Products"
 date: 2016-06-13 16:38:49
 categories: presentations
 publisher: Sensors Expo
+slideshare: |
+    <iframe src="//www.slideshare.net/slideshow/embed_code/key/2ajN6fyfD0bH9C" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/MarkBenson5/a-modern-platform-approach-for-creating-smart-connected-products" title="A Modern Platform Approach for Creating Smart Connected Products" target="_blank">A Modern Platform Approach for Creating Smart Connected Products</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/MarkBenson5">Mark Benson</a></strong> </div>
 ---
 
 Presented at [Sensors Expo](http://www.sensorsexpo.com/) 2016 in San Jose:

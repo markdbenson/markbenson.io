@@ -5,6 +5,8 @@ date: 2013-04-24 00:00:00
 categories: presentations
 publisher: Design West
 tags: Embedded Systems, Design West, The Cloud, M2M, Network Aggregators, Short-Range RF, Cellular, MNO, MVNO, Application Enablement Platform
+slideshare: |
+    <iframe src="//www.slideshare.net/slideshow/embed_code/key/3tlAH0e6EIKuvR" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/MarkBenson5/cloud-101-for-embedded-designers" title="Cloud 101 for Embedded Designers" target="_blank">Cloud 101 for Embedded Designers</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/MarkBenson5">Mark Benson</a></strong> </div>
 ---
 
 Presented at the 2013 [Design West](http://www.ubmdesign.com/sanjose/) conference in San Jose, CA, by Mark Benson.

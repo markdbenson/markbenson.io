@@ -4,6 +4,8 @@ title: Trading Power and Performance to Achieve Optimal Thermal Design for Batte
 date: 2012-07-18 05:26:26
 categories: presentations
 publisher: Communications, Microsystems, Optoelectronics, and Sensors
+slideshare: |
+    <iframe src="//www.slideshare.net/slideshow/embed_code/key/edwzoSpdp6x9TS" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/MarkBenson5/trading-power-and-performance-to-achieve-optimal-thermal-design-for-batterypowered-devices" title="Trading Power and Performance to Achieve Optimal Thermal Design for Battery-Powered Devices" target="_blank">Trading Power and Performance to Achieve Optimal Thermal Design for Battery-Powered Devices</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/MarkBenson5">Mark Benson</a></strong> </div>
 ---
 
 [Presentation](http://www.logicpd.com/news/press-releases/logic-pds-director-of-software-strategy-to-speak-at-cmos-emerging-technolog/) at [Communications, Microsystems, Optoelectronics, and Sensors (CMOS)](http://www.cmoset.com/) in Vancouver, BC, by Mark Benson. 

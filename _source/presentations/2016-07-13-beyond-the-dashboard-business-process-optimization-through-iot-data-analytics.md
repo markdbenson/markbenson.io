@@ -4,6 +4,8 @@ title: "Beyond the Dashboard: Business Process Optimization Through IoT Data Ana
 date: 2016-07-13 13:08:09
 categories: presentations 
 publisher: IoT Evolution
+slideshare: |
+    <iframe src="//www.slideshare.net/slideshow/embed_code/key/FN4p7f1Y5rXYMQ" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/MarkBenson5/beyond-the-dashboard-business-process-optimization-through-iot-data-analytics" title="Beyond the Dashboard: Business Process Optimization Through IoT Data Analytics" target="_blank">Beyond the Dashboard: Business Process Optimization Through IoT Data Analytics</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/MarkBenson5">Mark Benson</a></strong> </div>
 ---
 
 Presented at [IoT Evolution](http://www.iotevolutionexpo.com/) 2016, Las Vegas:

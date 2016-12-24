@@ -16,7 +16,14 @@ layout: page
 </div>
                   
 <div class="post-prev-text">
-  [% page.content | smart %]
+  <div class="row">
+  [% if page.slideshare %]
+    <div class="col-md-6">[% page.slideshare %]</div>
+    <div class="col-md-6">[% page.content | smart %]</div>
+  [% else %]
+    <div class="col-md-12">[% page.content | smart %]</div>
+  [% end %]
+  </div>
 </div>
 
 [% include "author.html" %]

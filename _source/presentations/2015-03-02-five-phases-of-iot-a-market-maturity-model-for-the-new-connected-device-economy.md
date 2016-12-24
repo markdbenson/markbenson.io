@@ -4,6 +4,8 @@ title: "Five Phases of IoT: A Market Maturity Model for the New Connected Device
 date: 2015-03-02 23:55:46
 categories: presentations
 publisher: IoT Fuse
+slideshare: |
+    <iframe src="//www.slideshare.net/slideshow/embed_code/key/6BpzbLIgLj4nBU" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/MarkBenson5/five-phases-of-iot-a-market-maturity-model-for-the-new-connected-device-economy" title="Five Phases of IoT: A Market Maturity Model for the New Connected Device Economy" target="_blank">Five Phases of IoT: A Market Maturity Model for the New Connected Device Economy</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/MarkBenson5">Mark Benson</a></strong> </div>
 ---
 
 Presented at [IoT Fuse](https://iotfuse.com/) 2015 in Minneapolis.

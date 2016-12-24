@@ -162,7 +162,11 @@
 
                 <div class="col-md-8">
                   <div class="blog2-post-prev-text">
-                    [% post.content | smart %]
+                    [% if post.slideshare %]
+                        [% post.slideshare %]
+                    [% else %]
+                        [% post.content | smart %]
+                    [% end %]
                   </div>
                 </div>
 

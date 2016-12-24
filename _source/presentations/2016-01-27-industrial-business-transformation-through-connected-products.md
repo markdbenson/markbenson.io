@@ -4,6 +4,8 @@ title: "Industrial Business Transformation Through Connected Products"
 date: 2016-01-27 16:13:42
 categories: presentations
 publisher: IoT Evolution
+slideshare: |
+    <iframe src="//www.slideshare.net/slideshow/embed_code/key/iYLF36T7qXp6b9" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/MarkBenson5/industrial-business-transformation-through-connected-products" title="Industrial Business Transformation Through Connected Products" target="_blank">Industrial Business Transformation Through Connected Products</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/MarkBenson5">Mark Benson</a></strong> </div>
 ---
 
 Presented at [IoT Evolution](http://www.iotevolutionexpo.com/) 2016 in Las Vegas:
