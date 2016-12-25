@@ -17,11 +17,21 @@ layout: page
                   
 <div class="post-prev-text">
   <div class="row">
-  [% if page.slideshare %]
-    <div class="col-md-6">[% page.slideshare %]</div>
-    <div class="col-md-6">[% page.content | smart %]</div>
+  [% if page.slideshare or page.youtube %]
+    <div class="col-md-6">
+        [% if page.slideshare %][% page.slideshare %][% end %]
+        [% if page.youtube %][% page.youtube %][% end %]
+    </div>
+    <div class="col-md-6">
+        [% if page.flickr %][% page.flickr %][% end %]
+        [% page.content | smart %]
+        [% if page.tweet %][% page.tweet %][% end %]
+    </div>
   [% else %]
-    <div class="col-md-12">[% page.content | smart %]</div>
+    <div class="col-md-12">
+        [% page.content | smart %]
+        [% if page.tweet %][% page.tweet %][% end %]
+    </div>
   [% end %]
   </div>
 </div>
