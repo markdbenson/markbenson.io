@@ -4,7 +4,7 @@ title: "Understanding and Mitigating IoT Security Hazards"
 date: 2015-05-01 00:09:34
 categories: presentations
 publisher: Internet of Things Developers Conference
-slideshare: |
+presentation: |
     <iframe src="//www.slideshare.net/slideshow/embed_code/key/8L0EtIkx7CGxHl" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/MarkBenson5/understanding-and-mitigating-iot-security-hazards" title="Understanding and Mitigating IoT Security Hazards" target="_blank">Understanding and Mitigating IoT Security Hazards</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/MarkBenson5">Mark Benson</a></strong> </div>
 ---
 

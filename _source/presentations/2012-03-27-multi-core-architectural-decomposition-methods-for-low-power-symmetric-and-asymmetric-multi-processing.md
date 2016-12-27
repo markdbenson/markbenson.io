@@ -4,7 +4,7 @@ title: Multi-Core Architectural Decomposition Methods for Low-Power Symmetric an
 date: 2012-03-27 05:09:17
 categories: presentations 
 publisher: Design West
-slideshare: |
+presentation: |
     <iframe src="//www.slideshare.net/slideshow/embed_code/key/bDYyS2qCVGKO9D" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/MarkBenson5/multicore-architectural-decomposition-methods-for-lowpower-symmetric-and-asymmetric-multiprocessing" title="Multi-Core Architectural Decomposition Methods for Low-Power Symmetric and Asymmetric Multi-Processing" target="_blank">Multi-Core Architectural Decomposition Methods for Low-Power Symmetric and Asymmetric Multi-Processing</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/MarkBenson5">Mark Benson</a></strong> </div>
 ---
 

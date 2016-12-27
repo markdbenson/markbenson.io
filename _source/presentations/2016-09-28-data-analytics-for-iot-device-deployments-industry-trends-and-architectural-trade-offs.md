@@ -4,8 +4,10 @@ title: "Data Analytics for IoT Device Deployments: Industry Trends and Architect
 date: 2016-09-28 15:06:32
 categories: presentations
 publisher: Sensors Midwest
-slideshare: |
+presentation: |
     <iframe src="//www.slideshare.net/slideshow/embed_code/key/wZlgp0x3h2pu8b" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/MarkBenson5/data-analytics-for-iot-device-deployments-industry-trends-and-architectural-trade-offs" title="Data Analytics for IoT Device Deployments: Industry Trends and Architectural Trade Offs" target="_blank">Data Analytics for IoT Device Deployments: Industry Trends and Architectural Trade Offs</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/MarkBenson5">Mark Benson</a></strong> </div>
+images: |
+    <a data-flickr-embed="true"  href="https://www.flickr.com/photos/markbenson/albums/72157676519136892" title="2016 Sensors Expo Midwest in Chicago"><img src="https://c6.staticflickr.com/1/578/31916340085_e3a5428441_z.jpg" width="480" height="640" alt="2016 Sensors Expo Midwest in Chicago"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 ---
 
 Presented at [Sensors Midwest](http://sensorsmidwest.com/) [Industrial IoT University](http://sensorsmidwest.com/industrial-iot-conference/):

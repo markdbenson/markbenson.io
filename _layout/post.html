@@ -14,26 +14,32 @@ layout: page
   [% use date %][% date.format(page.date, '%d %B %Y') %]
   <span class="slash-divider">/</span><a href="/preface/">Mark Benson</a>
 </div>
-                  
+
+[% if page.video %][% media = media + 1 %][% end %]
+[% if page.presentation %][% media = media + 1 %][% end %]
+[% if page.images %][% media = media + 1 %][% end %]
+
 <div class="post-prev-text">
+  [% if media > 0 %]
   <div class="row">
-  [% if page.slideshare or page.youtube %]
     <div class="col-md-6">
-        [% if page.slideshare %][% page.slideshare %][% end %]
-        [% if page.youtube %][% page.youtube %][% end %]
+      [% if page.video %]<p>[% page.video %]</p>[% end %]
+      [% if page.presentation %]<p>[% page.presentation %]</p>[% end %]
+      [% if page.images %]<p>[% page.images %]</p>[% end %]
     </div>
     <div class="col-md-6">
-        [% if page.flickr %][% page.flickr %][% end %]
-        [% page.content | smart %]
-        [% if page.tweet %][% page.tweet %][% end %]
+      [% page.content | smart %]
+      [% if page.twitter %]<p>[% page.twitter %]</p>[% end %]
     </div>
-  [% else %]
-    <div class="col-md-12">
-        [% page.content | smart %]
-        [% if page.tweet %][% page.tweet %][% end %]
-    </div>
-  [% end %]
   </div>
+  [% else %]
+  <div class="row">
+    <div class="col-md-12">
+      [% page.content | smart %]
+      [% if page.twitter %]<p>[% page.twitter %]</p>[% end %]
+    </div>
+  </div>
+  [% end %]
 </div>
 
 [% include "author.html" %]

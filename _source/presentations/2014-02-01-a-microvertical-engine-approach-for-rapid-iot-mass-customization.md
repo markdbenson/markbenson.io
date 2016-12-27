@@ -4,7 +4,7 @@ title: "A Micro-Vertical Engine Approach for Rapid IoT Mass Customization"
 date: 2014-02-01 23:33:04
 categories: presentations
 publisher: M2M Evolution
-slideshare: |
+presentation: |
     <iframe src="//www.slideshare.net/slideshow/embed_code/key/lNzVWOd5IRjmGv" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/MarkBenson5/a-microvertical-engine-approach-for-rapid-iot-mass-customization-70402948" title="A Micro-Vertical Engine Approach for Rapid IoT Mass Customization" target="_blank">A Micro-Vertical Engine Approach for Rapid IoT Mass Customization</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/MarkBenson5">Mark Benson</a></strong> </div>
 ---
 

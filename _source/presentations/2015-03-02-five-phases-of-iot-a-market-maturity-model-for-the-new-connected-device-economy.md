@@ -4,8 +4,13 @@ title: "Five Phases of IoT: A Market Maturity Model for the New Connected Device
 date: 2015-03-02 23:55:46
 categories: presentations
 publisher: IoT Fuse
-slideshare: |
+presentation: |
     <iframe src="//www.slideshare.net/slideshow/embed_code/key/6BpzbLIgLj4nBU" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/MarkBenson5/five-phases-of-iot-a-market-maturity-model-for-the-new-connected-device-economy" title="Five Phases of IoT: A Market Maturity Model for the New Connected Device Economy" target="_blank">Five Phases of IoT: A Market Maturity Model for the New Connected Device Economy</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/MarkBenson5">Mark Benson</a></strong> </div>
+images: |
+    <a data-flickr-embed="true"  href="https://www.flickr.com/photos/markbenson/albums/72157678367102905" title="2015 IoT Fuse in Minneapolis"><img src="https://c2.staticflickr.com/1/529/31781798201_e629c2a9d6_z.jpg" width="600" height="600" alt="2015 IoT Fuse in Minneapolis"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+twitter: |
+    <blockquote class="twitter-tweet" data-cards="hidden" data-lang="en"><p lang="en" dir="ltr">&quot;The <a href="https://twitter.com/hashtag/IoT?src=hash">#IoT</a> movement needs purpose-driven dragon slayers&quot; - <a href="https://twitter.com/markbenson">@markbenson</a> <a href="https://twitter.com/exosite">@exosite</a> <a href="https://twitter.com/iotfuse">@iotfuse</a> <a href="http://t.co/Mey8ZAu4NT">pic.twitter.com/Mey8ZAu4NT</a></p>&mdash; Aneela (@ak310i) <a href="https://twitter.com/ak310i/status/578654242380075009">March 19, 2015</a></blockquote>
+    <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 ---
 
 Presented at [IoT Fuse](https://iotfuse.com/) 2015 in Minneapolis.

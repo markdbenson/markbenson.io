@@ -4,8 +4,13 @@ title: "Future on Water: IoT Infiltration into Water Management Solutions"
 date: 2016-09-20 14:57:12
 categories: presentations 
 publisher: Minnesota Water Technology Summit
-slideshare: |
+presentation: |
     <iframe src="//www.slideshare.net/slideshow/embed_code/key/fcmi3JBC96i1VZ" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/MarkBenson5/future-on-water-iot-infiltration-into-water-management-solutions" title="Future on Water: IoT Infiltration into Water Management Solutions" target="_blank">Future on Water: IoT Infiltration into Water Management Solutions</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/MarkBenson5">Mark Benson</a></strong> </div>
+twitter: |
+    <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">To manage <a href="https://twitter.com/hashtag/water?src=hash">#water</a> better, need to measure says <a href="https://twitter.com/markbenson">@markbenson</a>. Agreed, &amp; to share and interpret those data in non-creepy ways... <a href="https://twitter.com/hashtag/mnwater16?src=hash">#mnwater16</a></p>&mdash; Kate Brauman (@KateBrauman) <a href="https://twitter.com/KateBrauman/status/778323538528772096">September 20, 2016</a></blockquote>
+    <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+images: |
+    <a data-flickr-embed="true"  href="https://www.flickr.com/photos/markbenson/albums/72157676719279831" title="2016 Minnesota Water Technology Summit at US Bank Stadium"><img src="https://c6.staticflickr.com/1/517/31106318773_1727b26aec_z.jpg" width="640" height="640" alt="2016 Minnesota Water Technology Summit at US Bank Stadium"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 ---
 
 Presented at the [2016 Minnesota Water Technology Summit](https://www.greatermsp.org/index.php?src=gendocs&ref=Water_Summit_2016) at [US Bank Stadium](http://www.usbankstadium.com/):

@@ -4,7 +4,7 @@ title: "Disruptive Innovation Through IoT"
 date: 2015-04-01 00:02:43
 categories: presentations
 publisher: Financial Executives International
-slideshare: |
+presentation: |
     <iframe src="//www.slideshare.net/slideshow/embed_code/key/C55uTXHG4T8u2e" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/MarkBenson5/disruptive-innovation-through-iot" title="Disruptive Innovation Through IoT" target="_blank">Disruptive Innovation Through IoT</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/MarkBenson5">Mark Benson</a></strong> </div>
 ---
 
