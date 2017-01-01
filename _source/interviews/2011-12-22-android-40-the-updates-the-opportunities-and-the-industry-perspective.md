@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "Android 4.0: The Updates, The Opportunities and The Industry Perspective"
+title: "Make Money with Android 4.0"
 date: 2011-12-22 03:30:10
 categories: interviews
+publisher: Linux User & Developer Magazine
 ---
 
 [Interviewed](http://www.linuxuser.co.uk/magazine-issues/linux-user-developer-issue-109-is-out-now/) by [Gareth Halfacree](http://freelance.halfacree.co.uk/2012/01/linux-user-developer-issue-109/) for the print edition of Linux User & Developer Magazine on the topic of Android 4.0 (Ice Cream Sandwich) and its implications on licensing, micro-economics, and Android adoption rates for non-consumer (military, aerospace, industrial, medical) embedded devices.

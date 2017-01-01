@@ -3,6 +3,7 @@ layout: post
 title: Small-Form-Factor Embedded Computing Shrinks Processing for Unmanned Vehicles and Other Tiny Applications
 date: 2012-07-31 03:03:39
 categories: interviews
+publisher: Military & Aerospace Electronics Magazine
 ---
 
 [Interviewed](http://www.militaryaerospace.com/articles/2012/07/sff-tech-focus.html) by John Keller for [Military & Aerospace Electronics Magazine](http://www.militaryaerospace.com) on a special piece on small-form-factor embedded computing. 
