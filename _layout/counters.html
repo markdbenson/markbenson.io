@@ -8,7 +8,7 @@
         <div class="row text-center">
 
           <!-- Item -->
-          <div class="col-xs-6 col-sm-3">
+          <div class="col-sm-3">
             <div class="count-number">
               [% p = 0 %]
               [% for post in site.categories.publications %]
@@ -26,7 +26,7 @@
           </div>
 
           <!-- Item -->
-          <div class="col-xs-6 col-sm-3">
+          <div class="col-sm-3">
             <div class="count-number">
               [% use date %]
               [% date.format(date.now, '%Y') - 1999 %]
@@ -37,7 +37,7 @@
           </div>
 
           <!-- Item -->
-          <div class="col-xs-6 col-sm-3">
+          <div class="col-sm-3">
             <div class="count-number">
               [% p = 0 %]
               [% for post in site.categories.patents %]
@@ -51,7 +51,7 @@
           </div>
 
           <!-- Item -->
-          <div class="col-xs-6 col-sm-3">
+          <div class="col-sm-3">
             <div class="count-number">
               [% p = 0 %]
               [% for post in site.categories.honors %]

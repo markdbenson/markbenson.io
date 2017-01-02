@@ -2221,8 +2221,8 @@ table.shopping-cart-table tr th, table.shopping-cart-table tr td {
 =====================================================*/
 .count-number{
   margin-top: 17px;
-  font-size:45px;
-  line-height:45px;
+  font-size:55px;
+  line-height:55px;
   color:#4b4e53;
   font-weight:100;
 }
@@ -2314,18 +2314,18 @@ table.shopping-cart-table tr th, table.shopping-cart-table tr td {
 }
 .post-prev-title h3{
   margin:0;
-  margin-top: 5px;
-  margin-bottom: 5px;
+  /* margin-top: 5px;
+  margin-bottom: 5px; */
   font-family: 'Open Sans',Arial,Helvetica,sans-serif;
-  font-size:16px;
-  line-height:1.7em;
-  font-weight:600;
+  font-size: 26px;
+  line-height:1.5em;
+  font-weight:300;
 }
 .blog-main-posts .post-prev-img{
   margin-bottom:30px;
 }
 .blog-main-posts .post-prev-info {
-  margin-bottom: 20px;
+  margin-bottom: 10px;
 }
 .blog-main-posts .post-prev-title h3{
   font-size:18px;
@@ -2350,7 +2350,7 @@ table.shopping-cart-table tr th, table.shopping-cart-table tr td {
   vertical-align:middle;
 }
 .post-prev-info{
-  margin-bottom:14px;
+  /* margin-bottom:14px; */
   font-size: 13px;
   text-transform: uppercase;
 }
@@ -2423,21 +2423,16 @@ table.shopping-cart-table tr th, table.shopping-cart-table tr td {
 /* #BLOG SECTION 2 #NEW
 =====================================================*/
 .blog2-post-title-cont, .blog2-post-prev-text {
-  margin-bottom:20px;
+  /* margin-bottom:20px; */
 }
 .blog2-post-title-cont .post-prev-title {
-  padding:0px 0 15px 20px;
-  margin-left:135px;
-  border-left: #C9CACB 1px solid;
+  /* padding:0px 0 15px 20px; */
+  border-left: #C9CACB 0px solid;
 }
 .blog2-post-title-cont {
   position:relative;
 }
 .post-prev-date-cont {
-  position: absolute;
-  top: 0px;
-  left: 15px;
-  max-width: 130px;
 }
 .blog2-date-numb {
   font-size:35px;
@@ -2462,14 +2457,11 @@ table.shopping-cart-table tr th, table.shopping-cart-table tr td {
     padding-left:0;
   }
   .blog2-post-title-cont .post-prev-title {
-    margin-left:70px;
   }
   .blog2-date-numb {
     font-size:30px;
   }
   .post-prev-date-cont {
-    top: 16px;
-    text-align:center;
   }
 }
 
@@ -4714,7 +4706,7 @@ blockquote.custom-blockquote:before {
 ================================================== */
 .related-posts .post-prev-title h3 {
   font-size:14px;
-  line-height:25px;
+  line-height:20px;
 }
 .related-posts  .post-prev-img {
   margin-bottom:15px;
