@@ -269,9 +269,7 @@ header: transparent
         <a href="http://www.foyles.co.uk/witem/computing-it/the-art-of-software-thermal,mark-benson-9781493902972">Foyles</a> |
         <a href="https://books.google.com/books/about/The_Art_of_Software_Thermal_Management_f.html?id=Vq68BAAAQBAJ">Google Books</a> |
         <a href="http://www.indiebound.org/book/9781493902972">Indie Bound</a> |
-        <a href="http://shopping.julion-shop.com/the-art-of-software-thermal-management-for-embedded-systems/">Julion</a> |
         <a href="http://www.knetbooks.com/art-software-thermal-management-embedded/bk/9781493902972">Knetbooks</a> |
-        <a href="http://www.plautz.at/list?back=8df751c66f088dd2af90d63b2ebe34d4&amp;xid=8981177">Plautz</a> |
         <a href="http://www.rakuten.com/prod/the-art-of-software-thermal-management-for-embedded-systems/259253883.html">Rakuten</a> |
         <a href="http://www.thereadingroom.com/books/details/the-art-of-software-thermal-management-for-embedded-systems-mark-benson/8384518">The Reading Room</a> |
         <a href="http://www.todostuslibros.com/libros/the-art-of-software-thermal-management-for-embedded-systems_978-1-4939-0297-2">Todos Tus Libros</a> |
