@@ -15,7 +15,7 @@ This week, I finished reviewing final proofs for my upcoming book with [Springer
 
 Scheduled publication date is January, 2014. Formats: print (hardcover, softcover), digital/e-book. Distribution: Springer direct, Amazon, Google, and through university library systems via [Springer Link][ln2].
 
-**UPDATE:** Springer and Amazon and a few other distributors now have pages up in prep for the scheduled release date on January 31st, 2014: [Springer][ln3], [Amazon][ln4] ([UK][ln4a]), [cCampus][ln5], [Knetbooks][ln6], [Rakuten][ln7], [The Reading Room][ln8], [Bigger Books][ln9], [Bokus][ln10], [Todos Tus Libros (All Your Books)][ln11], [Abe][ln12], [Plautz][ln13], [Desch-Drexler][ln14], [All Bookstores][ln15], and [Foyles][ln16].
+**UPDATE:** Springer and Amazon and a few other distributors now have pages up in prep for the scheduled release date on January 31st, 2014: [Springer][ln3], [Amazon][ln4] ([UK][ln4a]), [cCampus][ln5], [Knetbooks][ln6], [Rakuten][ln7], [The Reading Room][ln8], [Bigger Books][ln9], [Bokus][ln10], [Todos Tus Libros (All Your Books)][ln11], [Abe][ln12], [Desch-Drexler][ln14], [All Bookstores][ln15], and [Foyles][ln16].
 
 [ln1]: http://www.springer.com
 [ln2]: http://link.springer.com
@@ -30,7 +30,6 @@ Scheduled publication date is January, 2014. Formats: print (hardcover, softcove
 [ln10]: http://www.bokus.com/bok/9781493902972/the-art-of-software-thermal-management-for-embedded-systems/
 [ln11]: http://www.todostuslibros.com/libros/the-art-of-software-thermal-management-for-embedded-systems_978-1-4939-0297-2
 [ln12]: http://www.abe.pl/en/book/9781493902972/the-art-of-software-thermal-management-for-embedded-systems
-[ln13]: http://www.plautz.at/list?back=8df751c66f088dd2af90d63b2ebe34d4&xid=8981177
 [ln14]: http://www.desch-drexler.at/list/9781493902972
 [ln15]: http://www.allbookstores.com/Art-Software-Thermal-Management-Embedded/9781493902972
 [ln16]: http://www.foyles.co.uk/witem/computing-it/the-art-of-software-thermal,mark-benson-9781493902972

@@ -12,5 +12,5 @@ Siemens on the future of self-organizing factories:
 
 More on the Industry 4.0 initiative from the [Federal Ministry of Education and Research, Germany][ln1].
 
-[ln1]: http://www.bmbf.de/en/19955.php
+[ln1]: https://www.bmbf.de/de/zukunftsprojekt-industrie-4-0-848.html
 

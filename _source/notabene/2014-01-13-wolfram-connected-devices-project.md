@@ -13,5 +13,5 @@ Wolfram just announced their [Connected Devices Project][ln1]:
 Built, of course, on the [Wolfram Language][ln2].
 
 [ln1]: http://devices.wolfram.com/ "Wolfram Connected Devices Project"
-[ln2]: http://reference.wolfram.com/language/guide/ConnectingToDevices.html  "Wolfram Language Reference for Connecting Devices"
+[ln2]: http://reference.wolfram.com/language/guide/UsingConnectedDevices.html "Wolfram Language Reference for Connecting Devices"
 
