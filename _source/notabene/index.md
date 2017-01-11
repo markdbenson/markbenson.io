@@ -75,7 +75,7 @@ menu: notabene
           <div class="post-prev-title">
             <h3>
               [% unless post.link %]<span class="icon_star pr-10"></span>[% end %]
-              <a href="[% post.url %]" title="Read [% post.title | smart %]">[% post.title | smart %]</a>
+              <a href="[% url %]" title="Read [% post.title | smart %]">[% post.title | smart %]</a>
             </h3>
             <div class="post-prev-info">
               NOTA BENE<span class="slash-divider">/</span><a href="/preface/">MARK BENSON</a>
