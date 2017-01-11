@@ -31,7 +31,7 @@
         [% unless page.style == "plain" %]
         <div class="container">
             <div class="mb-30">
-              <h2 class="section-title"><span class="bold">[% page.title | upper | smart %]</span>[% if page.subtitle %]<br /><span style="font-size: .7em;">[% page.subtitle | smart %]</span>[% end %]</h2>
+              <h2 class="section-title"><span class="bold">[% if page.link %]<a href="[% page.link %]">[% end %][% page.title | upper | smart %][% if page.link %]</a>[% end %]</span>[% if page.subtitle %]<br /><span style="font-size: .7em;">[% page.subtitle | smart %]</span>[% end %]</h2>
             </div>
         </div>
         [% end %]
