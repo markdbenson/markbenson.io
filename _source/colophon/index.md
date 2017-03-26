@@ -39,7 +39,7 @@ $ dapper serve      # Build and serve locally at http://localhost:8000
 
 <ul>
 <li>Vim (<a href="https://github.com/markdbenson/vimrc" title="My vimrc preferences">vimrc</a>)</li>
-<li>Amazon S3</li>
+<li>Amazon S3 for hosting</li>
 </ul>
 
 </div>
