@@ -7,8 +7,10 @@ menu: preface
 
 <div class="container">
 
-  <div class="col-sm-4">
-    <img src="/images/mdb.jpg" />
+  <div class="col-sm-4 lightbox-item">
+    <a href="/images/mdb_edina_grill_small.jpg" class="lightbox">
+      <img src="/images/mdb_edina_grill_small.jpg" alt="Picture of Mark Benson at Edina Grill, Edina, Minnesota" />
+    </a>
   </div>
 
   <div class="col-sm-8">
