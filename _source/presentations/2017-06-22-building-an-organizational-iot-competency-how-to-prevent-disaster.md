@@ -3,6 +3,7 @@ layout: post
 title: "Building an Organizational IoT Competency: How to Prevent Disaster"
 date: 2017-06-22 20:42:06
 categories: presentations
+publisher: IoT Slam
 presentation: |
     <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='//www.slideshare.net/slideshow/embed_code/key/fn01pRm4JDwPU5' width='595' height='485' frameborder='0' marginwidth='0' marginheight='0' scrolling='no' style='border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;' allowfullscreen> </iframe> <div style='margin-bottom:5px'> <strong> <a href='//www.slideshare.net/MarkBenson5/building-an-organizational-iot-competency-how-to-prevent-disaster' title='Building an Organizational IoT Competency: How to Prevent Disaster' target='_blank'>Building an Organizational IoT Competency: How to Prevent Disaster</a> </strong> from <strong><a target='_blank' href='https://www.slideshare.net/MarkBenson5'>Mark Benson</a></strong> </div></div>
 twitter: |

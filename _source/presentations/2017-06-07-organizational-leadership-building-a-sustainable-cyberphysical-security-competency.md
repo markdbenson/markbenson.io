@@ -3,6 +3,7 @@ layout: post
 title: "Organizational Leadership: Building a Sustainable Cyber-Physical Security Competency"
 date: 2017-06-07 09:35:08
 categories: presentations
+publisher: University of Minnesota
 twitter: |
     <blockquote class="twitter-tweet" data-cards="hidden" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/UMNTLI">@UMNTLI</a> <a href="https://twitter.com/markbenson">@MarkBenson</a> UoM Alum &amp; <a href="https://twitter.com/exosite">@exosite</a> CTO begs the question; Where are you at on this IoT Org competence roadmap? <a href="https://t.co/xFbq599sF2">pic.twitter.com/xFbq599sF2</a></p>&mdash; Dean Boorman (@Dean_Boorman) <a href="https://twitter.com/Dean_Boorman/status/872603870446444546">June 7, 2017</a></blockquote>
     <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

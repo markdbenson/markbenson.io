@@ -3,6 +3,7 @@ layout: post
 title: "Improving Energy Efficiency of Intelligent Buildings with Smart IoT Retrofits"
 date: 2017-02-01 10:16:29
 categories: presentations
+publisher: AHR Expo
 presentation: |
     <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='//www.slideshare.net/slideshow/embed_code/key/EpP7k60IHa6DmW' width='595' height='485' frameborder='0' marginwidth='0' marginheight='0' scrolling='no' style='border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;' allowfullscreen> </iframe> <div style='margin-bottom:5px'> <strong> <a href='//www.slideshare.net/MarkBenson5/improving-energy-efficiency-of-intelligent-buildings-with-smart-iot-retrofits' title='Improving Energy Efficiency of Intelligent Buildings with Smart IoT Retrofits' target='_blank'>Improving Energy Efficiency of Intelligent Buildings with Smart IoT Retrofits</a> </strong> from <strong><a target='_blank' href='//www.slideshare.net/MarkBenson5'>Mark Benson</a></strong> </div></div>
 images: |
@@ -12,7 +13,7 @@ twitter: |
     <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 ---
 
-Presented at [AHR Expo ("The World's Largest HVACR Marketplace")][ln1] in Las Vegas:
+Presented at the [International Air-Conditioning, Heating, Refrigerating Exposition (AHR Expo) ][ln1] in Las Vegas:
 
 > ABSTRACT: With fast approaching energy regulations and increased competitive pressures, reducing energy consumption has never been more important for building managers. This talk introduces a series of smart Internet of Things (IoT) retrofit technologies that can be used to meet regulatory requirements, reduce operational expenses, and increase competitive position.
 
