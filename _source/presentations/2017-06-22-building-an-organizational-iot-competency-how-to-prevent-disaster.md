@@ -13,7 +13,7 @@ twitter: |
 
 [Presented][ln1] at [IoT Slam][ln2] in North Carolina on how organizations can build a long-term sustainable IoT competency, and in the process avoid catastrophic failures.
 
-> ABSTRACT: Organizations attempting to build smart connected products across divisions, product portfolios, and markets are being faced with a stark reality: creating IoT projects is hard, and building a long-term organizational competency around doing IoT projects with excellence is even harder. Based on real-world experience, this talk presents five key behaviors that successful organizations embrace when starting an IoT journey.
+> ABSTRACT: Organizations attempting to build smart connected products across divisions, product portfolios, and markets are being faced with a stark reality: creating IoT projects is hard, and building a long-term organizational competency around doing IoT projects with excellence is even harder. Based on real-world experience, this talk presents five key strategies successful organizations use to build a long-term IoT competency and prevent disaster along the way.
 
 [ln1]: http://iotslam.com/session/building-organizational-iot-competency-prevent-disaster/
 [ln2]: http://iotslam.com/
