@@ -9,12 +9,18 @@ presentation: |
 twitter: |
     <blockquote class="twitter-tweet" data-cards="hidden" data-lang="en"><p lang="en" dir="ltr">Top 5 challenges to IOT adoption are &quot;people based&quot;...Mark Benson - Expsite... <a href="https://twitter.com/hashtag/iotslam?src=hash">#iotslam</a> <a href="https://t.co/QKl8tTpQYj">pic.twitter.com/QKl8tTpQYj</a></p>&mdash; Wayne Irwin (@wayneirwin01) <a href="https://twitter.com/wayneirwin01/status/877900091952160768">June 22, 2017</a></blockquote>
     <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+images: |
+    <a data-flickr-embed="true"  href="https://www.flickr.com/photos/markbenson/albums/72157685798973256" title="2017 IoT Slam in North Carolina"><img src="https://farm5.staticflickr.com/4233/34896693214_96ae4c5996_b.jpg" width="1024" height="683" alt="2017 IoT Slam in North Carolina"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 ---
 
 [Presented][ln1] at [IoT Slam][ln2] in North Carolina on how organizations can build a long-term sustainable IoT competency, and in the process avoid catastrophic failures.
 
 > ABSTRACT: Organizations attempting to build smart connected products across divisions, product portfolios, and markets are being faced with a stark reality: creating IoT projects is hard, and building a long-term organizational competency around doing IoT projects with excellence is even harder. Based on real-world experience, this talk presents five key strategies successful organizations use to build a long-term IoT competency and prevent disaster along the way.
 
+A [video of the presentation][ln3] can be found on [IoT Practitioner][ln4].
+
 [ln1]: http://iotslam.com/session/building-organizational-iot-competency-prevent-disaster/
 [ln2]: http://iotslam.com/
+[ln3]: https://iotpractitioner.com/iot-slam-live-session-building-organizational-iot-competency-prevent-disaster/
+[ln4]: https://iotpractitioner.com/
 
