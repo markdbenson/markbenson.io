@@ -1,4 +1,0 @@
----
-layout: plain
----[% page.content | trim %]
-
