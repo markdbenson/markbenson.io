@@ -27,11 +27,18 @@ menu: cv
               </div>
               
               <div class="col-md-8" style="font-size: 1.3em; line-height: 1.3em;">
-                <h1>Mark Benson, CTO and Software Leader, Specializing in the Internet of Things</h1>
-                <p class="mb-20">Accomplished C-level technology leader. Experienced in strategic, operational, and financial management of cross-functional teams in highly-competitive markets. Successful track record of defining and realizing pragmatic product strategies to meet the requirements of complex enterprises across multiple functions and verticals. Strong interpersonal and formal communication skills.</p>
-                <p class="mb-20"><span class="bold">SKILLS:</span> Product Development | Technology Leadership | Strategic Planning and Execution | Intellectual Property Portfolio Management | Software Architecture | Information Security | Competitive Strategy | Organizational Behavior</p>
-                <p class="mb-30"><span class="bold">STRENGTHS:</span> Learner, Restorative, Individualization, Achiever, Intellection.</p>
-                <p class="mb-20"><a class="button large deeporange" href="/media/mdb_resume_2017.pdf">Download CV</a></p>
+                <h1>[% site.cv.title %]</h1>
+                <p class="mb-20">[% site.cv.summary %]</p>
+                <p class="mb-20"><span class="bold">SKILLS:</span> [% for skill in site.cv.skills %][% skill %] [% unless loop.last %]| [% end %][% end %]</p>
+                <div class="row">
+                    <div class="col-md-6">
+                        <p class="mb-30"><span class="bold">STRENGTHS:</span> [% for strength in site.cv.strengths %] [% strength %][% if loop.last %]. [% else %], [% end %][% end %]</p>
+                    </div>
+                    <div class="col-md-6">
+                        <p class="mb-30"><span class="bold">PERSONALITY:</span> [% site.cv.personality %]</p>
+                    </div>
+                </div>
+                <p class="mb-20"><a class="button large deeporange" href="/media/mdb_resume_2017.pdf">Download Mark Benson's Carriculum Vitae</a></p>
               </div>
 
             </div>
