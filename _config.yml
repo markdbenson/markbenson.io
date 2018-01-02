@@ -8,7 +8,7 @@ ignore :
     - "^design$"
     - "^README.md$"
     - "^Makefile$"
-copyright: "[% use date %]&copy; Mark Benson [% date.format(date.now, '%Y') %]"
+copyright: "[% use date %]&copy; Mark Benson 2001 - [% date.format(date.now, '%Y') %]"
 cv:
     title: Mark Benson, Chief Technology Officer
     summary: Accomplished C-level technology leader. Experienced in strategic, operational, and financial management of cross-functional teams in highly-competitive markets. Successful track record of defining and realizing pragmatic product strategies to meet the requirements of complex enterprises across multiple functions and verticals. Strong interpersonal and formal communication skills.
