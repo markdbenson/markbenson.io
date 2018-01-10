@@ -38,7 +38,7 @@ menu: cv
                         <p class="mb-30"><span class="bold">PERSONALITY:</span> [% site.cv.personality %]</p>
                     </div>
                 </div>
-                <p class="mb-20"><a class="button large deeporange" href="/media/mdb_resume_2017.pdf">Download Mark Benson's Carriculum Vitae</a></p>
+                <p class="mb-20"><a class="button large deeporange" href="/media/mdb_resume_2018.pdf">Download Mark Benson's Carriculum Vitae</a></p>
               </div>
 
             </div>
@@ -395,7 +395,7 @@ menu: cv
 
 <!-- CALL TO ACTION  -->
 <div class="port-view-more-cont-dark">
-    <a class="port-view-more-dark" href="/media/mdb_resume_2017.pdf">Download Full CV</a>
+    <a class="port-view-more-dark" href="/media/mdb_resume_2018.pdf">Download Full CV</a>
 </div>
 
 
