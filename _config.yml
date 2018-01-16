@@ -8,6 +8,7 @@ ignore :
     - "^design$"
     - "^README.md$"
     - "^Makefile$"
+    - ".DS_Store"
 copyright: "[% use date %]&copy; Mark Benson 2001 - [% date.format(date.now, '%Y') %]"
 cv:
     title: Mark Benson, Chief Technology Officer
