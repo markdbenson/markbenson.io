@@ -3,6 +3,7 @@ layout: post
 title: "Smart Burgers: Smart Buildings Grow With Opportunity"
 date: 2018-02-26 20:47:25
 categories: interviews
+publisher: Electrical Contractor Magazine
 ---
 
 [Interviewed][ln1] by [Jim Romeo][ln2] for a piece in [Electrical Contractor Magazine][ln3] about smart connected buildings and the role that electrical contractors play in understanding, configuring, installing, and maintaining Internet-connected building assets.
