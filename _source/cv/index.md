@@ -1,13 +1,13 @@
 ---
 layout: page
 title: Carriculum Vitae
-subtitle: "Education, publications, experience, presentations, interviews, patents, and honors & awards."
+subtitle: "Experience, education, publications, presentations, interviews, patents, and honors & awards."
 menu: cv
 ---
 
 
 <!-- SUMMARY -->
-<div class="page-section pt-80-b-50-cont grey-light-bg">
+<div class="page-section pt-80-b-50-cont">
 <div class="container">
             <div class="row">
                 
@@ -46,6 +46,53 @@ menu: cv
 </div>
 </div>
 <!-- END SUMMARY -->
+
+<!-- EXPERIENCE -->
+<div class="page-section pt-110-b-30-cont" id="experience">
+  <div class="container">
+
+    <div class="mb-50">
+      <h2 class="section-title pr-0"><span class="bold">EXPERIENCE</span></h2>
+    </div>
+
+    <div class="row">
+
+      [% for post in site.categories.experience.reverse %]
+      <div class="col-md-12 pb-30">
+        <div class="row">
+
+          <div class="col-md-5 blog2-post-title-cont">
+            <div class="row">
+              <div class="col-md-4 post-prev-date-cont">
+                [% if post.logo %]
+                <p><img src="[% post.logo %]" /></p>
+                [% end %]
+                <p class="small">[% post.start | upper %] &ndash; [% post.end | upper %]</p>
+              </div>
+              <div class="col-md-8 post-prev-title">
+                <h3>[% post.title | smart %]</h3>
+                <div class="post-prev-info">
+                  <p class="small">[% post.location %]</p>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-7">
+            <div class="blog2-post-prev-text">
+              [% post.content | smart %]
+            </div>
+          </div>
+
+        </div>
+      </div>
+      [% end %]
+
+    </div>
+
+  </div>
+</div>
+<!-- END EXPERIENCE -->
 
 
 <!-- EDUCATION -->
@@ -147,56 +194,9 @@ menu: cv
 <!-- END PUBLICATIONS -->
 
 
-<!-- EXPERIENCE -->
-<div class="page-section pt-110-b-30-cont" id="experience">
-  <div class="container">
-
-    <div class="mb-50">
-      <h2 class="section-title pr-0"><span class="bold">EXPERIENCE</span></h2>
-    </div>
-
-    <div class="row">
-
-      [% for post in site.categories.experience.reverse %]
-      <div class="col-md-12 pb-30">
-        <div class="row">
-
-          <div class="col-md-5 blog2-post-title-cont">
-            <div class="row">
-              <div class="col-md-4 post-prev-date-cont">
-                [% if post.logo %]
-                <p><img src="[% post.logo %]" /></p>
-                [% end %]
-                <p class="small">[% post.start | upper %] &ndash; [% post.end | upper %]</p>
-              </div>
-              <div class="col-md-8 post-prev-title">
-                <h3>[% post.title | smart %]</h3>
-                <div class="post-prev-info">
-                  <p class="small">[% post.location %]</p>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-md-7">
-            <div class="blog2-post-prev-text">
-              [% post.content | smart %]
-            </div>
-          </div>
-
-        </div>
-      </div>
-      [% end %]
-
-    </div>
-
-  </div>
-</div>
-<!-- END EXPERIENCE -->
-
 
 <!-- PRESENTATIONS -->
-<div class="page-section pt-110-b-30-cont grey-light-bg" id="presentations">
+<div class="page-section pt-110-b-30-cont" id="presentations">
   <div class="container">
 
     <div class="mb-50">
@@ -247,7 +247,7 @@ menu: cv
 
 
 <!-- INTERVIEWS -->
-<div class="page-section pt-110-b-30-cont" id="interviews">
+<div class="page-section pt-110-b-30-cont grey-light-bg" id="interviews">
   <div class="container">
 
     <div class="mb-50">
@@ -303,7 +303,7 @@ menu: cv
 
 
 <!-- PATENTS -->
-<div class="page-section pt-110-b-30-cont grey-light-bg" id="patents">
+<div class="page-section pt-110-b-30-cont" id="patents">
   <div class="container">
 
     <div class="mb-50">
@@ -348,7 +348,7 @@ menu: cv
 
 
 <!-- HONORS & AWARDS -->
-<div class="page-section pt-110-b-30-cont" id="honors">
+<div class="page-section pt-110-b-30-cont grey-light-bg" id="honors">
   <div class="container">
 
     <div class="mb-50">
