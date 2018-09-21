@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Carriculum Vitae
+title: Curriculum Vitae
 subtitle: "Experience, education, publications, presentations, interviews, patents, and honors & awards."
 menu: cv
 ---
@@ -38,7 +38,7 @@ menu: cv
                         <p class="mb-30"><span class="bold">PERSONALITY:</span> [% site.cv.personality %]</p>
                     </div>
                 </div>
-                <p class="mb-20"><a class="button large deeporange" href="/media/mdb_resume_2018.pdf">Download Mark Benson's Carriculum Vitae</a></p>
+                <p class="mb-20"><a class="button large deeporange" href="/media/mdb_resume_2018.pdf">Download Mark Benson's Curriculum Vitae</a></p>
               </div>
 
             </div>
