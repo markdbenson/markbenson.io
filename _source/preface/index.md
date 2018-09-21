@@ -21,7 +21,7 @@ menu: preface
 
 <p class="mb-30"><span class="bold">STRENGTHS</span>: Learner, Restorative, Individualization, Achiever, Intellection.</p>
               
-              <p><a href="/cv/" class="button large deeporange">Carriculum Vitae</a></p>
+              <p><a href="/cv/" class="button large deeporange">Curriculum Vitae</a></p>
 
 [% comment %]
 <div class="divider"><i class="fa fa-star"></i></div>
