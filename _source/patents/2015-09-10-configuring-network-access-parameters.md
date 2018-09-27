@@ -3,9 +3,9 @@ layout: post
 title: "Configuring network access parameters"
 date: 2015-09-10 17:18:58
 categories: patents
-status: Pending
+status: Granted
 office: United States
-number: 20150257008
+number: 10,085,147
 link: https://www.google.com/patents/US20150257008
 ---
 
