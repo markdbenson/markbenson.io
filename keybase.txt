@@ -1,0 +1,76 @@
+==================================================================
+https://keybase.io/markbenson
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://markbenson.io
+  * I am markbenson (https://keybase.io/markbenson) on keybase.
+  * I have a public key with fingerprint 74B2 80A7 A4CD D992 84D1  0AAB 5F30 643E B9D8 67FC
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01203c6f5c1c6fa3a55ac1ffe6ec54ef557278cb0bd1858f739a10f40c84d30c01f90a",
+      "fingerprint": "74b280a7a4cdd99284d10aab5f30643eb9d867fc",
+      "host": "keybase.io",
+      "key_id": "5f30643eb9d867fc",
+      "kid": "0101a23346601bd0e7d714deb119476f722f80ca52723a7dc22a86dfad670ba9167d0a",
+      "uid": "14f588ccac05cb0c0000819aed10b319",
+      "username": "markbenson"
+    },
+    "service": {
+      "hostname": "markbenson.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1540248025,
+  "expire_in": 157680000,
+  "prev": "bdd38339a6ea08115f5801c5b4675cf703de0a6108ad1f3010604b7166aae454",
+  "seqno": 12,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.80
+Comment: https://keybase.io/crypto
+
+yMNsAnicbVJrTFxFFF7KAulGHqkUhVRKLg2kkZqZ+95FaQqWRypVhBQIpOvce+fC
+LXR32V0QBAxVW0NY+lD7Anm02m1iUOlCKlirXSiWhqLSIBa1aaQRy6J92ZIqD51F
++0vnx0zmzHe+831nzvnQQJ0hwAyUlP4rJQsBI97WSl3RVzmTtZRkVWooUy1VhpcP
+XK5gh9NcpimUiQKQBozMq5wMyY4YxHFIhqqKeSxzLFY5TqAFUZaApECRE1WBMSII
+VBbIIqswQAZQNQJEJVGqZinBdptdszgJrcBKtAiQgFhZUYxGmoAhQEjiVAbwLIMl
+oyLygiqTxFKrw59BxEnIgZ/SrCRGLuZlef+Df6gbQEQzDMvzAEoKwIIiQFbBEoRG
+VuBVgaZVEciIowWaQYIi0zQSeUVFCi8ACRkhLyjLuiuX6SCrcqIoy0gGHDErA7JE
+aESYyJYYaPQDHdhuQTsxQe9E9jIJWxxWC1WfRJF4lSZjf2v9Xv6D+ceSzW51WmVr
+OXkqdTptDpM/1Vlj82NfxpL5XxazpFkU0kqSUYXtDo2UMEGClJ2anxZyLKBZEdBc
+EoWrbZodmzU/ghN40a/ZXwdXEUpJURiRIZ/FY0ScQI74A1DmJJYXOFkVAKNggHgI
+RKRA0mQIeMBKAuR5hDDLsZTfV4XFSrhpohOVEE6HVmJBzko7puoHvMV6XYBBFxy0
+wj9jOsPKiIeTFxgYoeu9M7fnl71h1uHs9OijlS1xA19vyTjw6uM10qdhmxYGf/Os
+zkooqbhqSntv1n1oX0FV+ejiZarnTKChYyL+0ftdrvrGn+9vj35iZLdrXvlrn3tx
+aHLXtD4kNeJkDz3QXrVpKsdTXdYUHf5Gasv84YvJG4M8fXcfe3ubfMZyvvET37N9
+T7900XWs+PZQddvckcHQd2efW1mRuGOoIu+R6+tQz9TpifmF99NmmkN/yjVeiBfX
+3OkIK9xgW2ur9qqdsxUnZzLMpoFrt5YeuLMnbl5q0vfONmRkDad789IP/dDjmz78
+442+jq6PHVHFvydGPd82ELnfvbH43rCryXZi/Ufj9fk5527kpYVGWcfquiM/vFTQ
+cCJ/LsC3O8J3Ntfwgu9oeMKF4111q+xbn7ls6E9p/CJVu9oc8s2VyXXN5UW9U7FF
+cv/35RkHC/HnXRW9E/mzdMO4cH3r5k7tV+Ha2qCDc9QHL5YeExI93+orBzO97W33
+WsWhmOilqYH62MjTyYW1DaemH+yfTkjZFb0iqbog8KwrLu+t+D9mvFtet445ssLT
+UWb2xGZfxyvx+pi+tptj4o5TXx7o9Aafe/JPz5ERU2L9qv7A8W1csGEmNth1vHvD
+4j5922fZraNxe5rj3py5tf61SaYOhux9h29Jzm2/7d7eEuNevWb0O1V2tjJe3VJN
+5lA7B+yeu92+vwEAGMiK
+=+U7r
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/markbenson
+
+==================================================================
+
