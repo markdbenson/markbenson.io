@@ -3,7 +3,7 @@ layout: post
 title: "Software Engineer"
 company: Logic Product Development
 location: Minneapolis, MN
-start: June 2002
+start: May 2001
 end: October 2007
 logo: /images/logo-logicpd.png
 date: 2002-06-01 16:38:49
@@ -22,4 +22,5 @@ categories: experience
 * Developed an application to streamline drug testing and associated chain-of-custody forms using Microsoft .NET, COM+, and Microsoft SQL Server.
 * Developed and executed automated and manual tests using an oscilloscope and signal generator to verify a safety-critical fiber-optic safety sensor.
 * Developed an application with a dynamic GUI that could be described in XML using MFC and C++ to program a family of industrial safety sensors.
+* Wrote a language and accompanying interpreter along with two (2) other Software Engineers to control a printer laminator/cutter/stapler/stacker device using C and an Hitachi H8S.
 
