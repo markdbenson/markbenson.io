@@ -15,12 +15,18 @@ menu: preface
 
   <div class="col-sm-8">
    
-                <p class="mb-20">Accomplished C-level technology leader. Experienced in strategic, operational, and financial management of cross-functional teams in highly-competitive markets. Successful track record of defining and realizing pragmatic product strategies to meet the requirements of complex enterprises across multiple functions and verticals. Strong interpersonal and formal communication skills.</p>
+                <p class="mb-20">[% site.cv.summary %]</p>
 
-<p class="mb-10"><span class="bold">SKILLS</span>: Product Development | Technology Leadership | Strategic Planning and Execution | Intellectual Property Portfolio Management | Software Architecture | Information Security | Competitive Strategy | Organizational Behavior</p>
+                <p class="mb-20"><span class="bold">SKILLS:</span> [% for skill in site.cv.skills %][% skill %] [% unless loop.last %]| [% end %][% end %]</p>
+                <div class="row">
+                    <div class="col-md-6">
+                        <p class="mb-30"><span class="bold">STRENGTHS:</span> [% for strength in site.cv.strengths %] [% strength %][% if loop.last %]. [% else %], [% end %][% end %]</p>
+                    </div>
+                    <div class="col-md-6">
+                        <p class="mb-30"><span class="bold">PERSONALITY:</span> [% site.cv.personality %]</p>
+                    </div>
+                </div>
 
-<p class="mb-30"><span class="bold">STRENGTHS</span>: Learner, Restorative, Individualization, Achiever, Intellection.</p>
-              
               <p><a href="/cv/" class="button large deeporange">Curriculum Vitae</a></p>
 
 [% comment %]
