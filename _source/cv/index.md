@@ -27,7 +27,7 @@ menu: cv
               </div>
               
               <div class="col-md-8" style="font-size: 1.3em; line-height: 1.3em;">
-                <h1>[% site.cv.title %]</h1>
+		<h1><span class="small">[% site.cv.title | upper %]<br /></span>[% site.cv.subtitle %]</h1>
                 <p class="mb-20">[% site.cv.summary %]</p>
                 <p class="mb-20"><span class="bold">SKILLS:</span> [% for skill in site.cv.skills %][% skill %] [% unless loop.last %]| [% end %][% end %]</p>
                 <div class="row">
@@ -38,7 +38,7 @@ menu: cv
                         <p class="mb-30"><span class="bold">PERSONALITY:</span> [% site.cv.personality %]</p>
                     </div>
                 </div>
-                <p class="mb-20"><a class="button large deeporange" href="/media/mdb_resume_2018.pdf">Download Mark Benson's Curriculum Vitae</a></p>
+                <p class="mb-20"><a class="button large deeporange" href="/media/mark-benson-resume.pdf">Download Mark Benson's Curriculum Vitae</a></p>
               </div>
 
             </div>
@@ -395,7 +395,7 @@ menu: cv
 
 <!-- CALL TO ACTION  -->
 <div class="port-view-more-cont-dark">
-    <a class="port-view-more-dark" href="/media/mdb_resume_2018.pdf">Download Full CV</a>
+    <a class="port-view-more-dark" href="/media/mark-benson-resume.pdf">Download Full CV</a>
 </div>
 
 
