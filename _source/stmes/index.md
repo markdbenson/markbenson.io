@@ -2,7 +2,7 @@
 layout: page
 title: The Art of Software Thermal Management for Embedded Systems
 subtitle: "An introduction to the art of controlling the thermodynamic behavior of computing systems with software."
-menu: cv
+menu: book
 header: transparent
 ---
 
