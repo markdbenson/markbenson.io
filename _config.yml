@@ -12,14 +12,14 @@ ignore :
 copyright: "[% use date %]&copy; Mark Benson 2001 - [% date.format(date.now, '%Y') %]"
 cv:
     title: Mark Benson
-    subtitle: Technology Product & Engineering Leader
+    subtitle: Product Management & Software Engineering Leader
     summary: Accomplished C-level technology leader. Experienced in strategic, operational, and financial management of cross-functional teams in highly-competitive markets. Successful track record of defining and realizing pragmatic product strategies to meet the requirements of complex enterprises across multiple functions and verticals. Strong interpersonal and formal communication skills.
     skills:
         - Strategic Planning
         - Product Management
-        - Competitive Strategy
         - Software Engineering Leadership
         - Information Security
+        - Competitive Strategy
         - Organizational Behavior
     strengths:
         - Learner
