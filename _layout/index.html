@@ -4,7 +4,7 @@
 
 <head>
   <title>[% if page.title != site.name %][% page.title _ ' - ' _ site.name %][% else %][% page.title %][% end %]</title>
-  [% include "meta.html" %]
+  [% include "include-meta.html" %]
 </head>
 
 <body>
@@ -17,10 +17,10 @@
   <div id="wrap" class="boxed ">
     <div class="grey-bg">
       <!-- Grey BG  -->
-      [% include "ie-warn.html" %]
+      [% include "include-ie-warn.html" %]
       <div class="header-transparent-bg-black">
 
-        [% include "header.html" %]
+        [% include "include-header.html" %]
 
         <!-- TOP PANEL -->
         <div id="about" class="page-section" style="background-image: url(/images/circuits-board_00450801.jpg)">
@@ -64,7 +64,7 @@
 
 
 
-    [% include "counters.html" %]
+    [% include "include-counters.html" %]
 
 
 
@@ -342,42 +342,8 @@
 
 [% end %]
 
-[% comment %]
 
-      <!-- INSTAGRAM -->
-      <div class="page-section pt-110-b-80-cont grey-dark-bg">
-        <div class="container">
-
-          <div class="mb-50">
-            <h2 class="section-title pr-0 font-white">RECENT <span class="bold">PHOTOS</span></h2>
-          </div>
-
-          <div class="row">
-          
-            <!-- INSTAGRAM GRID -->
-            <div id="instagram">
-		[% include "instagram.html" %]
-	    </div>
-            <!-- END INSTAGRAM GRID -->
-
-          </div>
-       
-          <div class="row">
-            <div class="mt-30 mr-20">
-              <a href="https://www.instagram.com/markbenson/" class="section-more right button medium deeporange">See more</a>
-            </div>
-          </div>
-
-        </div>
-      </div>
-      <!-- END INSTAGRAM -->
-
-[% end %]
-
-
-
-
-    [% include "footer.html" %]
+    [% include "include-footer.html" %]
 
 
     <!-- BACK TO TOP -->
@@ -390,7 +356,7 @@
   </div>
   <!-- End wrap -->
 
-  [% include "javascript.html" %]
+  [% include "include-javascript.html" %]
 
 </body>
 

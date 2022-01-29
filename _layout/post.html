@@ -10,7 +10,8 @@ layout: page
 </div>
 [% end %]
 
-<div class="post-prev-info">
+<!-- postmetadata is important to have here for importing older posts to Medium -->
+<div class="post-prev-info postmetadata">
   [% use date %][% date.format(page.date, '%d %B %Y') %]
   <span class="slash-divider">/</span><a href="/preface/">Mark Benson</a>
 </div>
@@ -42,7 +43,7 @@ layout: page
   [% end %]
 </div>
 
-[% include "author.html" %]
+[% include "include-author.html" %]
 
 </div>
 

@@ -4,7 +4,7 @@
 
 <head>
   <title>[% if page.title != site.name %][% page.title _ ' - ' _ site.name %][% else %][% page.title %][% end %]</title>
-  [% include "meta.html" %]
+  [% include "include-meta.html" %]
 </head>
 
 <body>
@@ -17,10 +17,10 @@
   <div id="wrap" class="boxed ">
     <div class="grey-bg">
       <!-- Grey BG  -->
-      [% include "ie-warn.html" %]
+      [% include "include-ie-warn.html" %]
       <div class="grey-dark-bg">
 
-        [% include "header.html" %]
+        [% include "include-header.html" %]
 
       </div>
       <!-- END HEADER -->
@@ -43,7 +43,7 @@
         [% page.content %]
       [% end %]
 
-    [% include "footer.html" %]
+    [% include "include-footer.html" %]
 
 
     <!-- BACK TO TOP -->
@@ -56,7 +56,7 @@
   </div>
   <!-- End wrap -->
 
-  [% include "javascript.html" %]
+  [% include "include-javascript.html" %]
 
 </body>
 
