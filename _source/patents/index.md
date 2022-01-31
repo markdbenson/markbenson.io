@@ -1,17 +1,17 @@
 ---
 layout: page
-title: Presentations
-subtitle: "Recent formal presentations"
+title: Patents
+subtitle: "Innovation awards and patents"
 menu: cv
 ---
 
-<!-- PRESENTATIONS -->
+<!-- START PATENTS -->
 <div class="page-section p-50-cont">
         <div class="container">
 
           <div class="row">
 
-            [% for post in site.categories.presentations.reverse %]
+            [% for post in site.categories.patents.reverse %]
             [% if post.link %]
               [% url = post.link %]
             [% else %]
@@ -56,4 +56,4 @@ menu: cv
 
         </div>
 </div>
-<!-- END PRESENTATIONS -->
+<!-- END PATENTS -->

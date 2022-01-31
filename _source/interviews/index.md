@@ -1,17 +1,17 @@
 ---
 layout: page
-title: Presentations
-subtitle: "Recent formal presentations"
+title: Interviews
+subtitle: "Media interviews"
 menu: cv
 ---
 
-<!-- PRESENTATIONS -->
+<!-- START INTERVIEWS -->
 <div class="page-section p-50-cont">
         <div class="container">
 
           <div class="row">
 
-            [% for post in site.categories.presentations.reverse %]
+            [% for post in site.categories.interviews.reverse %]
             [% if post.link %]
               [% url = post.link %]
             [% else %]
@@ -56,4 +56,4 @@ menu: cv
 
         </div>
 </div>
-<!-- END PRESENTATIONS -->
+<!-- END INTERVIEWS -->
