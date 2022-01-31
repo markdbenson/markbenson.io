@@ -31,9 +31,7 @@ menu: preface
 
    </div>
 
-</div>
-
-   [% include "include-counters.html" %]
+</div>[% include "include-counters.html" %]
 [% comment %]
 <div class="divider"><i class="fa fa-star"></i></div>
 <dl class="toggle">

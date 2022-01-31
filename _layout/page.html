@@ -26,8 +26,8 @@
       <!-- END HEADER -->
 
 
-      <!-- PAGE TITLE SMALL -->
       [% unless page.header == "transparent" %]
+      <!-- PAGE TITLE SMALL -->
       <div class="page-title-cont page-title-small grey-light-bg">
         <div class="relative container align-left">
           <div class="row">
@@ -44,20 +44,16 @@
           </div>
         </div>
       </div>
-      [% else %]
-        [% page.content %]
-      [% end %]
       <!-- END PAGE TITLE SMALL -->
 
-<div class="page-section p-50-cont">
-    <div class="row">
-      [% page.content %]
-    </div>
-</div>
+      <div class="page-section p-50-cont">
+          <div class="row">
+            [% page.content %]
+          </div>
+      </div>
+      [% else %][% page.content %][% end %]
 
-
-[% include "include-footer.html" %]
-
+      [% include "include-footer.html" %]
 
     <!-- BACK TO TOP -->
     <p id="back-top">
