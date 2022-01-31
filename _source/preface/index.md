@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Preface
-subtitle: About Mark Benson 
+subtitle: About Mark Benson
 menu: preface
 ---
 
-<div class="container">
+<div class="container pb-40">
 
   <div class="col-sm-4 lightbox-item">
     <a href="/images/mdb_edina_grill_small.jpg" class="lightbox">
@@ -14,7 +14,7 @@ menu: preface
   </div>
 
   <div class="col-sm-8">
-   
+
                 <p class="mb-20">[% site.cv.summary %]</p>
 
                 <p class="mb-20"><span class="bold">SKILLS:</span> [% for skill in site.cv.skills %][% skill %] [% unless loop.last %]| [% end %][% end %]</p>
@@ -28,6 +28,15 @@ menu: preface
                 </div>
 
               <p><a href="/cv/" class="button large deeporange">Curriculum Vitae</a></p>
+
+   </div>
+
+</div>
+
+   [% include "include-counters.html" %]
+
+
+
 
 [% comment %]
 <div class="divider"><i class="fa fa-star"></i></div>
@@ -58,9 +67,6 @@ menu: preface
 </dl>
 [% end %]
 
-  </div>
-</div>
 
-[ln1]: http://exosite.com/ "Exosite"
+
 [ln2]: /images/mug.jpg "Mark Benson"
-

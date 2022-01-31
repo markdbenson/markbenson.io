@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Curriculum Vitae
-subtitle: "Experience, education, publications, presentations, interviews, patents, and honors & awards."
+subtitle: "Education, Experience, and Accomplishments"
 menu: cv
 ---
 
@@ -10,7 +10,7 @@ menu: cv
 <div class="page-section pt-80-b-50-cont">
 <div class="container">
             <div class="row">
-                
+
               <div class="col-md-4">
                 <div class="lightbox-item">
                   <a href="/images/titans_of_technology_profile_mark_benson.jpg" class="lightbox">
@@ -25,7 +25,7 @@ menu: cv
                   </a>  
                 </div>
               </div>
-              
+
               <div class="col-md-8" style="font-size: 1.3em; line-height: 1.3em;">
 		<h1><span class="small">[% site.cv.title | upper %]<br /></span>[% site.cv.subtitle %]</h1>
                 <p class="mb-20">[% site.cv.summary %]</p>
@@ -42,7 +42,7 @@ menu: cv
               </div>
 
             </div>
-          
+
 </div>
 </div>
 <!-- END SUMMARY -->
@@ -397,9 +397,3 @@ menu: cv
 <div class="port-view-more-cont-dark">
     <a class="port-view-more-dark" href="/media/mark-benson-resume.pdf">Download Full CV</a>
 </div>
-
-
-
-
-
-

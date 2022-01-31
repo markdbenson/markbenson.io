@@ -14,12 +14,6 @@ menu: notabene
 <!-- PAGE SECTION -->
 <div class="container mb-50">
 
-<div class="mb-50">
-<blockquote class="custom-blockquote">
-<p>The essays, articles, and links below are about the Internet of Things (IoT), it's origins, challenges, and opportunities to combine new business models, technology innovation, and customer-centric design approaches to help businesses make better decisions, allow people to do more with less, and make the world a better place.</p>
-<footer><cite title="Mark Benson">Mark Benson</cite></footer>
-</blockquote>
-</div>
 
 [% comment %]
 
@@ -97,5 +91,3 @@ menu: notabene
 </div>
 <!-- END CONTAINER -->
 <!-- END OLDER ARTICLES -->
-
-

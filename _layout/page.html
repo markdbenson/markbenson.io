@@ -25,25 +25,38 @@
       </div>
       <!-- END HEADER -->
 
+
+      <!-- PAGE TITLE SMALL -->
       [% unless page.header == "transparent" %]
-      <div class="page-section pt-150-b-50-cont">
+      <div class="page-title-cont page-title-small grey-light-bg">
+        <div class="relative container align-left">
+          <div class="row">
 
-        [% unless page.style == "plain" %]
-        <div class="container">
-            <div class="mb-30">
-              <h2 class="section-title"><span class="bold">[% if page.link %]<a href="[% page.link %]">[% end %][% page.title | upper | smart %][% if page.link %]</a>[% end %]</span>[% if page.subtitle %]<br /><span style="font-size: .7em;">[% page.subtitle | smart %]</span>[% end %]</h2>
+            [% unless page.style == "plain" %]
+            <div class="col-md-12">
+              <h1 class="page-title">
+                <span class="bold">[% if page.link %]<a href="[% page.link %]">[% end %][% page.title | upper | smart %][% if page.link %]</a>[% end %]</span>
+                [% if page.subtitle %]<br /><span style="font-size: .5em; line-height: 1em;">[% page.subtitle | smart %]</span>[% end %]
+              </h1>
             </div>
+            [% end %]
+
+          </div>
         </div>
-        [% end %]
-
-        [% page.content %]
-
       </div>
       [% else %]
         [% page.content %]
       [% end %]
+      <!-- END PAGE TITLE SMALL -->
 
-    [% include "include-footer.html" %]
+<div class="page-section p-50-cont">
+    <div class="row">
+      [% page.content %]
+    </div>
+</div>
+
+
+[% include "include-footer.html" %]
 
 
     <!-- BACK TO TOP -->
