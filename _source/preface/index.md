@@ -15,7 +15,7 @@ menu: preface
 
   <div class="col-sm-8">
 
-                <p class="mb-20">[% site.cv.summary %]</p>
+                <h3 class="mb-50">[% site.cv.statement %]</h3>
 
                 <p class="mb-20"><span class="bold">SKILLS:</span> [% for skill in site.cv.skills %][% skill %] [% unless loop.last %]| [% end %][% end %]</p>
                 <div class="row">

@@ -3,7 +3,8 @@ layout: post
 title: "Organizational psychology of the Internet of Things"
 date: 2022-01-27 10:50:11
 categories: notabene
-link: http://markbenson.io/presentations/2018/09/iot-cybersecurity-and-innovation-for-regulated-industries/
+feature: yes
+thumbnail: "https://live.staticflickr.com/2831/34147047696_db3e09400c_b.jpg"
 ---
 
 We are in the midst of a major confrontation between an irresistible force and an immovable object. The irresistible force is technology disruption, and the immovable object is the change monster — the inability of large organizations to make the necessary changes to remain competitive on the global stage in a world that is swiftly turning digital.
@@ -77,5 +78,6 @@ Five ways organizations can build a sustainable IoT competency include:
 
 The key to success tomorrow is directly proportional to an organization’s ability to transform themselves into a digital enterprise today, and this transformation is both technological and psychological in nature. IoT with smart, connected products will redefine entire markets and the very nature of competition in the coming years. By solving the IoT puzzle from the outside in and following these best practices, the potential for success is exceedingly strong and will lead to an organization that is best equipped to compete and perform over the coming decade.
 
-_Originally published at https://internetofthingsagenda.techtarget.com._
+_Originally published at [https://internetofthingsagenda.techtarget.com][ln1]._
 
+[ln1]: "The organizational psychology of IoT - IoT Agenda" https://internetofthingsagenda.techtarget.com/blog/IoT-Agenda/The-organizational-psychology-of-IoT

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Colophon
-subtitle: "How this site was made"
+subtitle: "Production notes"
 menu: colophon
 ---
 
