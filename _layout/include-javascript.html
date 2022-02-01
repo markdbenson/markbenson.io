@@ -29,37 +29,6 @@
   <!-- OWL CAROUSEL -->
   <script type="text/javascript" src="/js/owl.carousel.min.js"></script>
 
-  <!-- INSTAGRAM FEED -->
-  <script type="text/javascript" src="/js/instafeed.js"></script>
-
-<script type="text/javascript">
-var feed = new Instafeed({
-        get: 'user',
-        userId: 5621614,
-        accessToken: '5621614.3e06607.20537b2c8ee7473097265f4104e76fa3',
-        target: 'instagram',
-        resolution: 'standard_resolution',
-        limit: 8,
-        template: `
-          <div class="col-sm-4 pb-20 port-item mix development wow fadeInRight">
-            <a href="{{link}}" class="lightbox">
-              <div class="port-img-overlay">
-                <img src="{{image}}" alt="{{caption}} by Mark Benson ({{location}})" class="port-main-img" />
-              </div>
-            </a>
-            <div class="port-overlay-cont">
-              <div class="port-title-cont">
-                <h3><a href="{{link}}">{{caption}}</a></h3>
-                <span><a href="{{link}}">{{location}}</a></span>
-              </div>
-            </div>
-          </div>`
-});
-
-feed.run();
-
-</script>
-
   <!-- MAIN SCRIPT -->
   <script src="/js/main.js"></script>
 
