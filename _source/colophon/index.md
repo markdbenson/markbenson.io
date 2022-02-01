@@ -5,7 +5,7 @@ subtitle: "How this site was made"
 menu: colophon
 ---
 
-<div class="container pb-40">
+<div class="container p-50-cont">
 
 <p>This site is written and published using a static content management system that I wrote in perl called <a href="/dapper/" title="Dapper">Dapper</a>.</p>
 

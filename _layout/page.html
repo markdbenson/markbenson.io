@@ -28,7 +28,7 @@
 
       [% unless page.header == "transparent" %]
       <!-- PAGE TITLE SMALL -->
-      <div class="page-title-cont page-title-small grey-light-bg">
+        <div class="page-title-cont page-title-small grey-light-bg">
         <div class="relative container align-left">
           <div class="row">
 
@@ -46,11 +46,12 @@
       </div>
       <!-- END PAGE TITLE SMALL -->
 
-      <div class="page-section p-50-cont">
+      <div class="page-section">
           <div class="row">
-            [% page.content %]
+            [% page.content  %]
           </div>
       </div>
+
       [% else %][% page.content %][% end %]
 
       [% include "include-footer.html" %]

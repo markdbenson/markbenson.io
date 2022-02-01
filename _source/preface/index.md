@@ -5,7 +5,7 @@ subtitle: About Mark Benson
 menu: preface
 ---
 
-<div class="container pb-40">
+<div class="container p-50-cont">
 
   <div class="col-sm-4 lightbox-item">
     <a href="/images/mdb_edina_grill_small.jpg" class="lightbox">
@@ -31,7 +31,10 @@ menu: preface
 
    </div>
 
-</div>[% include "include-counters.html" %]
+</div>
+
+[% include "include-counters.html" %]
+
 [% comment %]
 <div class="divider"><i class="fa fa-star"></i></div>
 <dl class="toggle">

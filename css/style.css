@@ -3052,14 +3052,17 @@ select.input-border {
 =====================================================*/
 .footer-copy {
   margin-top:5px;
+  color:#8e9092;
+  font-size:12px;
 }
 .footer-copy a{
   font-size:14px;
   color:#7e8082;
 }
 .footer-soc-a a {
-  font-size:16px;
-  padding:12px;
+  font-size:30px;
+  padding-right: 18px;
+  color:#7e8082;
 }
 
 /* #FOOTER 2 NEW
