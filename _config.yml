@@ -1,6 +1,7 @@
 # Dapper config file
 ---
 name: Mark Benson
+author: Mark Benson
 url: https://markbenson.io/
 ignore :
     - "^\."
@@ -10,7 +11,7 @@ ignore :
     - "^Makefile$"
     - ".DS_Store"
     - "access.log"
-copyright: "[% use date %]&copy; Mark Benson 2001 - [% date.format(date.now, '%Y') %]"
+copyright: "[% use date %]&copy; [% site.author %] 2001 - [% date.format(date.now, '%Y') %]"
 cv:
     title: Mark Benson
     subtitle: Product Management & Software Engineering Leader
