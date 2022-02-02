@@ -12,7 +12,7 @@
     <email>mark@markbenson.io</email>
   </author>
 
-  [% for post in site.categories.notabene %]
+  [% for post in site.categories.notabene.reverse %]
   <entry>
     <id>[% site.url %][% post.id %]</id>
     <link type="text/html" rel="alternate" href="[% post.url | xml_escape %]"/>
