@@ -3,7 +3,7 @@ layout: post
 title: "Interviewed by Forbes on Cyber Security and DDoS Mitigation Strategies"
 date: 2017-02-07 14:21:27
 categories: notabene
-link: http://www.forbes.com/sites/forbestechcouncil/2017/02/07/how-to-shore-up-your-defenses-against-ddos-attacks/#7a3fe07c4578 "How To Shore Up Your Defenses Against DDoS Attacks"
+link: http://www.forbes.com/sites/forbestechcouncil/2017/02/07/how-to-shore-up-your-defenses-against-ddos-attacks/#7a3fe07c4578
 ---
 
 I was honored this week to be [interviewed][ln1] by [Forbes][ln2] on a cyber security Q&A piece on how to mitigate DDoS attacks:
