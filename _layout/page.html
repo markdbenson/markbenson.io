@@ -27,24 +27,25 @@
 
 
       [% unless page.header == "transparent" %]
+      
+      [% unless page.style == "plain" %]
       <!-- PAGE TITLE SMALL -->
         <div class="page-title-cont page-title-small grey-light-bg">
         <div class="relative container align-left">
           <div class="row">
 
-            [% unless page.style == "plain" %]
             <div class="col-md-12">
               <h1 class="page-title">
                 <span class="bold">[% if page.link %]<a href="[% page.link %]">[% end %][% page.title | upper | smart %][% if page.link %]</a>[% end %]</span>
                 [% if page.subtitle %]<br /><span style="font-size: .5em; line-height: 1em;">[% page.subtitle | smart %]</span>[% end %]
               </h1>
             </div>
-            [% end %]
 
           </div>
         </div>
       </div>
       <!-- END PAGE TITLE SMALL -->
+      [% end %]
 
       <div class="page-section">
           <div class="row">
