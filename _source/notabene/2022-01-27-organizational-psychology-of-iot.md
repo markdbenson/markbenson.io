@@ -80,4 +80,4 @@ The key to success tomorrow is directly proportional to an organization’s abil
 
 _Originally published at [https://internetofthingsagenda.techtarget.com][ln1]._
 
-[ln1]: "The organizational psychology of IoT - IoT Agenda" https://internetofthingsagenda.techtarget.com/blog/IoT-Agenda/The-organizational-psychology-of-IoT
+[ln1]: https://internetofthingsagenda.techtarget.com/blog/IoT-Agenda/The-organizational-psychology-of-IoT "The organizational psychology of IoT - IoT Agenda"
