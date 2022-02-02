@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Nota Bene
-subtitle: A blog about leadership and the smart connected living
+subtitle: A blog about leadership and smart connected living
 menu: notabene
 ---
 
