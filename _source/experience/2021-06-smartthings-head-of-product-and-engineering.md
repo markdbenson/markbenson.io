@@ -4,7 +4,7 @@ title: "Head of Product & Engineering"
 company: SmartThings
 location: Minneapolis, MN
 start: June 2021
-end: Present 
+end: February 2022
 logo: /images/logo-smartthings.png
 date: 2021-06-10 16:38:49
 categories: experience
