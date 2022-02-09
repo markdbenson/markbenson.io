@@ -15,7 +15,8 @@ serve:
 	$(DAPPER) serve
 
 publish:
-	s3cmd sync $(OUTPUTDIR)/ s3://$(S3_BUCKET) --reduced-redundancy --acl-public --delete-removed $(INVALIDATE)
+	#s3cmd sync $(OUTPUTDIR)/ s3://$(S3_BUCKET) --reduced-redundancy --acl-public --delete-removed $(INVALIDATE)
+	aws s3 sync $(OUTPUTDIR)/ s3://$(S3_BUCKET) --acl public-read --delete
 
 watch:
 	$(DAPPER) watch
