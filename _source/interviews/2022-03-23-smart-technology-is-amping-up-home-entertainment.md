@@ -6,7 +6,7 @@ publisher: Axios
 categories: interviews
 ---
 
-[Featured][ln1] in a piece by Jennifer A. Kingson about trends in smart home technology and how they are specifically enabling entertainment and recreation use cases that make homes more satisfying and immersive.
+[Interviewed][ln1] for a piece by Jennifer A. Kingson about trends in smart home technology and how they are specifically enabling entertainment and recreation use cases that make homes more satisfying and immersive.
 
 > "This is a pivotal moment, actually right now this year," for smart home technology, says Mark Benson, head of Samsung's SmartThings U.S., which makes IoT systems for "connected living."
 > 
