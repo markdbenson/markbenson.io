@@ -2445,9 +2445,9 @@ table.shopping-cart-table tr th, table.shopping-cart-table tr td {
 .blog2-post-title-cont .post-prev-info {
   margin:0;
 }
-.blog2-post-prev-text blockquote p {
+.blog2-post-prev-text blockquote {
     font-size: 14px;
-    line-height: 27px;
+    line-height: 2em;
 
 }
 @media (max-width: 768px) {
@@ -2467,7 +2467,7 @@ table.shopping-cart-table tr th, table.shopping-cart-table tr td {
 
 /*	#BLOG #WIDGETS #NEW
 ===============================================*/
-.blog-post .post-prev-text p {
+.blog-post .post-pSmart technology is amping up home entertainmentrev-text p {
   margin-bottom:20px;
 }
 .widget-search-form  {
