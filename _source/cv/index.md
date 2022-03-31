@@ -246,12 +246,12 @@ menu: cv
 
 
 
-<!-- INTERVIEWS -->
+<!-- INTERVIEWS & MEDIA COVERAGE -->
 <div class="page-section pt-110-b-30-cont grey-light-bg" id="interviews">
   <div class="container">
 
     <div class="mb-50">
-      <h2 class="section-title pr-0"><span class="bold">INTERVIEWS</span></h2>
+      <h2 class="section-title pr-0"><span class="bold">INTERVIEWS & MEDIA COVERAGE</span></h2>
     </div>
 
     <div class="row">
@@ -290,7 +290,7 @@ menu: cv
 
   </div>
 </div>
-<!-- END INTERVIEWS -->
+<!-- END INTERVIEWS & MEDIA COVERAGE -->
 
 
 
