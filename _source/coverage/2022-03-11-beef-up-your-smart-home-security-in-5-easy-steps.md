@@ -3,7 +3,7 @@ layout: post
 title: "Beef up your smart home security in 5 easy steps"
 date: 2022-03-11 06:00:00
 publisher: CNET
-categories: interviews
+categories: media 
 ---
 
 [Featured][ln1] in a piece by Attila Tomaschek about how smart homes are getting better and what users can do to get organized and protect their home against security threats.

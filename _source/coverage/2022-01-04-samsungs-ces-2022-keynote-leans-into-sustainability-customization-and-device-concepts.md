@@ -3,7 +3,7 @@ layout: post
 title: "Samsung's CES 2022 keynote leans into sustainability, customization and device concepts"
 date: 2022-01-04 06:50:17
 publisher: CNET
-categories: interviews
+categories: media
 ---
 
 [Featured][ln1] in a piece by David Lumb about Samsung's CES 2022 keynote presentation on sustainability, customization, and device concepts.

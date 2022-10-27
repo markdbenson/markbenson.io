@@ -3,7 +3,7 @@ layout: post
 title: "Smart homes see big breakthrough at CES 2022"
 date: 2022-01-24 08:00:00
 publisher: CNN International
-categories: interviews
+categories: media
 ---
 
 [Featured][ln1] in a news piece by Selina Wang smart home tech at CES 2022, and the widespread adoption of the new industry standard Matter.
