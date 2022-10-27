@@ -2,7 +2,7 @@
 layout: page
 title: Media Coverage
 subtitle: "News articles, media, and press"
-menu: cv
+menu: preface
 ---
 
 <!-- START MEDIA COVERAGE -->
