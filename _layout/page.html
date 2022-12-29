@@ -87,14 +87,9 @@
       </dl>
       [% end %]
 
+      [% if page.byline == "yes" %][% include "include-author.html" %][% end %]
 
-
-
-
-
-
-
-      [% include "include-footer.html" %]
+      [% include "include-footer.html" | trim %]
 
     <!-- BACK TO TOP -->
     <p id="back-top">

@@ -3,6 +3,7 @@ layout: page
 title: Interviews
 subtitle: "Media interviews"
 menu: cv
+byline: yes
 ---
 
 <!-- START INTERVIEWS -->
@@ -46,12 +47,6 @@ menu: cv
             </div>
             [% end %]
 
-          </div>
-
-          <div class="row">
-            <div class="mb-50">
-              <a href="/cv/" class="section-more right button medium deeporange">Curriculum Vitae</a>
-            </div>
           </div>
 
         </div>

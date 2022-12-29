@@ -1,8 +1,9 @@
 ---
 layout: page
 title: Media Coverage
-subtitle: "News articles, media, and press"
+subtitle: "News articles and press releases"
 menu: preface
+byline: yes
 ---
 
 <!-- START MEDIA COVERAGE -->
@@ -46,12 +47,6 @@ menu: preface
             </div>
             [% end %]
 
-          </div>
-
-          <div class="row">
-            <div class="mb-50">
-              <a href="/cv/" class="section-more right button medium deeporange">Curriculum Vitae</a>
-            </div>
           </div>
 
         </div>

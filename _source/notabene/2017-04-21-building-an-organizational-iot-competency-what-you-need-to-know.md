@@ -20,5 +20,5 @@ Honored to be [published][ln1] in [Forbes][ln2] this week on how organizations c
 
 [ln1]: https://www.forbes.com/sites/forbestechcouncil/2017/04/21/building-an-organizational-iot-competency-what-you-need-to-know/
 [ln2]: https://www.forbes.com
-[ln3]: http://markbenson.io/media/conscious_learning_model_for_orgaizations.png
+[ln3]: /images/conscious_learning_model_for_orgaizations.png
 

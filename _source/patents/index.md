@@ -3,6 +3,7 @@ layout: page
 title: Patents
 subtitle: "Innovation awards and patents"
 menu: cv
+byline: yes
 ---
 
 <!-- START PATENTS -->
@@ -46,12 +47,6 @@ menu: cv
             </div>
             [% end %]
 
-          </div>
-
-          <div class="row">
-            <div class="mb-50">
-              <a href="/cv/" class="section-more right button medium deeporange">Curriculum Vitae</a>
-            </div>
           </div>
 
         </div>
