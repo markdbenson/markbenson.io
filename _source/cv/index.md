@@ -13,9 +13,9 @@ menu: cv
 
               <div class="col-md-4">
                 <div class="lightbox-item">
-                  <a href="/images/titans_of_technology_profile_mark_benson.jpg" class="lightbox">
+                  <a href="/images/mark-benson-santa-cruz.jpg" class="lightbox">
                   <div class="port-img-overlay">
-                    <img class="port-main-img" src="/images/titans_of_technology_profile_mark_benson.jpg" alt="img" >
+                    <img class="port-main-img" src="/images/mark-benson-santa-cruz.jpg" alt="img" >
                   </div>
                   <div class="port-overlay-cont">
                     <div class="port-btn-cont">
