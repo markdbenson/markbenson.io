@@ -20,17 +20,31 @@ $ dapper init       # Initialize current directory with new site
 $ dapper serve      # Build and serve locally at http://localhost:8000
 </code></pre>
 
-<p>Other features include:</p>
+<p>I wrote Dapper with three goals in mind:</p>
+
+<ol>
+<li><b>Simple</b>. Learning Dapper is easy — it gets out of the way so you can write content, develop layouts, and deploy to production the way you want.</li>
+<li><b>Flexible</b>. Content is written in Markdown, and templates are written using the TT3 mini-language from Template::Alloy for maximum flexibility.</li>
+<li><b>Pragmatic</b>. The easy things are easy and the hard things are possible. Dapper was created to solve problems in a straight-forward and intuitive way.</li>
+</ol>
+
+<p>When I designed Dapper, I wanted it to be a static generator instead of a dynamic and database-backed for a few key reasons:</p>
 
 <ul>
-<li>Filters</li>
-<li>Includes</li>
-<li>Macros</li>
-<li>Blocks</li>
-<li>Footnotes</li>
+<li><b>Fast</b>. Static pages are fast to load and easy to cache. Content management systems, on the other hand, may contact the database at least one time per page request, process the results, merge with a templating system, and serve the result to the user’s web browser.</li>
+<li><b>Efficient</b>. Having a static website means that options for hosting those static files also just got a lot more simple. No database is needed and no real processing power for scripting is needed. For example, with a static website, it becomes possible to host the site on Github Pages for free, or Amazon S3 for very modest fees.</li>
+<li><b>Secure</b>. It’s much more secure to host a static website than a dynamic one. Content management systems that use scripting languages such as Perl, Python, or Ruby, all are more susceptible to being hacked than a static website is. Simply stated, why use a dynamic content- management system if a static setup will do?</li>
+<li><b>Portable</b>. With a static website, it’s way easier to move the site to a new host in the future. All web hosts now and in the future support serving up a static website — think of it as the lowest common denominator — and so there’s no need to pick a premium host with premium services.</li>
+</ul>
+
+<p>In 2014, Dapper was submitted as a Perl module (App::Dapper) to CPAN under the MIT license for anyone to use for any purpose. Key features:</p>
+
+<ul>
+<li>Written in perl, available as a command line utility after installing.</li>
+<li>Content is written in Markdown.</li>
+<li>Configuration files and attributes are encoded with YAML.</li>
+<li>Layouts are developed using TT3 from the Template::Alloy templating engine.</li>
 <li>Built-in development webserver</li>
-<li>Advanced whitespace chomping</li>
-<li>Easy instructions for publishing to Amazon S3 or Github Pages</li>
 </ul>
 
 <p>Read more about Dapper here: <a href="/dapper/">http://markbenson.io/dapper/</a></p>
