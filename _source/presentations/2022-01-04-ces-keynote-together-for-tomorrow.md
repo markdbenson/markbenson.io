@@ -17,7 +17,7 @@ Headlined by Vice Chairman, CEO, and head of Samsung Electronics’ DX (Device e
 
 📢: Pearson Cummings, Monica Couvillion, Greg St. Claire, Samantha Fein, Christine Lehrer, Veronica Ford, Suhyun Kim, Faith Kim, Brenda Bomyoung Jung, and Yoon Ho Choi.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Hz_Wdu50aQ?start=2448" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ektOK5iPUHA?start=2448" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 > ABSTRACT: On January 4, Samsung Electronics will kick off the 2022 edition of the Consumer Electronics Show (CES) with a pre-show keynote address held a day before the world’s most influential technology event is set to begin. The keynote will take place at 6:30 p.m. local time (9:30 p.m. EST) at the Venetian’s Palazzo Ballroom in Las Vegas.
 >
