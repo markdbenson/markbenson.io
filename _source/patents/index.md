@@ -4,7 +4,7 @@ count: [% p = 0 %][% for post in site.categories.patents %][% p = p + 1 %][% end
 title: Patents
 subtitle: "Innovation awards and patents"
 menu: cv
-byline: yes
+byline: no
 ---
 
 <!-- START PATENTS -->

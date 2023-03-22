@@ -4,7 +4,7 @@ count: [% p = 0 %][% for post in site.categories.honors %][% p = p + 1 %][% end 
 title: Honors
 subtitle: "Awards and recognitions"
 menu: cv
-byline: yes
+byline: no
 ---
 
 <!-- START HONORS -->

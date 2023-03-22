@@ -4,7 +4,7 @@ count: [% p = 0 %][% for post in site.categories.presentations %][% p = p + 1 %]
 title: Presentations
 subtitle: "Invited presentations and keynotes"
 menu: cv
-byline: yes
+byline: no
 ---
 
 <!-- PRESENTATIONS -->

@@ -2,9 +2,9 @@
 layout: page
 count: [% p = 0 %][% for post in site.categories.publications %][% p = p + 1 %][% end %][% p %]
 title: Publications
-subtitle: "Published articles"
+subtitle: "Published papers, contributed articles, and a textbook"
 menu: cv
-byline: yes
+byline: no
 ---
 
 <!-- PUBLICATIONS -->

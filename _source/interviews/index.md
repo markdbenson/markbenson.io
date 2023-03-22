@@ -4,7 +4,7 @@ count: [% p = 0 %][% for post in site.categories.interviews %][% p = p + 1 %][% 
 title: Interviews
 subtitle: "Invited interviews with media and press"
 menu: cv
-byline: yes
+byline: no 
 ---
 
 <!-- START INTERVIEWS -->

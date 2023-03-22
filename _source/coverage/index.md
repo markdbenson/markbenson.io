@@ -4,7 +4,7 @@ count: [% p = 0 %][% for post in site.categories.coverage %][% p = p + 1 %][% en
 title: Media Coverage
 subtitle: "News articles and press release mentions"
 menu: preface
-byline: yes
+byline: no
 ---
 
 <!-- START MEDIA COVERAGE -->
