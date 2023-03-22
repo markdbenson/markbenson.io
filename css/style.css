@@ -1396,6 +1396,9 @@ support for no js
 .grey-light-bg{
 	background-color:#eee;
 }
+.grey-medium-bg{
+    background-color:#505256;
+}
 .grey-dark-bg, .header.no-transparent .header-wrapper.grey-dark-bg{
 	background-color:#303236;
 }
