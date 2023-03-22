@@ -3,7 +3,7 @@ layout: post
 title: "Samsung expands SmartThings Hub capabilities to more Galaxy products during 2022"
 date: 2022-01-05 08:17:57
 publisher: Sammy Fans
-categories: media
+categories: coverage 
 ---
 
 [Featured][ln1] in a piece by Lue Kun on how Samsung is expanding SmartThings Hub functionality to more products in 2022.

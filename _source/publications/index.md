@@ -1,7 +1,8 @@
 ---
 layout: page
+count: [% p = 0 %][% for post in site.categories.publications %][% p = p + 1 %][% end %][% p %]
 title: Publications
-subtitle: "Recent formal publications"
+subtitle: "Published articles"
 menu: cv
 byline: yes
 ---

@@ -37,8 +37,8 @@
             <div class="col-md-12">
               <h1 class="page-title">
                 <span class="bold">[% if page.link %]<a href="[% page.link %]">[% end %][% page.title | upper | smart %][% if page.link %]</a>[% end %]</span>
-                [% if page.subtitle %]<br /><span style="font-size: .5em; line-height: 1em;">[% page.subtitle | smart %]</span>[% end %]
-              </h1>
+				[% if page.subtitle %]<br /><span style="font-size: .5em; line-height: 1em;">[% if page.count %][% page.count %] [% end %][% page.subtitle | smart %]</span>[% end %]
+				</h1>
             </div>
 
           </div>

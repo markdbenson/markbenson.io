@@ -3,7 +3,7 @@ layout: post
 title: "Matter was a major star at CES 2022, but can it maintain its shine?"
 date: 2022-01-08 08:00:00
 publisher: The Verge
-categories: media
+categories: coverage 
 ---
 
 [Featured][ln1] in a piece by Jennifer Pattison Tuohy about the Matter smart home standard and the momentum it gained through widespread support by leading smart home brands at CES 2022 in Las Vegas.

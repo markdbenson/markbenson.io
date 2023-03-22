@@ -1,7 +1,8 @@
 ---
 layout: page
+count: [% p = 0 %][% for post in site.categories.coverage %][% p = p + 1 %][% end %][% p %]
 title: Media Coverage
-subtitle: "News articles and press releases"
+subtitle: "News articles and press release mentions"
 menu: preface
 byline: yes
 ---
@@ -12,7 +13,7 @@ byline: yes
 
           <div class="row">
 
-            [% for post in site.categories.media.reverse %]
+            [% for post in site.categories.coverage.reverse %]
             [% if post.link %]
               [% url = post.link %]
             [% else %]
