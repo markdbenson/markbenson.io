@@ -1,21 +1,19 @@
 
+[% macro count(l) block %]
+    [% c = 0 %]
+    [% for i in l %][% c = c + 1 %][% end %]
+    [% c %]
+[% end %]
+
 <!-- COUNTERS -->
 <div id="counter-1" class="page-section p-50-cont grey-light-bg">
       <div class="container">
-
         <div class="row text-center">
 
           <!-- Item -->
           <div class="col-sm-3">
             <div class="count-number">
-              [% p = 0 %]
-              [% for post in site.categories.publications %]
-                [% p = p + 1 %]
-              [% end %]
-              [% for post in site.categories.presentations %]
-                [% p = p + 1 %]
-              [% end %]
-              [% p %]
+              [% count(site.categories.publications) + count(site.categories.presentations) %]
             </div>
             <div class="count-descr">
               <a href="/cv/#publications"><span class="count-title">PUBLICATIONS</span></a> &
@@ -26,8 +24,7 @@
           <!-- Item -->
           <div class="col-sm-3">
             <div class="count-number">
-              [% use date %]
-              [% date.format(date.now, '%Y') - 1999 %]
+              [% use date %][% date.format(date.now, '%Y') - 1999 %]
             </div>
             <div class="count-descr">
               <a href="/cv/#experience"><span class="count-title">YEARS OF EXPERIENCE</span></a>
@@ -37,11 +34,7 @@
           <!-- Item -->
           <div class="col-sm-3">
             <div class="count-number">
-              [% p = 0 %]
-              [% for post in site.categories.patents %]
-                [% p = p + 1 %]
-              [% end %]
-              [% p %]
+              [% count(site.categories.patents) | trim %]
             </div>
             <div class="count-descr">
               <a href="/cv/#patents"><span class="count-title">PATENTS</span></a>
@@ -51,11 +44,7 @@
           <!-- Item -->
           <div class="col-sm-3">
             <div class="count-number">
-              [% p = 0 %]
-              [% for post in site.categories.honors %]
-                [% p = p + 1 %]
-              [% end %]
-              [% p %]
+              [% count(site.categories.honors) | trim %]
             </div>
             <div class="count-descr">
               <a href="/cv/#honors"><span class="count-title">HONORS & AWARDS</span></a>
@@ -64,4 +53,6 @@
 
         </div>
       </div>
-</div><!-- END COUNTERS -->
+</div>
+<!-- END COUNTERS -->
+
