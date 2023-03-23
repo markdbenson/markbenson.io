@@ -26,7 +26,7 @@ menu: cv
                 </div>
               </div>
 
-              <div class="col-md-8" style="font-size: 1.3em; line-height: 1.3em;">
+              <div class="col-md-8" style="font-size: 1.1em; line-height: 1.3em;">
 		<h1><span class="small">[% site.cv.title | upper %]<br /></span>[% site.cv.subtitle %]</h1>
                 <p class="mb-20">[% site.cv.summary %]</p>
                 <p class="mb-20"><span class="bold">SKILLS:</span> [% for skill in site.cv.skills %][% skill %] [% unless loop.last %]| [% end %][% end %]</p>
@@ -38,14 +38,18 @@ menu: cv
                         <p class="mb-30"><span class="bold">PERSONALITY:</span> [% site.cv.personality %]</p>
                     </div>
                 </div>
-                <p class="mb-20"><a class="button large deeporange" href="/media/mark-benson-resume.pdf">Download Mark Benson's Curriculum Vitae</a></p>
-              </div>
 
-            </div>
+<p class="mb-20"><a class="button large deeporange" href="/media/mark-benson-resume.pdf">Download Mark Benson's Curriculum Vitae</a></p>
+    </div>
+
+</div><!-- end row-->
+
 
 </div>
 </div>
 <!-- END SUMMARY -->
+
+[% include "include-counters.html" %]
 
 <!-- EXPERIENCE -->
 <div class="page-section pt-110-b-30-cont" id="experience">
