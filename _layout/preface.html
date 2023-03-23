@@ -1,0 +1,37 @@
+---
+layout: page
+menu: preface
+---
+
+[% d = "|" %]
+[% macro list(l) block %]
+  [% for i in l %][% i %] [% unless loop.last %][% d %] [% end %][% end %]
+[% end %]
+
+<div class="container p-50-cont">
+
+  <div class="col-sm-4 lightbox-item">
+    <a href="/images/mdb_edina_grill_small.jpg" class="lightbox">
+      <img src="/images/mdb_edina_grill_small.jpg" alt="Picture of Mark Benson at Edina Grill, Edina, Minnesota" />
+    </a>
+  </div>
+
+  <div class="col-sm-8">
+
+      <h3 class="mb-50">[% page.content %]</h3>
+
+      <p class="mb-20"><span class="bold">SKILLS:</span> [% list(site.cv.skills) %]</p>
+      <div class="row">
+        <div class="col-md-6">
+          <p class="mb-30"><span class="bold">STRENGTHS:</span> [% list(site.cv.strengths) %]</p>
+        </div>
+        <div class="col-md-6">
+          <p class="mb-30"><span class="bold">PERSONALITY:</span> [% site.cv.personality %]</p>
+        </div>
+      </div>
+
+      <p><a href="/cv/" class="button large deeporange">Curriculum Vitae</a></p>
+
+   </div>
+</div>
+
