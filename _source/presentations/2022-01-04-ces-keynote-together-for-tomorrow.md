@@ -13,15 +13,18 @@ twitter: |
 
 Honored to deliver part of the keynote presentation at [CES 2022][ln1] this year on behalf of Samsung. Lots of exciting product, partnership, and industry announcements with a focus on sustainability and coming together for a better tomorrow.
 
+<p><img src="/images/MDB-consumer-electronics-show-keynote-2022.png" /></p>
+
 Headlined by Vice Chairman, CEO, and head of Samsung Electronics’ DX (Device eXperience) Division, JH Han, it was a pleasure to present alongside Gary Shapiro, Georgina Tordoff, Andrew Georgiou, Anna Groffsky, and Katherine Shin.
 
 📢: Pearson Cummings, Monica Couvillion, Greg St. Claire, Samantha Fein, Christine Lehrer, Veronica Ford, Suhyun Kim, Faith Kim, Brenda Bomyoung Jung, and Yoon Ho Choi.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ektOK5iPUHA?start=2448" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 > ABSTRACT: On January 4, Samsung Electronics will kick off the 2022 edition of the Consumer Electronics Show (CES) with a pre-show keynote address held a day before the world’s most influential technology event is set to begin. The keynote will take place at 6:30 p.m. local time (9:30 p.m. EST) at the Venetian’s Palazzo Ballroom in Las Vegas.
 >
 > Held under the theme of ‘Together for tomorrow’, the keynote lays out a vision that empowers everyone to create positive change and drives collaborations that address some of the planet’s most pressing challenges. The keynote illustrates how Samsung plans to make its vision a reality by introducing a range of sustainability initiatives, purposeful partnerships, and customisable and connected technologies.
 
-[ln1]: https://ces.tech/
+Keynote video: [Together for Tomorrow: Full Replay][ln2]
+
+[ln1]: https://ces.tech/ "Consumer Electronics Show"
+[ln2]: https://www.youtube.com/embed/ektOK5iPUHA?start=2448 "Together for Tomorrow: Full Replay"
 
