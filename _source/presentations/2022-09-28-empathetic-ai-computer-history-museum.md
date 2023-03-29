@@ -8,7 +8,7 @@ publisher: Computer History Museum Keynote
 
 Honored to deliver a keynote presentation for the [Edge Impulse Imagine][ln1] event at the Museum of [Computer History Museum][ln2] in Mountain View, CA on how the pandemic has changed people's relationships with their homes, emerging expectations of smart home experiences, and the critical importance of empathy-centered design thinking.
 
-<p><img src="/images/MDB-computer-history-museum-keynote.jpeg" /></p>
+<p><img src="/images/MDB-computer-history-museum-keynote.jpeg"></p>
 
 > Abstract: The pandemic has forever changed the world and how we think about our lives, our work, and our relationships with people and our surroundings. Our homes have been reimagined, perhaps as they were originally intended, as places of rest, relaxation, and safety -- and more recently, as places of work and exercise. As a result, people want their homes to be better. To work for them and be customized to their needs.
 > 

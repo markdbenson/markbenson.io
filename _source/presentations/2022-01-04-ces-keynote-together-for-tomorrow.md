@@ -13,7 +13,7 @@ twitter: |
 
 Honored to deliver part of the keynote presentation at [CES 2022][ln1] this year on behalf of Samsung. Lots of exciting product, partnership, and industry announcements with a focus on sustainability and coming together for a better tomorrow.
 
-<p><img src="/images/MDB-consumer-electronics-show-keynote-2022.png" /></p>
+<p><img src="/images/MDB-consumer-electronics-show-keynote-2022.png"></p>
 
 Headlined by Vice Chairman, CEO, and head of Samsung Electronics’ DX (Device eXperience) Division, JH Han, it was a pleasure to present alongside Gary Shapiro, Georgina Tordoff, Andrew Georgiou, Anna Groffsky, and Katherine Shin.
 
