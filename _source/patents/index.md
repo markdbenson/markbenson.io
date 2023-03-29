@@ -32,7 +32,7 @@ byline: no
                       [% if post.publisher %]<span class="small bold">[% post.publisher | upper %]</span><br />[% end %]
                       <h3><a href="[% post.url %]">[% post.title | smart %]</a></h3>
                       <div class="post-prev-info">
-                        <p class="small"><a href="/cv/#[% post.categories | lower %]">[% post.categories | upper %]</a><span class="slash-divider">/</span><a href="/preface/">MARK BENSON</a></p>
+                        <p class="small">[% post.categories | upper %]<span class="slash-divider">/</span><a href="/preface/">MARK BENSON</a></p>
                       </div>
                     </div>
                   </div>
