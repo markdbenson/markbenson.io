@@ -20,5 +20,5 @@ invalidate:
 watch:
 	$(DAPPER) watch
 
-.PHONY: build serve publish watch
+.PHONY: build serve publish invalidate watch
 
