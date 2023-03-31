@@ -5,9 +5,6 @@ OUTPUTDIR=$(BASEDIR)/_output
 #DAPPER=dapper
 DAPPER=~/dapper/bin/dapper
 
-S3_BUCKET=markbenson.io
-#INVALIDATE=--cf-invalidate
-
 build:
 	$(DAPPER) build
 
@@ -15,8 +12,10 @@ serve:
 	$(DAPPER) serve
 
 publish:
-	#s3cmd sync $(OUTPUTDIR)/ s3://$(S3_BUCKET) --reduced-redundancy --acl-public --delete-removed $(INVALIDATE)
 	aws s3 sync $(OUTPUTDIR)/ s3://$(S3_BUCKET) --acl public-read --delete
+
+invalidate:
+	aws cloudfront create-invalidation --distribution-id $(CF_DISTID) --paths '/*'
 
 watch:
 	$(DAPPER) watch
