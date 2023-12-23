@@ -72,9 +72,9 @@ Social media contact info
 
 <div class="col-md-2">
   <div class="lightbox-item">
-    <a href="/images/mdb-profile-square.jpg" class="lightbox">
+    <a href="/images/MDB-profile-square.jpg" class="lightbox">
     <div class="port-img-overlay">
-      <img class="port-main-img" src="/images/mdb-profile-square.jpg" alt="img" >
+      <img class="port-main-img" src="/images/MDB-profile-square.jpg" alt="img" >
     </div>
     <div class="port-overlay-cont">
       <div class="port-btn-cont">
@@ -87,9 +87,9 @@ Social media contact info
 
 <div class="col-md-2">
   <div class="lightbox-item">
-    <a href="/images/mdb-profile-square-b&w.jpg" class="lightbox">
+    <a href="/images/MDB-profile-square-b&w.jpg" class="lightbox">
     <div class="port-img-overlay">
-      <img class="port-main-img" src="/images/mdb-profile-square-b&w.jpg" alt="img" >
+      <img class="port-main-img" src="/images/MDB-profile-square-b&w.jpg" alt="img" >
     </div>
     <div class="port-overlay-cont">
       <div class="port-btn-cont">
