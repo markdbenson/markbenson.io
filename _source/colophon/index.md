@@ -7,7 +7,7 @@ menu: colophon
 
 <div class="container p-50-cont">
 
-<p>This site is written and published using a static content management system that I wrote in perl called <a href="/dapper/" title="Dapper">Dapper</a>.</p>
+<p>This site is written and published using a static content management system that I wrote in perl called <a href="/dapper/" title="Dapper">Dapper</a> and is hosted on <a href="https://aws.amazon.com/s3/">Amazon S3</a>.</p>
 
 <p>Dapper was first written in 2002 to facilitate the creation of a series of static websites that each had their own look and feel, but shared textual content. Since then, Dapper has been used to create websites for speakers, artists, authors, illusionists, web designers, piano tuners, photographers, entertainment agencies, and API documentation for industrial sensing equipment.</p>
 
