@@ -1,7 +1,6 @@
 BASEDIR=$(CURDIR)
 INPUTDIR=$(BASEDIR)/_source
 OUTPUTDIR=$(BASEDIR)/_output
-S3_BUCKET=markbenson.io
 
 #DAPPER=dapper
 DAPPER=~/dapper/bin/dapper
