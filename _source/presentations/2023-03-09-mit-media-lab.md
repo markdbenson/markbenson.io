@@ -4,6 +4,8 @@ title: "Infinite Diversity in Infinite Combinations: The Birth of the True Smart
 date: 2023-03-09 09:30:00
 categories: presentations
 publisher: MIT Media Lab
+images: |
+    <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/markbenson/albums/72177720316790196" title="2023 MIT Lecture"><img src="https://live.staticflickr.com/65535/53707977554_26139e022f.jpg" width="500" height="375" alt="2023 MIT Lecture"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 ---
 
 Honored to be giving a guest lecture today at the [MIT Media Lab][ln1] titled "Infinite Diversity in Infinite Combinations: The Birth of the True Smart Home" including smart home trends/standards/experiences, the story of Matter, and lessons learned for applying to spatial computing, metaverse applications, and extended reality domains.
