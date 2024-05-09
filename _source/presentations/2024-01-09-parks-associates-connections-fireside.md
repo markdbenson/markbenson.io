@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fireside Chat: Smart Home Innovations"
+title: "Smart home trends: growth factors, challenges, and opportunities"
 date: 2024-01-09 09:30:00
 categories: presentations
 publisher: Parks Associates CONNECTIONS
