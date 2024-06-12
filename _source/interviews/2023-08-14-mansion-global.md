@@ -6,7 +6,7 @@ publisher: Mansion Global
 categories: interviews
 ---
 
-[Interviewed][ln1] for a piece Rebecca Bratburd in Mansion Global on the expanding adoption and usability of home automation technology in the kitchen.
+[Interviewed][ln1] for a piece by Rebecca Bratburd in Mansion Global on the expanding adoption and usability of home automation technology in the kitchen.
 
 > The kitchen is the heart of the home—and often, the heart of smart-home technology, according to Mark Benson, the head of SmartThings, a subsidiary of Samsung.
 > 
