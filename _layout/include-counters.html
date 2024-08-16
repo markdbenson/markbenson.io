@@ -11,18 +11,27 @@
         <div class="row text-center">
 
           <!-- Item -->
-          <div class="col-sm-3">
+          <div class="col-sm-2">
             <div class="count-number">
-              [% count(site.categories.publications) + count(site.categories.presentations) %]
+              [% count(site.categories.presentations) %]
             </div>
             <div class="count-descr">
-              <a href="/cv/#publications"><span class="count-title">PUBLICATIONS</span></a> &
-              <a href="/cv/#presentations"><span class="count-title">PRESENTATIONS</span></a>
+              <a href="/cv/#presentations"><span class="count-title">KEYNOTES & LECTURES</span></a>
             </div>
           </div>
 
           <!-- Item -->
-          <div class="col-sm-3">
+          <div class="col-sm-2">
+            <div class="count-number">
+              [% count(site.categories.interviews) %]
+            </div>
+            <div class="count-descr">
+              <a href="/cv/#interviews"><span class="count-title">MEDIA INTERVIEWS</span></a>
+            </div>
+          </div>
+
+          <!-- Item -->
+          <div class="col-sm-2">
             <div class="count-number">
               [% use date %][% date.format(date.now, '%Y') - 1999 %]
             </div>
@@ -32,17 +41,27 @@
           </div>
 
           <!-- Item -->
-          <div class="col-sm-3">
+          <div class="col-sm-2">
             <div class="count-number">
-              [% count(site.categories.patents) | trim %]
+              [% count(site.categories.publications) %]
             </div>
             <div class="count-descr">
-              <a href="/cv/#patents"><span class="count-title">PATENTS</span></a>
+              <a href="/cv/#publications"><span class="count-title">FORMAL PUBLICATIONS</span></a>
             </div>
           </div>
 
           <!-- Item -->
-          <div class="col-sm-3">
+          <div class="col-sm-2">
+            <div class="count-number">
+              [% count(site.categories.patents) | trim %]
+            </div>
+            <div class="count-descr">
+              <a href="/cv/#patents"><span class="count-title">PATENTED INVENTIONS</span></a>
+            </div>
+          </div>
+
+          <!-- Item -->
+          <div class="col-sm-2">
             <div class="count-number">
               [% count(site.categories.honors) | trim %]
             </div>
