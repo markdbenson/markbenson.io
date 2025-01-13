@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Presentation on IoT cybersecurity and corporate innovation at Harvard Club of NYC"
-date: 2018-09-12 10:50:11
+date: 2018-09-12T10:50:11
 categories: notabene
 link: http://markbenson.io/presentations/2018/09/iot-cybersecurity-and-innovation-for-regulated-industries/
 ---

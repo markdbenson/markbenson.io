@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Minimizing Technology Drift in Vertically-Integrated Medical Device Companies via Strategic Outsourcing
-date: 2011-07-07 04:29:43
+date: 2011-07-07T04:29:43
 categories: publications
 publisher: Medical Device Technology Magazine
 ---

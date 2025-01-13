@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Building An Organizational IoT Competency: What You Need To Know"
-date: 2017-04-21 20:24:01
+date: 2017-04-21T20:24:01
 categories: publications
 publisher: Forbes
 images: |

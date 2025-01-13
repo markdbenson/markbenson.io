@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "8 Mistakes that Derail IoT Projects"
-date: 2017-10-09 16:35:02
+date: 2017-10-09T16:35:02
 categories: interviews
 publisher: Datafloq
 twitter: |

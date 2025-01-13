@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Multi-Core Architectural Decomposition Methods for Low-Power Symmetric and Asymmetric Multi-Processing
-date: 2012-03-27 05:09:17
+date: 2012-03-27T05:09:17
 categories: presentations 
 publisher: Design West
 presentation: |

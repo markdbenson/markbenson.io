@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Unearthed
-date: 2007-07-11 08:30:37
+date: 2007-07-11T08:30:37
 categories: stories
 ---
 

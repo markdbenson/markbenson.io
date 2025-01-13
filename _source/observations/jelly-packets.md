@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Jelly Packets
-date: 2008-12-08 08:25:00
+date: 2008-12-08T08:25:00
 tags: Fired,Jelly Packets,Licking,McDonald's,Work
 categories: observations
 ---

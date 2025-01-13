@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Avoiding the Pitfalls: Five Tactics for IoT Program Leaders"
-date: 2018-01-09 10:45:53
+date: 2018-01-09T10:45:53
 categories: publications
 publisher: IoT Central
 twitter: |

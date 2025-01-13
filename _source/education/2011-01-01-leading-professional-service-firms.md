@@ -5,7 +5,7 @@ logo: /images/logo-hbs.png
 degree: "Leading Professional Service Firms"
 start: 2011
 end: 2011
-date: 2011-01-01 17:23:04
+date: 2011-01-01T17:23:04
 categories: education
 ---
 

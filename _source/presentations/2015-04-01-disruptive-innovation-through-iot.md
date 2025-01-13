@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Disruptive Innovation Through IoT"
-date: 2015-04-01 00:02:43
+date: 2015-04-01T00:02:43
 categories: presentations
 publisher: Financial Executives International
 presentation: |

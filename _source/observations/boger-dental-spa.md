@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Boger Dental Spa
-date: 2011-10-14 03:50:10
+date: 2011-10-14T03:50:10
 tags: Boger Dental Spa,Man Card,Paraffin Wax
 categories: observations
 ---

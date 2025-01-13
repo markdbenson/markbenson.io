@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Overcoming the top 3 barriers to mass adoption of smart home technology"
-date: 2023-05-25 11:30:00
+date: 2023-05-25T11:30:00
 categories: presentations
 publisher: Parks Associates CONNECTIONS
 images: |

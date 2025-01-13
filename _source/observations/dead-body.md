@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dead Body
-date: 2008-09-24 09:26:36
+date: 2008-09-24T09:26:36
 tags: Bad Day,Cops,Crime,Death,Work
 categories: observations
 ---

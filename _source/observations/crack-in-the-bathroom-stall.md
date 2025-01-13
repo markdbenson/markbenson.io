@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Crack in the Bathroom Stall
-date: 2010-12-05 08:39:37
+date: 2010-12-05T08:39:37
 tags: Awkwardness,Bathrooms,Client,Guilt
 categories: observations
 ---

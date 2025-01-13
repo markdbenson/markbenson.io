@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Building an Organizational IoT Competency: How to Prevent Disaster"
-date: 2017-06-22 20:42:06
+date: 2017-06-22T20:42:06
 categories: presentations
 publisher: IoT Slam
 presentation: |

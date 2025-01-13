@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cowboys of Supply Chain Management
-date: 2008-09-04 11:36:43
+date: 2008-09-04T11:36:43
 tags: Carlson School of Management,Cowboys,Excuse my French,RFID,Supply Chain
 categories: observations
 ---

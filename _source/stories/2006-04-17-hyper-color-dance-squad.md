@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hyper-Color Dance Squad
-date: 2006-04-17 11:57:22
+date: 2006-04-17T11:57:22
 categories: stories
 ---
 

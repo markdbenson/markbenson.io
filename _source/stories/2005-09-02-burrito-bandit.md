@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Burrito Bandit
-date: 2005-09-02 01:42:35
+date: 2005-09-02T01:42:35
 tags: Feature
 categories: stories
 ---

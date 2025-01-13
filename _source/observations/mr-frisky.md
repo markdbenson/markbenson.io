@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mr. Frisky
-date: 2013-02-07 16:00:00
+date: 2013-02-07T16:00:00
 tags: Airport, Security, Explosives, San Diego Airport
 categories: observations
 ---

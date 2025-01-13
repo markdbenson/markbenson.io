@@ -2,7 +2,7 @@
 layout: post
 title: "Meet a Minnesota CTO: Mark Benson"
 issuer: TECHdotMN
-date: 2015-05-01 20:44:51
+date: 2015-05-01T20:44:51
 categories: honors
 link: http://tech.mn/news/2015/05/21/meet-a-minnesota-cto-mark-benson/
 twitter: |

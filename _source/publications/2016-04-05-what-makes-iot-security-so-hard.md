@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What Makes IoT Security So Hard?"
-date: 2016-04-05 16:16:56
+date: 2016-04-05T16:16:56
 categories: publications
 publisher: Security Ledger
 twitter: |

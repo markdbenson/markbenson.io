@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Predictions on Conversational AI, Fog Computing, and Digital Privacy"
-date: 2019-08-29 16:46:07
+date: 2019-08-29T16:46:07
 categories: presentations
 publisher: CIO Synergy
 link: https://www.ciominneapolis.com/

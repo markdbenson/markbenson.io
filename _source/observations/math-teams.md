@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Math Teams
-date: 2008-12-09 08:58:00
+date: 2008-12-09T08:58:00
 tags: 3-Way,Battle,Book Idea,Calculitious,House of Pain,TI-85,TI-85 Data Pimps
 categories: observations
 ---

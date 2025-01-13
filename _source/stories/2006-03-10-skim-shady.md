@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Skim Shady
-date: 2006-03-10 08:30:35
+date: 2006-03-10T08:30:35
 tags: Feature
 categories: stories
 ---

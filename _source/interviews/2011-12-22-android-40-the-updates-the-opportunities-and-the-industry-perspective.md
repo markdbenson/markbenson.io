@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Make Money with Android 4.0"
-date: 2011-12-22 03:30:10
+date: 2011-12-22T03:30:10
 categories: interviews
 publisher: Linux User & Developer Magazine
 ---

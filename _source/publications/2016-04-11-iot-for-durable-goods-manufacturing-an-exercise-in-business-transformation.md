@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "IoT for Durable Goods Manufacturing: An Exercise in Business Transformation"
-date: 2016-04-11 16:28:28
+date: 2016-04-11T16:28:28
 categories: publications
 publisher: IoT Now
 twitter: |

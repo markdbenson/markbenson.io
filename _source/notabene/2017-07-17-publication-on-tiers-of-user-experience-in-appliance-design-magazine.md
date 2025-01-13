@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Publication on Tiers of User Experience for Smart Connected Appliances in Appliance Design Magazine"
-date: 2017-07-17 23:40:28
+date: 2017-07-17T23:40:28
 categories: notabene
 link: /publications/2017/07/tiers-of-user-experience-for-smart-connected-appliances/
 ---

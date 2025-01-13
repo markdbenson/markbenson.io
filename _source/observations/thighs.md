@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Thighs
-date: 2008-12-16 12:44:00
+date: 2008-12-16T12:44:00
 tags: Complement,Normalcy,Thighs
 categories: observations
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "FIDO Alliance"
-date: 2014-03-25 15:26:34
+date: 2014-03-25T15:26:34
 categories: notabene
 link: http://fidoalliance.org/about
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Internet of Things Security Patterns"
-date: 2015-04-02 00:06:28
+date: 2015-04-02T00:06:28
 categories: presentations
 publisher: Internet of Things Stream Conference
 presentation: |

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Huffy Guy
-date: 2008-11-04 10:21:00
+date: 2008-11-04T10:21:00
 tags: Ballot,Bwa ha ha haa,Huffy Guy,Polling Official,Voting,Votor Registration
 categories: observations
 ---

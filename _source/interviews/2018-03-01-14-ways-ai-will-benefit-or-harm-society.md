@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "14 Ways AI Will Benefit Or Harm Society"
-date: 2018-03-01 13:29:53
+date: 2018-03-01T13:29:53
 categories: interviews
 publisher: Forbes
 twitter: |

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "IoT Cybersecurity and Innovation for Regulated Industries"
-date: 2018-09-12 10:21:10
+date: 2018-09-12T10:21:10
 categories: presentations
 images: |
     <a data-flickr-embed="true"  href="https://www.flickr.com/photos/markbenson/30912798638/in/dateposted-public/" title="Mark Benson at Harvard Club of NYC"><img src="https://farm2.staticflickr.com/1849/30912798638_36691a6307_z.jpg" width="640" height="434" alt="Mark Benson at Harvard Club of NYC"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>

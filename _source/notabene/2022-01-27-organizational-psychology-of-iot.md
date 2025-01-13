@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Organizational psychology of the Internet of Things"
-date: 2022-01-27 10:50:11
+date: 2022-01-27T10:50:11
 categories: notabene
 feature: yes
 thumbnail: "https://live.staticflickr.com/2831/34147047696_db3e09400c_b.jpg"

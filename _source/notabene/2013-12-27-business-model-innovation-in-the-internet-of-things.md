@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Business Model Innovation at Bosch/HSG"
-date: 2013-12-27 11:43:06
+date: 2013-12-27T11:43:06
 categories: notabene
 link: http://blog.bosch-si.com/internet-of-things-why-business-models-innovation-is-so-important/
 ---

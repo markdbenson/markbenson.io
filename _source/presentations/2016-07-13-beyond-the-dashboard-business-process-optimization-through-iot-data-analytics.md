@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Beyond the Dashboard: Business Process Optimization Through IoT Data Analytics"
-date: 2016-07-13 13:08:09
+date: 2016-07-13T13:08:09
 categories: presentations 
 publisher: IoT Evolution
 presentation: |

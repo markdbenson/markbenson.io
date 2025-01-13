@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bing Bong
-date: 2011-11-07 01:43:20
+date: 2011-11-07T01:43:20
 tags: Balloons,Bing Bong,Danger Zone,Game,Head-Bang,NWB,Pajamas,Top Gun
 categories: observations
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The World Isn’t Ready For the IoT"
-date: 2014-01-15 07:30:24
+date: 2014-01-15T07:30:24
 categories: notabene
 link: http://www.telecomstechnews.com/news/2014/jan/14/googles-nest-outrage-shows-world-isnt-ready-iot/
 ---

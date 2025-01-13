@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Illegal Tint
-date: 2013-01-05 04:00:00
+date: 2013-01-05T04:00:00
 tags: Illegal Tint, Thug Style, Non-Ironical
 categories: observations
 ---

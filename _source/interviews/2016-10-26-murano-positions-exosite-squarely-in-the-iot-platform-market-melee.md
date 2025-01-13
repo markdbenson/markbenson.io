@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Murano Positions Exosite Squarely in the IoT Platform Market Melee"
-date: 2016-10-26 10:46:04
+date: 2016-10-26T10:46:04
 categories: interviews
 publisher: TechTarget IoT Agenda
 ---

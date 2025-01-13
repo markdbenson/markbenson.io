@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Building for Tomorrow: Smart Multi-Dwelling Units and Next-Gen Resident Experiences"
-date: 2022-03-23 09:30:00
+date: 2022-03-23T09:30:00
 categories: presentations
 publisher: Ruckus Big Dogs Keynote
 twitter: |

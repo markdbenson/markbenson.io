@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Smart homes see big breakthrough at CES 2022"
-date: 2022-01-24 08:00:00
+date: 2022-01-24T08:00:00
 publisher: CNN International
 categories: coverage 
 ---

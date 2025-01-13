@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dudes, Abide
-date: 2013-01-19 15:00:00
+date: 2013-01-19T15:00:00
 tags: 1 John, Bible, Theology
 categories: observations
 ---

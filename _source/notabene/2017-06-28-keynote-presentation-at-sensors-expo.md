@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Keynote Presentation at Sensors Expo"
-date: 2017-06-28 16:55:14
+date: 2017-06-28T16:55:14
 categories: notabene
 link: http://markbenson.io/presentations/2017/06/the-organizational-psychology-of-the-internet-of-things-how-to-use-technology-to-drive-behavioral-change/
 ---

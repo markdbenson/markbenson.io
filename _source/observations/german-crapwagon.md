@@ -1,7 +1,7 @@
 ---
 layout: post
 title: German Crapwagon
-date: 2012-01-09 10:00:00
+date: 2012-01-09T10:00:00
 tags: German Crapwagon Nightmare,McDonald's
 categories: observations
 ---

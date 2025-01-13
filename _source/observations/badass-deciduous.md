@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Badass Deciduous
-date: 2008-11-22 03:18:00
+date: 2008-11-22T03:18:00
 tags: Badass Deciduous,Landscaping,Patience,Sugar Maple,Washington Hawthorn
 categories: observations
 ---

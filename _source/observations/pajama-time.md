@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pajama Time
-date: 2009-10-22 09:14:40
+date: 2009-10-22T09:14:40
 tags: Be-bop,NWB,Pajama Time,Sandra Boynton
 categories: observations
 ---

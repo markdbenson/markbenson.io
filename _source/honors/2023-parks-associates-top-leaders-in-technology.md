@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Parks Associates Top Leader in Tech"
-date: 2023-12-27 11:25:07
+date: 2023-12-27T11:25:07
 categories: honors
 issuer: Parks Associates
 link: https://www.parksassociates.com/blogs/press-releases/parks-associates-announces-its-annual-top-leaders-in-technology-list-for-2023

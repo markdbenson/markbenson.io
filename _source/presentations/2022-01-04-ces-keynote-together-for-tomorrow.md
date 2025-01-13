@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Together for Tomorrow"
-date: 2022-01-04 18:30:00
+date: 2022-01-04T18:30:00
 categories: presentations
 publisher: Consumer Electronics Show Keynote
 link: https://www.ces.tech/ 

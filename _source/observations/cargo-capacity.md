@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cargo Capacity
-date: 2008-10-17 10:16:00
+date: 2008-10-17T10:16:00
 tags: Car,Cargo Capacity,Demonstration,Locked in the Trunk,Sale
 categories: observations
 ---

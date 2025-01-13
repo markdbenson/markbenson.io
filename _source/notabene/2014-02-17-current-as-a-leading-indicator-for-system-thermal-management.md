@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Current As A Leading Indicator For System Thermal Management"
-date: 2014-02-17 17:42:31
+date: 2014-02-17T17:42:31
 categories: notabene
 link: http://electronicdesign.com/power/use-current-measurement-leading-indicator-system-thermal-management
 ---

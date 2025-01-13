@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Wolfram Connected Devices Project"
-date: 2014-01-13 13:03:46
+date: 2014-01-13T13:03:46
 categories: notabene
 link: http://blog.stephenwolfram.com/2014/01/launching-the-wolfram-connected-devices-project/
 ---

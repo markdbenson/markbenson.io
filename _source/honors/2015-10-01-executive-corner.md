@@ -2,7 +2,7 @@
 layout: post
 title: "Executive Corner: Mark Benson"
 issuer: Hewlett Packard Enterprise
-date: 2015-10-01 20:42:55
+date: 2015-10-01T20:42:55
 categories: honors
 link: https://www.hpematter.com/exec/mark-benson
 twitter: |

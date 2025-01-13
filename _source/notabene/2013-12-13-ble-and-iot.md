@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bluetooth Low Energy and IPv6"
-date: 2013-12-13 23:33:18
+date: 2013-12-13T23:33:18
 categories: notabene
 link: http://gigaom.com/2013/12/04/bluetooth-beefs-up-for-the-internet-of-things/
 ---

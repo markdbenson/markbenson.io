@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Intelligent Data Management for Wireless Medical Devices
-date: 2012-02-08 05:02:04
+date: 2012-02-08T05:02:04
 categories: publications
 publisher: Medical Device and Diagnostic Industry Guide to Outsourcing
 ---

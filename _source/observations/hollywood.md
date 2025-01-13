@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hollywood
-date: 2008-10-30 02:31:00
+date: 2008-10-30T02:31:00
 tags: Egg McMuffin,Greasy,Handsome,Hollywood,McDonald's,Money
 categories: observations
 ---

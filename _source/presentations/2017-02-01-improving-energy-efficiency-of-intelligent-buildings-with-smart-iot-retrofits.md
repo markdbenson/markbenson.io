@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Improving Energy Efficiency of Intelligent Buildings with Smart IoT Retrofits"
-date: 2017-02-01 10:16:29
+date: 2017-02-01T10:16:29
 categories: presentations
 publisher: AHR Expo
 presentation: |

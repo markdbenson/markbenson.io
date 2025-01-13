@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ragweed
-date: 2010-08-23 11:39:32
+date: 2010-08-23T11:39:32
 tags: Allergies,August,Pick Axe,Plica Semilunaris,Ragweed,Rust,Vigorous
 categories: observations
 ---

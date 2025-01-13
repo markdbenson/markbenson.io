@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Developing a Future-Proof IoT Roadmap for Connected Devices and Data"
-date: 2016-06-12 16:37:27
+date: 2016-06-12T16:37:27
 categories: presentations
 publisher: Sensors Expo
 presentation: |

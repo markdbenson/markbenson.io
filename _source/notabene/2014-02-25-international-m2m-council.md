@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "International M2M Council"
-date: 2014-02-25 02:01:25
+date: 2014-02-25T02:01:25
 categories: notabene
 link: http://www.marketwatch.com/story/trade-association-for-the-internet-of-things-gains-hundreds-of-members-in-just-one-month-2014-02-20-418300?reflink=MW_news_stmp
 ---

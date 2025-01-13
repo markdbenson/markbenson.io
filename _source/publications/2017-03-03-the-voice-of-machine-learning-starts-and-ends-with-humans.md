@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Voice of Machine Learning Starts and Ends With Humans"
-date: 2017-03-03 18:37:03
+date: 2017-03-03T18:37:03
 categories: publications
 publisher: Embedded Computing Design
 ---

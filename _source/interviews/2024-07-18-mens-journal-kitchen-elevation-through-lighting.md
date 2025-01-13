@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "This New Line of Smart Lights Will Elevate Your Kitchen"
-date: 2024-07-18 06:00:00
+date: 2024-07-18T06:00:00
 publisher: Men's Journal
 categories: interviews
 ---

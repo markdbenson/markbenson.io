@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fireside Chat with Mark Benson"
-date: 2024-04-18 11:00:00
+date: 2024-04-18T11:00:00
 categories: presentations
 publisher: Samsung eXperience
 images: |

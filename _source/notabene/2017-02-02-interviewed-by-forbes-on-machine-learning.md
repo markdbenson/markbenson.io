@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Interviewed by Forbes on Machine Learning"
-date: 2017-02-02 09:39:51
+date: 2017-02-02T09:39:51
 categories: notabene
 link: http://www.forbes.com/sites/forbestechcouncil/2017/02/02/machine-learning-and-analytics-whats-your-first-step/#60e464f944ea
 ---

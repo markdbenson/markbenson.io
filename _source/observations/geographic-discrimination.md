@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Geographic Discrimination
-date: 2008-12-10 04:55:00
+date: 2008-12-10T04:55:00
 tags: Bathrooms,Building Management,Discrimination,Posted Notice
 categories: observations
 ---

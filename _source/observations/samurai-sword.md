@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Samurai Sword 
-date: 2013-06-17 00:00:00
+date: 2013-06-17T00:00:00
 tags: Samurai Sword, Glenwood Ave, Penn Ave, Harrison Neighborhood, Pedestrian
 categories: observations
 ---

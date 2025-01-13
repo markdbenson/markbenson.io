@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Goodbye Furbowski
-date: 2006-03-10 02:37:48
+date: 2006-03-10T02:37:48
 categories: stories
 ---
 

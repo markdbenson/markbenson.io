@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Soft Rock
-date: 2013-06-11 00:00:00
+date: 2013-06-11T00:00:00
 tags: Soft Rock, Bolshevik, NJ, Cab, Siberian, Physicists, Russian
 categories: observations
 ---

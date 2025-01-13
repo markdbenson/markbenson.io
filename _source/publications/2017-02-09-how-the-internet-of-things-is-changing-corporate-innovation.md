@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How the Internet of Things is Changing Corporate Innovation"
-date: 2017-02-09 23:20:20
+date: 2017-02-09T23:20:20
 categories: publications
 publisher: IoT Agenda
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Best Practices in Predictive Maintenance for Connected Industrial Equipment"
-date: 2016-10-10 15:32:57
+date: 2016-10-10T15:32:57
 categories: publications
 publisher: Industrial Equipment News
 twitter: |

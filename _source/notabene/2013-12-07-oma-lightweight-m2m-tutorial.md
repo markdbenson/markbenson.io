@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "OMA Lightweight M2M Tutorial"
-date: 2013-12-07 15:44:40
+date: 2013-12-07T15:44:40
 categories: notabene
 link: http://www.slideshare.net/zdshelby/oma-lightweightm2-mtutorial
 ---

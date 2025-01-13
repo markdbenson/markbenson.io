@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Empathy at the Edge: Innovating for the Next Generation of Smart Home Living"
-date: 2022-09-28 09:30:00
+date: 2022-09-28T09:30:00
 categories: presentations
 publisher: Computer History Museum Keynote
 ---

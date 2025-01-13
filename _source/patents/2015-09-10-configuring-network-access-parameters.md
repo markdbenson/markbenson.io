@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Configuring network access parameters"
-date: 2015-09-10 17:18:58
+date: 2015-09-10T17:18:58
 categories: patents
 status: Granted
 office: United States

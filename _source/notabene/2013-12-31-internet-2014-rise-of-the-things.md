@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Internet 2014: Rise of the Things"
-date: 2013-12-31 11:06:49
+date: 2013-12-31T11:06:49
 categories: notabene
 link: http://www.cnbc.com/id/101288986
 ---

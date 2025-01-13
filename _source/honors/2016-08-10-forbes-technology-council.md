@@ -2,7 +2,7 @@
 layout: post
 title: "Forbes Technology Council"
 issuer: Forbes
-date: 2016-08-10 17:42:48
+date: 2016-08-10T17:42:48
 categories: honors
 link: https://forbestechcouncil.com/
 ---

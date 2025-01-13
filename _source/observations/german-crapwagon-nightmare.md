@@ -1,7 +1,7 @@
 ---
 layout: post
 title: German Crapwagon Nightmare
-date: 2009-03-11 07:40:00
+date: 2009-03-11T07:40:00
 tags: Car,German Crapwagon Nightmare,Lawn Ornament,Piece of Junk,Review
 categories: observations
 ---

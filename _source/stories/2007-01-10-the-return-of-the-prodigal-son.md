@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Return of the Prodigal Son
-date: 2007-01-10 12:30:13
+date: 2007-01-10T12:30:13
 categories: stories
 ---
 

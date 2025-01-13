@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Samsung Developer Conference Keynote"
-date: 2022-10-12 09:30:00
+date: 2022-10-12T09:30:00
 categories: presentations
 publisher: Samsung Developer Conference
 ---

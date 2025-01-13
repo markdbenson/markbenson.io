@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Funny Little Officer
-date: 2012-08-23 10:20:19
+date: 2012-08-23T10:20:19
 tags: Neighbors,Officer,Squad Car,Undercover
 categories: observations
 ---

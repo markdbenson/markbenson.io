@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Five Avoidable Complications Of Corporate IoT Innovation Programs"
-date: 2016-12-21 12:24:38
+date: 2016-12-21T12:24:38
 categories: publications
 publisher: Forbes
 twitter: |

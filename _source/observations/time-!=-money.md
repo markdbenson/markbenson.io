@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Time != Money
-date: 2010-07-24 07:40:43
+date: 2010-07-24T07:40:43
 tags: Intoxicating,Money,Super-Abundance,Time
 categories: observations
 ---

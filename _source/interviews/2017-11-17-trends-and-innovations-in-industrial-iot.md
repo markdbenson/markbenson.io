@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Trends and innovations in Industrial IoT"
-date: 2017-11-17 13:41:10
+date: 2017-11-17T13:41:10
 categories: interviews
 publisher: The Manufacturer
 twitter: |

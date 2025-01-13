@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Prodigal Son
-date: 2008-11-19 09:00:00
+date: 2008-11-19T09:00:00
 tags: Bible,Coffee Grounds,Dog,Luke 15,Prodigal Son,Rembrandt,Return of the Prodigal Son
 categories: observations
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My Toaster Hacked The Pentagon: What You Can Do To Secure Your IoT Devices"
-date: 2017-03-03 21:25:38
+date: 2017-03-03T21:25:38
 categories: interviews
 publisher: Forbes
 twitter: |

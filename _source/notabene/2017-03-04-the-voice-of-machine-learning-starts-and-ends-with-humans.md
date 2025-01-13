@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Voice of Machine Learning Starts and Ends With Humans"
-date: 2017-03-04 19:00:13
+date: 2017-03-04T19:00:13
 categories: notabene
 link: http://embedded-computing.com/articles/the-voice-of-machine-learning-starts-and-ends-with-humans/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Wearables Go To Work"
-date: 2016-04-27 10:12:08
+date: 2016-04-27T10:12:08
 categories: interviews
 publisher: CIO Magazine
 ---

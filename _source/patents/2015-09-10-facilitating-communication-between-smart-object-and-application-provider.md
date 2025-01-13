@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Facilitating communication between smart object and application provider"
-date: 2015-09-10 17:17:48
+date: 2015-09-10T17:17:48
 categories: patents
 status: Granted
 office: United States

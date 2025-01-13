@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "IoT Evolution Interview with Exosite"
-date: 2016-02-08 09:56:20
+date: 2016-02-08T09:56:20
 categories: interviews
 publisher: TMCnet
 video: |

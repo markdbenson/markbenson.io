@@ -1,7 +1,7 @@
 ---
 layout: post
 title: St. Louis
-date: 2013-06-11 00:00:00
+date: 2013-06-11T00:00:00
 tags: St. Louis, Coffee, Crotch, Airport
 categories: observations
 ---

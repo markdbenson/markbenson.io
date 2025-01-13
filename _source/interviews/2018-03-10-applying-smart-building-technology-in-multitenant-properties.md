@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Applying Smart Building Technology in Multi-Tenant Properties"
-date: 2018-03-10 14:11:22
+date: 2018-03-10T14:11:22
 categories: interviews
 publisher: TechTarget IoT Agenda
 twitter: |

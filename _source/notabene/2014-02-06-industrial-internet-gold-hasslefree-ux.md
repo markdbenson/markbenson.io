@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Industrial Internet Gold: Hassle-Free UX"
-date: 2014-02-06 10:51:05
+date: 2014-02-06T10:51:05
 categories: notabene
 link: http://www.industrialinternet.com/blog/industrial-internet-gold-hassle-free-ux/
 ---

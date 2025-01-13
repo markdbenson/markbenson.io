@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pirate Regex
-date: 2008-09-19 02:20:02
+date: 2008-09-19T02:20:02
 tags: Arr,Arrgh,Lad,Matey,Me Lad,National Talk Like a Pirate Day,Pirate,Regex
 categories: observations
 ---

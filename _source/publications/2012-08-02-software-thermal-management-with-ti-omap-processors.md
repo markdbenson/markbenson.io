@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Software Thermal Management with TI OMAP Processors
-date: 2012-08-02 05:46:11
+date: 2012-08-02T05:46:11
 categories: publications
 publisher: Electronic Engineering Journal
 ---

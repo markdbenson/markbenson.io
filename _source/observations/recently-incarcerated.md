@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Recently Incarcerated
-date: 2008-11-07 12:06:00
+date: 2008-11-07T12:06:00
 tags: Business Transaction,Incarceration
 categories: observations
 ---

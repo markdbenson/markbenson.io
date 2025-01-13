@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Augmented Reality: AR Technology Finds It's Place in Manufacturing And Maintenance"
-date: 2017-11-29 15:01:07
+date: 2017-11-29T15:01:07
 categories: interviews
 publisher: Distributed Energy Magazine
 ---

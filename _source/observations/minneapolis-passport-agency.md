@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Minneapolis Passport Agency
-date: 2010-04-08 06:53:52
+date: 2010-04-08T06:53:52
 tags: Knives,Minneapolis,Minneapolis Passport Agency,Overheard,Scissors,Travel
 categories: observations
 ---

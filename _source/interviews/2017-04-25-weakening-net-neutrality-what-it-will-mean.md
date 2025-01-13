@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Weakening Net Neutrality: What It Will Mean"
-date: 2017-04-25 22:18:17
+date: 2017-04-25T22:18:17
 categories: interviews
 publisher: Forbes
 ---

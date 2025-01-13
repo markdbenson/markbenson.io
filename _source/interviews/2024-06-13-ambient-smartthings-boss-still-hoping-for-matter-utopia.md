@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SmartThings boss still hoping for a Matter utopia"
-date: 2024-06-13 06:00:00
+date: 2024-06-13T06:00:00
 publisher: The Ambient
 categories: interviews
 ---

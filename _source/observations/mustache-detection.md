@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mustache Detection
-date: 2009-11-10 11:08:05
+date: 2009-11-10T11:08:05
 tags: Detection,Facial Hair,Mustache,Statistic
 categories: observations
 ---

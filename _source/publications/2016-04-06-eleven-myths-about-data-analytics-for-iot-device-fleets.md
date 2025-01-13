@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Eleven Myths About Data Analytics for IoT Device Fleets"
-date: 2016-04-06 16:20:16
+date: 2016-04-06T16:20:16
 categories: publications
 publisher: Electronic Design
 twitter: |

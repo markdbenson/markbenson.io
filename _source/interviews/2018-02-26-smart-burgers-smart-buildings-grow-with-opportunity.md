@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Smart Burgers: Smart Buildings Grow With Opportunity"
-date: 2018-02-26 20:47:25
+date: 2018-02-26T20:47:25
 categories: interviews
 publisher: Electrical Contractor Magazine
 ---

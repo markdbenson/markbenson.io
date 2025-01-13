@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Scooter Break-down
-date: 2012-10-06 10:32:24
+date: 2012-10-06T10:32:24
 tags: Scooter,Taichung,Taiwan,Towing
 categories: observations
 ---

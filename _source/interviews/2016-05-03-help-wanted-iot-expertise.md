@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Help Wanted: IoT Expertise"
-date: 2016-05-03 10:19:25
+date: 2016-05-03T10:19:25
 categories: interviews
 publisher: The Economist
 ---

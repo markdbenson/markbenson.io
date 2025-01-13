@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Promise
-date: 2007-08-09 10:35:06
+date: 2007-08-09T10:35:06
 tags: Art,Graphics,Photography
 status: draft
 categories: stories

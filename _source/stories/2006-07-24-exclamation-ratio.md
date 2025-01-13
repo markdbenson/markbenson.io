@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Exclamation Ratio
-date: 2006-07-24 07:32:44
+date: 2006-07-24T07:32:44
 tags: Feature
 categories: stories
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Security Tesseract of the Internet of Things"
-date: 2016-01-06 22:06:34
+date: 2016-01-06T22:06:34
 categories: notabene
 thumbnail: "/images/IoTSecurityLayers.png"
 feature: yes

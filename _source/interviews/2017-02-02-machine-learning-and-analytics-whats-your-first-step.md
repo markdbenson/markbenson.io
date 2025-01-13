@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Machine Learning And Analytics: What's Your First Step?"
-date: 2017-02-02 10:24:10
+date: 2017-02-02T10:24:10
 categories: interviews
 publisher: Forbes
 ---

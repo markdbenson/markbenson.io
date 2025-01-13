@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Making IoT Work For Your Organization: Lessons Learned in Digital Transformation"
-date: 2018-03-21 20:27:16
+date: 2018-03-21T20:27:16
 categories: presentations
 publisher: Smart IoT London
 presentation: |

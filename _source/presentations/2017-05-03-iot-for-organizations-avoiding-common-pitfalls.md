@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "IoT for Organizations: Avoiding Common Pitfalls"
-date: 2017-05-03 22:10:40
+date: 2017-05-03T22:10:40
 categories: presentations
 publisher: University of Wisconsin-Madison
 presentation: |

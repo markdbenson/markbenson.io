@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Windmill Guy
-date: 2008-11-07 11:33:00
+date: 2008-11-07T11:33:00
 tags: Confusion,Windmill Guy,Windmills
 categories: observations
 ---

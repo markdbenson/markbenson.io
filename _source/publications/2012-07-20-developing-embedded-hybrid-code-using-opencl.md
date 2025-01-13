@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Developing Embedded Hybrid Code Using OpenCL
-date: 2012-07-20 05:42:16
+date: 2012-07-20T05:42:16
 categories: publications
 publisher: Real Time Computing Magazine
 ---

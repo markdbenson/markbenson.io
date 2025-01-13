@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Titans of Technology - Mark Benson"
-date: 2017-04-13 11:25:07
+date: 2017-04-13T11:25:07
 categories: honors
 issuer: Minneapolis / St. Paul Business Journal
 link: https://www.bizjournals.com/twincities/news/2017/04/14/2017-titans-of-technology-mark-benson.html

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How To Tackle Big Challenges Associated With Cloud Migration"
-date: 2018-03-02 13:42:15
+date: 2018-03-02T13:42:15
 categories: interviews
 publisher: Forbes
 twitter: |

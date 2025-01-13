@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Warm Baritone Voice
-date: 2012-01-24 08:24:08
+date: 2012-01-24T08:24:08
 tags: Baby,Baritone,Cigar,Death,Dream,Gummed,Voice
 categories: observations
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Smart technology is amping up home entertainment"
-date: 2022-03-23 06:00:00
+date: 2022-03-23T06:00:00
 publisher: Axios
 categories: interviews
 ---

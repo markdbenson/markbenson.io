@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Smart home solutions for outdoors season"
-date: 2024-06-04 06:00:00
+date: 2024-06-04T06:00:00
 publisher: Realtor Magazine
 categories: interviews
 ---

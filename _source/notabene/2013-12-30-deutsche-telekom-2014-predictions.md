@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Deutsche Telekom 2014 M2M Predictions"
-date: 2013-12-30 15:53:11
+date: 2013-12-30T15:53:11
 categories: notabene
 link: http://www.telecomstechnews.com/news/2013/dec/19/what-are-deutsche-telekoms-m2m-predictions-2014/
 ---

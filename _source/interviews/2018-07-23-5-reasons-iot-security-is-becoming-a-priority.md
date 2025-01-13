@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "5 Reasons IoT Security Is Becoming A Priority"
-date: 2018-07-23 07:50:27
+date: 2018-07-23T07:50:27
 publisher: Cyber Security Hub
 categories: interviews
 twitter: |

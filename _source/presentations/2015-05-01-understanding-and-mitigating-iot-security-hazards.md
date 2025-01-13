@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Understanding and Mitigating IoT Security Hazards"
-date: 2015-05-01 00:09:34
+date: 2015-05-01T00:09:34
 categories: presentations
 publisher: Internet of Things Developers Conference
 presentation: |

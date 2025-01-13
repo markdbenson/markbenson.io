@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Smart Business of Smart Things"
-date: 2017-11-17 15:53:53
+date: 2017-11-17T15:53:53
 categories: presentations
 publisher: Agile Day Twin Cities
 twitter: |

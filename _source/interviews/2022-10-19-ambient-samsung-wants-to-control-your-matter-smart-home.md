@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Samsung wants to control your Matter smart home with SmartThings"
-date: 2022-10-19 06:00:00
+date: 2022-10-19T06:00:00
 publisher: The Ambient
 categories: interviews
 ---

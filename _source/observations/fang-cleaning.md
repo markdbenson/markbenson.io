@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fang Cleaning
-date: 2008-06-11 03:17:19
+date: 2008-06-11T03:17:19
 tags: Cleaning,Dentist,Fangs
 categories: observations
 ---

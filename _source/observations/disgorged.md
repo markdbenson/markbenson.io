@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Disgorged
-date: 2011-07-11 09:30:03
+date: 2011-07-11T09:30:03
 tags: Bicycle,Commuting,Disgorge,Hard-Boiled Egg,Hydration,Sick,Sunrise,Work
 categories: observations
 ---

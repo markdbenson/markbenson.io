@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Interview with Embedded Computing Design"
-date: 2016-10-21 09:48:49
+date: 2016-10-21T09:48:49
 categories: notabene
 link: http://iotdesign.embedded-computing.com/articles/it-ot-and-vying-for-control-of-the-iot-connectivity-platform/
 twitter: |

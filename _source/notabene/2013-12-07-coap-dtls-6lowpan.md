@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "6LoWPAN-Compressed DTLS for CoAP"
-date: 2013-12-07 00:00:30
+date: 2013-12-07T00:00:30
 categories: notabene
 link: http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6227754
 ---

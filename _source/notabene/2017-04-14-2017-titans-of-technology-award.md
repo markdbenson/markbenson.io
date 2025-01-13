@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "2017 Titans of Technology: Mark Benson"
-date: 2017-04-14 09:53:07
+date: 2017-04-14T09:53:07
 categories: notabene
 link: https://www.bizjournals.com/twincities/news/2017/04/14/2017-titans-of-technology-mark-benson.html
 images: |

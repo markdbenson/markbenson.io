@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mexican Polka
-date: 2008-10-13 02:15:00
+date: 2008-10-13T02:15:00
 tags: Kicker Sub,Mexican Polka,Sale,Sound System,Truck
 categories: observations
 ---

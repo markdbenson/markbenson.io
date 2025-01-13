@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Curling Irons
-date: 2009-07-25 04:47:00
+date: 2009-07-25T04:47:00
 tags: Bathrooms,Camping,Curling Iron,Posted Notice,Wisconsin
 categories: observations
 ---

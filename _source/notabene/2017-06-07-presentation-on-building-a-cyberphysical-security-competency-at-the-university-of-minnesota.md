@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cyber-Physical Security Presentation at University of Minnesota"
-date: 2017-06-07 16:46:01
+date: 2017-06-07T16:46:01
 categories: notabene
 link: http://markbenson.io/presentations/2017/06/organizational-leadership-building-a-sustainable-cyber-physical-security-competency/
 ---

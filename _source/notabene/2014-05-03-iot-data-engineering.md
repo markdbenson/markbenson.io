@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "IoT Data Engineering"
-date: 2014-05-03 00:28:20
+date: 2014-05-03T00:28:20
 categories: notabene
 link: http://www.forbes.com/sites/danwoods/2014/04/30/data-engineering-is-the-bottleneck-for-the-internet-of-things/
 ---

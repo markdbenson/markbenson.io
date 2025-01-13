@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Butter Factory
-date: 2006-03-27 06:33:47
+date: 2006-03-27T06:33:47
 categories: stories
 ---
 

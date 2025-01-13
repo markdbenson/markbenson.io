@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Why MSP is the once, current and future Internet of Things (IoT) alley"
-date: 2015-04-17 09:21:34
+date: 2015-04-17T09:21:34
 categories: interviews
 publisher: The Line Magazine
 ---

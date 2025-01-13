@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Methods for embedding device-specific data to enable remote identification and provisioning of specific devices"
-date: 2013-01-11 16:58:55
+date: 2013-01-11T16:58:55
 categories: patents
 status: Granted
 office: United States

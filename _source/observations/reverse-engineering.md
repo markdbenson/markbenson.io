@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Reverse Engineering
-date: 2010-12-13 01:42:00
+date: 2010-12-13T01:42:00
 tags: Embarrassing,Honor,Nefarious,Reverse Engineering,Self-Infliction,Software Engineering
 status: draft
 categories: observations

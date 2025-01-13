@@ -6,7 +6,7 @@ location: Minneapolis, MN
 start: October 2007
 end: September 2009
 logo: /images/logo-logicpd.png
-date: 2007-10-01 16:38:49
+date: 2007-10-01T16:38:49
 categories: experience
 ---
 

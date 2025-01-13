@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Case for IP for Smart Objects"
-date: 2014-04-24 22:26:04
+date: 2014-04-24T22:26:04
 categories: notabene
 link: http://www.ipso-alliance.org/wp-content/media/why_ip.pdf
 ---

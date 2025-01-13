@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Influence of Mass-Market Design Patterns from Adjacent Industries on the Development of Niche Diagnostic Devices
-date: 2012-06-05 05:21:17
+date: 2012-06-05T05:21:17
 categories: publications
 publisher: Medical Design Technology Magazine
 ---

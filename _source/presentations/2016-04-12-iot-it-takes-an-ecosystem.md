@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "IoT: It Takes an Ecosystem"
-date: 2016-04-12 16:31:07
+date: 2016-04-12T16:31:07
 categories: presentations
 publisher: IoT Fuse
 video: |

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Harmony in Diversity: Partnering for the Next Generation of Smart Living"
-date: 2024-01-08 09:30:00
+date: 2024-01-08T09:30:00
 categories: presentations
 publisher: Association for Smarter Homes and Buildings
 ---

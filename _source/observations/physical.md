@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Physical
-date: 2012-10-03 10:30:55
+date: 2012-10-03T10:30:55
 tags: Cab,Cabman,Olivia Newton-John,Physical,Radio,Taipei,Taiwan
 categories: observations
 ---

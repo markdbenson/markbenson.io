@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Preparing For Future Health Technology Trends by Analyzing Current Consumer Demand
-date: 2012-05-01 05:15:10
+date: 2012-05-01T05:15:10
 categories: presentations
 publisher: American Telemedicine Association
 presentation: |

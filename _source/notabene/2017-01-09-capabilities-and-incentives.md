@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Capabilities and Incentives"
-date: 2017-01-09 10:03:01
+date: 2017-01-09T10:03:01
 categories: notabene
 link: http://www.iotworldnews.com/author.asp?section_id=508&doc_id=728734&
 ---

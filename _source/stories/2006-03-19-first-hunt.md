@@ -1,7 +1,7 @@
 ---
 layout: post
 title: First Hunt
-date: 2006-03-19 04:50:05
+date: 2006-03-19T04:50:05
 categories: stories
 ---
 

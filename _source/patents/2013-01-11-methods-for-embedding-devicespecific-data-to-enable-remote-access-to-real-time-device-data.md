@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Methods for embedding device-specific data to enable remote access to real time device data"
-date: 2013-01-11 17:14:57
+date: 2013-01-11T17:14:57
 categories: patents
 status: Granted
 office: United States

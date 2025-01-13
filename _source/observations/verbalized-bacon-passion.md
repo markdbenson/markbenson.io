@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Verbalized Bacon Passion
-date: 2012-11-29 10:34:14
+date: 2012-11-29T10:34:14
 tags: Bacon,Passion,SJB,Sleep,Verbalizing
 categories: observations
 ---

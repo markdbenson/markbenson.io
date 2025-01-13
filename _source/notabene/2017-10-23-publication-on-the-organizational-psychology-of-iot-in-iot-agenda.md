@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Publication on the organizational psychology of IoT in IoT Agenda"
-date: 2017-10-23 10:54:33
+date: 2017-10-23T10:54:33
 categories: notabene
 link: http://markbenson.io/publications/2017/10/the-organizational-psychology-of-iot/
 ---

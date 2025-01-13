@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 4,000 Pieces of Bacon
-date: 2013-07-20 00:00:00
+date: 2013-07-20T00:00:00
 tags: Bacon, Accountability
 categories: observations
 ---

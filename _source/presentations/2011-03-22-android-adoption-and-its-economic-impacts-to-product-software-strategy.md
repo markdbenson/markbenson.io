@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Android Adoption and its Economic Impacts to Product Software Strategy
-date: 2011-03-22 03:54:48
+date: 2011-03-22T03:54:48
 categories: presentations
 publisher: Real-Time & Embedded Computing Conference
 presentation: |

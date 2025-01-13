@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Adam Gould on the Need for Radio, Security, and Data Standards"
-date: 2014-03-01 10:38:47
+date: 2014-03-01T10:38:47
 categories: notabene
 link: http://www.eetimes.com/document.asp?doc_id=1321229
 ---

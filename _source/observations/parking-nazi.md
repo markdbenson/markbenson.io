@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Parking Nazi
-date: 2009-04-07 11:28:08
+date: 2009-04-07T11:28:08
 tags: Accusation,Altercation,Gordy,Nazi,Parking Nazi
 categories: observations
 ---

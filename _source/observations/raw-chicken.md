@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Raw Chicken
-date: 2009-01-31 11:06:00
+date: 2009-01-31T11:06:00
 tags: Cheese,Chicken,Food,Raw Chicken
 categories: observations
 ---

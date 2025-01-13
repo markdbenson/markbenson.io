@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Smart Kitchens Might Not Turn You Into ‘The Bear,’ But They Can Heat up Your Cooking Skills"
-date: 2022-08-14 06:00:00
+date: 2022-08-14T06:00:00
 publisher: Mansion Global
 categories: interviews
 ---

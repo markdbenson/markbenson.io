@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bringing Calm to Our Connected World"
-date: 2023-01-05 09:30:00
+date: 2023-01-05T09:30:00
 categories: presentations
 publisher: Consumer Electronics Show
 ---

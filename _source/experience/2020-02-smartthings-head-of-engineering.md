@@ -6,7 +6,7 @@ location: Minneapolis, MN
 start: February 2020
 end: June 2021
 logo: /images/logo-smartthings.png
-date: 2020-02-01 16:38:49
+date: 2020-02-01T16:38:49
 categories: experience
 ---
 

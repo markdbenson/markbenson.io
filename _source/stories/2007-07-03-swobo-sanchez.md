@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Swobo Sanchez
-date: 2007-07-03 11:04:11
+date: 2007-07-03T11:04:11
 status: draft
 categories: stories
 ---

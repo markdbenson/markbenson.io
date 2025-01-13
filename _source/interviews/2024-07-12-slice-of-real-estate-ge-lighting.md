@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "GE Lighting and SmartThings Collaboration Enhances Kitchen Lighting Experience"
-date: 2024-07-12 06:00:00
+date: 2024-07-12T06:00:00
 publisher: Slice of Real Estate
 categories: interviews
 ---

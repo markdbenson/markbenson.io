@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fruit Rollup
-date: 2009-05-19 12:51:00
+date: 2009-05-19T12:51:00
 tags: Barbarian,Biffie,Fruit Rollup,Patron,Snacks
 categories: observations
 ---

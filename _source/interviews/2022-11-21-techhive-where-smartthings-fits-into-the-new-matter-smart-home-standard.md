@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Where SmartThings fits into the new Matter smart home standard"
-date: 2022-11-21 06:00:00
+date: 2022-11-21T06:00:00
 publisher: Tech Hive
 categories: interviews
 ---

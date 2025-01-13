@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Gold Crown
-date: 2011-12-08 10:03:03
+date: 2011-12-08T10:03:03
 tags: Boger Dental Spa,Dentist,Fangs,Gold Crown
 categories: observations
 ---

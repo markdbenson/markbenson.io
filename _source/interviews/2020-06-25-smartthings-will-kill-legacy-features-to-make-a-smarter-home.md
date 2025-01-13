@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SmartThings will kill legacy features to make a smarter home"
-date: 2020-06-25 08:50:27
+date: 2020-06-25T08:50:27
 publisher: Stacey on IoT
 categories: interviews
 ---

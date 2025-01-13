@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "IT, OT, and Vying for Control of the IoT Connectivity Platform"
-date: 2016-10-21 10:29:23
+date: 2016-10-21T10:29:23
 categories: interviews
 publisher: Embedded Computing Design
 ---

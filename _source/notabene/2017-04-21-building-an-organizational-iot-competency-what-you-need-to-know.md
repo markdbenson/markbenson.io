@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Building An Organizational IoT Competency: What You Need To Know"
-date: 2017-04-21 06:51:10
+date: 2017-04-21T06:51:10
 categories: notabene
 link: https://www.forbes.com/sites/forbestechcouncil/2017/04/21/building-an-organizational-iot-competency-what-you-need-to-know/#400187193cf7
 images: |

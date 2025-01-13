@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Angry Periods"
-date: 2014-01-07 06:01:12
+date: 2014-01-07T06:01:12
 categories: notabene
 link: http://www.newrepublic.com/article/115726/period-our-simplest-punctuation-mark-has-become-sign-anger
 ---

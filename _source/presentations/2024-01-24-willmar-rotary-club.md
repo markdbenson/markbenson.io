@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Minnesota Roots: A Leadership Career in Smart Home Tech"
-date: 2024-01-24 09:30:00
+date: 2024-01-24T09:30:00
 categories: presentations
 publisher: Willmar Rotary Club
 images: |

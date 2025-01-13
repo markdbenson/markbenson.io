@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Barrel-Aged Cheese
-date: 2012-09-30 10:29:13
+date: 2012-09-30T10:29:13
 tags: Airline Travel,Barrel-Aged Cheese,Japan,Narita,Sneakers
 categories: observations
 ---

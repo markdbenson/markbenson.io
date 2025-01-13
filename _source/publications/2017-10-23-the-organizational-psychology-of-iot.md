@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Organizational Psychology of IoT"
-date: 2017-10-23 17:00:09
+date: 2017-10-23T17:00:09
 categories: publications
 publisher: IoT Agenda
 twitter: |

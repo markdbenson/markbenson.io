@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Future of the Smart Home"
-date: 2022-10-25 09:30:00
+date: 2022-10-25T09:30:00
 categories: presentations
 publisher: Wall Street Journal Techlive
 twitter: |

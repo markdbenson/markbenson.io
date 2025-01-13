@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Homeslice
-date: 2009-10-27 01:08:33
+date: 2009-10-27T01:08:33
 tags: Dream,Homeslice,Nickname,Politeness,The Pimp,Work
 categories: observations
 ---

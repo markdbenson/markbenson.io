@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Emergency #2
-date: 2010-02-16 10:36:05
+date: 2010-02-16T10:36:05
 tags: Bad Day,Car,Emergency,Mid-Road,Poor Soul,Trousers
 categories: observations
 ---

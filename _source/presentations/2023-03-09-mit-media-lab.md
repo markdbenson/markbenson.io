@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Infinite Diversity in Infinite Combinations: The Birth of the True Smart Home"
-date: 2023-03-09 09:30:00
+date: 2023-03-09T09:30:00
 categories: presentations
 publisher: MIT Media Lab
 images: |

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cream Cheese Bandit
-date: 2012-12-13 10:26:22
+date: 2012-12-13T10:26:22
 tags: Accusation,Bagel Shop,Barista,Cream Cheese Bandit,Theft
 categories: observations
 ---

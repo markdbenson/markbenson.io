@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Radio Interview on KZSU Stanford 90.1 FM"
-date: 2017-06-26 16:59:38
+date: 2017-06-26T16:59:38
 categories: notabene
 link: http://markbenson.io/interviews/2017/06/iot-for-smart-buildings/
 ---

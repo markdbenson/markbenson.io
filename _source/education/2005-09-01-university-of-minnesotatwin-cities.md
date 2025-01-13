@@ -5,7 +5,7 @@ logo: /images/logo-umn.png
 degree: Master of Science, Software Engineering
 start: 2005
 end: 2007
-date: 2005-09-01 17:28:12
+date: 2005-09-01T17:28:12
 categories: education
 ---
 

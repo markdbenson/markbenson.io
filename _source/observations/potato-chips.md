@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Potato Chips
-date: 2012-06-12 05:30:12
+date: 2012-06-12T05:30:12
 tags: Dis,NWB,Sass,Z-Snaps
 categories: observations
 ---

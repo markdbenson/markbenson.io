@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Business Analytics and the Internet of Things"
-date: 2016-05-11 16:33:26
+date: 2016-05-11T16:33:26
 categories: presentations
 publisher: Minnetonka Vantage Advanced Professional Studies
 presentation: |

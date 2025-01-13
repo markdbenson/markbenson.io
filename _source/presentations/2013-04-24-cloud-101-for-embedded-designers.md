@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cloud 101 for Embedded Designers
-date: 2013-04-24 00:00:00
+date: 2013-04-24T00:00:00
 categories: presentations
 publisher: Design West
 tags: Embedded Systems, Design West, The Cloud, M2M, Network Aggregators, Short-Range RF, Cellular, MNO, MVNO, Application Enablement Platform

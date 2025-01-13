@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Exclamation Marks
-date: 2008-09-24 10:08:31
+date: 2008-09-24T10:08:31
 tags: Countrymen,Exclamations,Flagrant Overuse,Grammarians,Grotesque,War
 categories: observations
 ---

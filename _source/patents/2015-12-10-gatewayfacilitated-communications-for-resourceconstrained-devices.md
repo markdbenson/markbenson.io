@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Gateway-Facilitated Communications for Resource-Constrained Devices"
-date: 2015-12-10 21:49:13
+date: 2015-12-10T21:49:13
 categories: patents
 status: Granted
 office: United States

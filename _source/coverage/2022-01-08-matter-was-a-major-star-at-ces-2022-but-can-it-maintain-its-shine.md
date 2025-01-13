@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Matter was a major star at CES 2022, but can it maintain its shine?"
-date: 2022-01-08 08:00:00
+date: 2022-01-08T08:00:00
 publisher: The Verge
 categories: coverage 
 ---

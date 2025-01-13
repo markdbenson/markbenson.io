@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Podcast: Apple embraces IoT and SmartThings shakes things up"
-date: 2020-06-25 07:50:27
+date: 2020-06-25T07:50:27
 publisher: Stacey on IoT
 categories: interviews
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Jeggings
-date: 2013-05-22 14:02:00
+date: 2013-05-22T14:02:00
 tags: Jeggings, Stretchy Pants, Donuts, Reconciliation
 categories: observations
 ---

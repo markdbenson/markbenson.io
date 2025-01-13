@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hello Random Dude
-date: 2013-06-03 00:00:00
+date: 2013-06-03T00:00:00
 tags: Keanu Reeves, Target, Random, Doppleganger
 categories: observations
 ---

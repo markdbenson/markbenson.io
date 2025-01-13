@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Nine Things That Are Poised To Impact Cybersecurity"
-date: 2018-04-19 21:13:41
+date: 2018-04-19T21:13:41
 categories: interviews
 publisher: Forbes
 ---

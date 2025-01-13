@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Letter to Scarred Feet
-date: 2005-10-23 10:35:49
+date: 2005-10-23T10:35:49
 tags: Feature
 categories: stories
 ---

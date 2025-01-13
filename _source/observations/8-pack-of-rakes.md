@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 8-Pack of Rakes
-date: 2011-04-03 08:33:55
+date: 2011-04-03T08:33:55
 tags: Costco,Ketchup,Rakes,Shopping,TV
 categories: observations
 ---

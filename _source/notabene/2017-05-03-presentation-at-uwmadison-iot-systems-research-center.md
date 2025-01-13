@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Presentation at UW-Madison IoT Systems Research Center"
-date: 2017-05-03 09:49:35
+date: 2017-05-03T09:49:35
 categories: notabene
 link: http://markbenson.io/presentations/2017/05/iot-for-organizations-avoiding-common-pitfalls/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "2016 Minnesota Water Technology Summit"
-date: 2016-09-15 16:25:06
+date: 2016-09-15T16:25:06
 categories: notabene
 link: https://www.greatermsp.org/about-us/2016-minnesota-water-technology-summit/
 ---

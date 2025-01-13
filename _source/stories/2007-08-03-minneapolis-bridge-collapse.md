@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Minneapolis Bridge Collapse
-date: 2007-08-03 09:06:58
+date: 2007-08-03T09:06:58
 tags: Bridge Collapse,Minneapolis,news,Tragedy
 status: draft
 categories: stories

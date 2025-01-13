@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Why Samsung's SmartThings arm is pivoting entirely into software"
-date: 2020-06-24 08:50:27
+date: 2020-06-24T08:50:27
 publisher: Business Insider
 categories: interviews
 ---

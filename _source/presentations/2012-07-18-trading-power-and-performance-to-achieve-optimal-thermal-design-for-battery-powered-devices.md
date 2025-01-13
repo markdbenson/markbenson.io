@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Trading Power and Performance to Achieve Optimal Thermal Design for Battery-Powered Devices
-date: 2012-07-18 05:26:26
+date: 2012-07-18T05:26:26
 categories: presentations
 publisher: Communications, Microsystems, Optoelectronics, and Sensors
 presentation: |

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Organizational Leadership: Building a Sustainable Cyber-Physical Security Competency"
-date: 2017-06-07 09:35:08
+date: 2017-06-07T09:35:08
 categories: presentations
 publisher: University of Minnesota
 twitter: |

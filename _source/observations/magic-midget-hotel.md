@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Magic Midget Hotel
-date: 2010-04-19 06:40:36
+date: 2010-04-19T06:40:36
 tags: Bath,Ceiling,Hotel,London,Magic,Midget,Shower,Sternum
 categories: observations
 ---

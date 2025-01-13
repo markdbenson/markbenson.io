@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Yee Yee Road
-date: 2007-02-19 05:42:44
+date: 2007-02-19T05:42:44
 categories: stories
 ---
 

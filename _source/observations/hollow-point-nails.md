@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hollow-Point Nails
-date: 2013-05-24 00:00:00
+date: 2013-05-24T00:00:00
 tags: Bridge Over Troubled Water, Hollow-Point Nails, Sriracha
 categories: observations
 ---

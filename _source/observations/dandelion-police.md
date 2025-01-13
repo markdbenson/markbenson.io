@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dandelion Police
-date: 2009-05-26 09:47:00
+date: 2009-05-26T09:47:00
 tags: Dandelions,Neighbors,Police,Weed Control
 categories: observations
 ---

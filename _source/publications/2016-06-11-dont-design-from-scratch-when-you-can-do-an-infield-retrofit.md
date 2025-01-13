@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Don’t Design from Scratch When You Can Do an In-field Retrofit"
-date: 2016-06-11 16:35:38
+date: 2016-06-11T16:35:38
 categories: publications
 publisher: Embedded Computing Design
 ---

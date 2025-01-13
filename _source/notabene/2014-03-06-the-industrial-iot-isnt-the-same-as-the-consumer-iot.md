@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Industrial IoT Isn't The Same As The Consumer IoT"
-date: 2014-03-06 09:30:21
+date: 2014-03-06T09:30:21
 categories: notabene
 link: http://www.forbes.com/sites/oreillymedia/2014/02/26/the-industrial-iot-isnt-the-same-as-the-consumer-iot/
 ---

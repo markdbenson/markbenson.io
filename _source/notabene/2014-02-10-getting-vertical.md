@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Getting Vertical"
-date: 2014-02-10 14:31:38
+date: 2014-02-10T14:31:38
 categories: notabene
 link: http://channelnomics.com/2014/02/10/vendors-must-get-vertical-miss-5-trillion-iot-opportunity/
 ---

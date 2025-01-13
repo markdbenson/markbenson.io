@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "8 Tips for Building a Cost-Effective IoT Sensor Network"
-date: 2017-01-11 17:01:24
+date: 2017-01-11T17:01:24
 categories: interviews
 publisher: Computer World
 twitter: |

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Empowering the Internet of Things Generation"
-date: 2017-04-24 21:19:16
+date: 2017-04-24T21:19:16
 categories: interviews
 publisher: Middle Market Executive
 ---

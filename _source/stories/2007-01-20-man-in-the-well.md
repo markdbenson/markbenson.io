@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Man in the Well
-date: 2007-01-20 12:30:14
+date: 2007-01-20T12:30:14
 categories: stories
 ---
 

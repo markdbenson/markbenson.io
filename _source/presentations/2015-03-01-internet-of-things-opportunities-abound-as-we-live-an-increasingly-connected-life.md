@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Internet of Things: Opportunities Abound As We Live an Increasingly Connected Life"
-date: 2015-03-01 23:47:08
+date: 2015-03-01T23:47:08
 categories: presentations
 publisher: Minnesota High Tech Association
 ---

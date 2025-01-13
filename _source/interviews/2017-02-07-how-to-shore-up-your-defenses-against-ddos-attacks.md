@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How To Shore Up Your Defenses Against DDoS Attacks"
-date: 2017-02-07 14:00:00
+date: 2017-02-07T14:00:00
 categories: interviews
 publisher: Forbes
 twitter: |

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Post-Email Era
-date: 2011-01-03 04:30:53
+date: 2011-01-03T04:30:53
 tags: Apology,Email,Future,History,Judgment,Pain,Post-Email Era,Prediction
 status: draft
 categories: observations

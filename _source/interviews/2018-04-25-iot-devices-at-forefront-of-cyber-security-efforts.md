@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "IoT Devices At Forefront Of Cyber Security Efforts"
-date: 2018-04-25 21:24:59
+date: 2018-04-25T21:24:59
 categories: interviews
 publisher: Cyber Security Hub
 ---

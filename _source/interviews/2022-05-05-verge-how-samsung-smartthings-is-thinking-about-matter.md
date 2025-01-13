@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How Samsung’s SmartThings is thinking about Matter and the future of the smart home"
-date: 2022-05-05 06:00:00
+date: 2022-05-05T06:00:00
 publisher: The Verge
 categories: interviews
 ---

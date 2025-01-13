@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Art of Software Thermal Management for Embedded Systems -- Final Proofs"
-date: 2013-12-08 23:28:31
+date: 2013-12-08T23:28:31
 categories: notabene
 ---
 

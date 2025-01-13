@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2nd Hand Smoke
-date: 2013-01-12 17:00:00
+date: 2013-01-12T17:00:00
 tags: MGM Grand, Las Vegas, Smoking, Venetian, Voice
 categories: observations
 ---

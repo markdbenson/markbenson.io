@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Systems, devices and methods for provisioning, pairing and activating a newly manufactured device for automatic joining of customer's network"
-date: 2012-11-27 17:12:12
+date: 2012-11-27T17:12:12
 categories: patents
 status: Granted
 office: United States

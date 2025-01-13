@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Four-Hour Meeting
-date: 2010-06-25 12:34:41
+date: 2010-06-25T12:34:41
 tags: Ears,Eyes,Hot Sticks,Meetings,Rooster Sauce,Work
 categories: observations
 ---

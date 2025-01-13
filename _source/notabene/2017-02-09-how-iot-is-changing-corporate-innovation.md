@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How IoT is Changing Corporate Innovation"
-date: 2017-02-09 23:29:11
+date: 2017-02-09T23:29:11
 categories: notabene
 link: http://internetofthingsagenda.techtarget.com/blog/IoT-Agenda/How-the-internet-of-things-is-changing-corporate-innovation
 ---

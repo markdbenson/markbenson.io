@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "PTC Acquires ThingWorx"
-date: 2014-01-03 13:06:19
+date: 2014-01-03T13:06:19
 categories: notabene
 link: http://www.ptc.com/appserver/wcms/standards/textsub.jsp?&im_dbkey=159649&icg_dbkey=21
 ---

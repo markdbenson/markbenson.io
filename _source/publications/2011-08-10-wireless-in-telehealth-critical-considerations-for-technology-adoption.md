@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Wireless in Telehealth: Critical Considerations for Technology Adoption"
-date: 2011-08-10 04:36:52
+date: 2011-08-10T04:36:52
 categories: publications
 publisher: Embedded Computing Design
 ---

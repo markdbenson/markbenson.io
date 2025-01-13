@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Domain-Driven Device Cloud Design with Monte Carlo Methods
-date: 2011-08-31 04:45:20
+date: 2011-08-31T04:45:20
 categories: publications
 publisher: Embedded Systems Design
 twitter: |

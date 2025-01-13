@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Explosion
-date: 2004-07-08 05:10:15
+date: 2004-07-08T05:10:15
 status: draft
 categories: stories
 ---

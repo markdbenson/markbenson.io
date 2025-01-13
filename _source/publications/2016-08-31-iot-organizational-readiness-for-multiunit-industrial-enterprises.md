@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "IoT Organizational Readiness for Multiunit Industrial Enterprises"
-date: 2016-08-31 12:13:52
+date: 2016-08-31T12:13:52
 categories: publications
 link: http://iotinnovator.com/iot-organizational-readiness-multiunit-industrial-enterprises/
 publisher: IoT Innovator

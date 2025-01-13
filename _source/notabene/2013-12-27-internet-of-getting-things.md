@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Internet of Getting Things"
-date: 2013-12-27 15:38:07
+date: 2013-12-27T15:38:07
 categories: notabene
 link: http://readwrite.com/2013/12/27/2014-will-see-small-moves-towards-internet-of-things#awesm=~org6lnEWJfbA9S
 ---

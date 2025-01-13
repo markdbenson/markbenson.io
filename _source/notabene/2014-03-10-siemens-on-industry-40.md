@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Siemens on Industry 4.0 and The Future of Self-Organizing Factories"
-date: 2014-03-10 01:14:04
+date: 2014-03-10T01:14:04
 categories: notabene
 link: http://www.siemens.com/innovation/apps/pof_microsite/_pof-spring-2013/_html_en/industry-40.html
 ---

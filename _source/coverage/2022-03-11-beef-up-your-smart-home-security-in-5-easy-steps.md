@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Beef up your smart home security in 5 easy steps"
-date: 2022-03-11 06:00:00
+date: 2022-03-11T06:00:00
 publisher: CNET
 categories: coverage 
 ---

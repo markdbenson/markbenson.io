@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mr. Afro's Barbershop
-date: 2006-01-25 11:24:14
+date: 2006-01-25T11:24:14
 tags: Afro,Astronaut-Heiny,Barber,Barbershop,Beard,Boob Tube,Braids,Broadway Liquor,Buzz,College,Corn Rolls,Feature,Haircut,Hi-Top Fade,JJ's Used Furniture,Marriage,Master Cuts,Mustache,NCAA,Wahl
 categories: stories
 ---

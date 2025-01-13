@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Overtones and High Notes
-date: 2012-03-22 05:24:57
+date: 2012-03-22T05:24:57
 tags: Aged Turkey,Coffee,Cranberry,High Notes,Overtones,Thanksgiving
 categories: observations
 ---

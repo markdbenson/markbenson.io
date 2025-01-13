@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Affordances in the Internet of Things"
-date: 2013-12-19 14:57:31
+date: 2013-12-19T14:57:31
 categories: notabene
 link: http://book.roomofthings.com//2012/07/27/affordances_in_the_internet_of_things/
 ---

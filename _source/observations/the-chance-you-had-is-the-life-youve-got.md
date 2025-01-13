@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The chance you had is the life you've got
-date: 2011-05-20 10:38:48
+date: 2011-05-20T10:38:48
 tags: Book Review,Contentment,Grateful,Hannah Coulter,Missed Chances,Port William,Wendell Berry
 categories: observations
 ---

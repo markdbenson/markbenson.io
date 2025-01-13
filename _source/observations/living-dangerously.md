@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Living Dangerously
-date: 2011-06-08 10:42:37
+date: 2011-06-08T10:42:37
 tags: Chaos,Danger,Music,Roulette,Russian Roulette,Violence
 categories: observations
 ---

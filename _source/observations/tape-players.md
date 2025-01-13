@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tape Players
-date: 2008-10-23 10:56:00
+date: 2008-10-23T10:56:00
 tags: Confusion,Overheard,Panic,Tape Players
 categories: observations
 ---

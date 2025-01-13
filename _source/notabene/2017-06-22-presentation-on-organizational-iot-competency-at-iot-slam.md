@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Presentation on Organizational IoT Competency at IoT Slam"
-date: 2017-06-22 16:50:49
+date: 2017-06-22T16:50:49
 categories: notabene
 link: http://markbenson.io/presentations/2017/06/building-an-organizational-iot-competency-how-to-prevent-disaster/
 ---

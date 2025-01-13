@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Serpentine Evasion Skills
-date: 2012-08-29 02:43:21
+date: 2012-08-29T02:43:21
 tags: Crumpled Bill,Danger,Driving,Evasion,Money,Serpentine,Traffic
 categories: observations
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Micro-Vertical Engine Approach for Rapid IoT Mass Customization"
-date: 2014-02-01 23:33:04
+date: 2014-02-01T23:33:04
 categories: presentations
 publisher: M2M Evolution
 presentation: |

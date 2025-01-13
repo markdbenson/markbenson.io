@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ukrainian Babushkas
-date: 2011-09-08 11:21:38
+date: 2011-09-08T11:21:38
 tags: Babushka,Cackle,Chicken,Plucking Chickens,Raven,Ukraine
 categories: observations
 ---

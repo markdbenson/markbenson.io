@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Backup Cigarette Money
-date: 2009-08-19 04:50:00
+date: 2009-08-19T04:50:00
 tags: Backup Cigarette Money,Cigarettes,LAX,Minneapolis,Money,Overheard
 categories: observations
 ---

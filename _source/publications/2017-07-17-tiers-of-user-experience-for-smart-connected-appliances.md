@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tiers of User Experience for Smart Connected Appliances"
-date: 2017-07-17 23:35:12
+date: 2017-07-17T23:35:12
 categories: publications
 publisher: Appliance Design Magazine
 images: |

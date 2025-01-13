@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Samsung Galaxy Home is still MIA. Will it ever be released?"
-date: 2020-05-20 07:50:27
+date: 2020-05-20T07:50:27
 publisher: Digital Trends
 categories: interviews
 ---

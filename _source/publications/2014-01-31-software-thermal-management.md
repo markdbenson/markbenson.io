@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Art of Software Thermal Management for Embedded Systems
-date: 2014-01-31 04:29:43
+date: 2014-01-31T04:29:43
 categories: publications
 thumbnail: /images/stmes.jpg
 link: /stmes/

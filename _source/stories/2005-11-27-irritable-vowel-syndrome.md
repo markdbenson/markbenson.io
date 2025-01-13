@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Irritable Vowel Syndrome
-date: 2005-11-27 10:32:11
+date: 2005-11-27T10:32:11
 categories: stories
 ---
 

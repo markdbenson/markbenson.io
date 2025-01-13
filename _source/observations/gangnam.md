@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Gangnam
-date: 2013-03-07 14:00:00
+date: 2013-03-07T14:00:00
 tags: Milwaukee, Seat Fellow, Gangnam Style, Flight
 categories: observations
 ---

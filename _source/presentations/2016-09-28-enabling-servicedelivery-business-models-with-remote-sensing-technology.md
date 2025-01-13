@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Enabling Service-Delivery Business Models with Remote Sensing Technology"
-date: 2016-09-28 15:04:16
+date: 2016-09-28T15:04:16
 categories: presentations
 publisher: Sensors Midwest
 presentation: |

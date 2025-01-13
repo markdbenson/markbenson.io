@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Nastiest Place On The Planet
-date: 2009-12-08 04:50:16
+date: 2009-12-08T04:50:16
 tags: Bowling Alley,Bowling Ball,Germs,Nasty,Planet
 categories: observations
 ---

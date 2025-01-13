@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "US Cyber Trust Mark Panel"
-date: 2024-01-11 09:30:00
+date: 2024-01-11T09:30:00
 categories: presentations
 publisher: Consumer Technology Association
 images: |
