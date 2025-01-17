@@ -2,7 +2,7 @@
 layout: page
 count: [% p = 0 %][% for post in site.categories.patents %][% p = p + 1 %][% end %][% p %]
 title: Patents
-subtitle: "Innovation awards and patents"
+subtitle: "Patented inventions"
 menu: cv
 byline: no
 ---
