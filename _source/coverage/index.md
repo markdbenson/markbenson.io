@@ -1,6 +1,6 @@
 ---
 layout: page
-count: [% p = 0 %][% for post in site.categories.coverage %][% p = p + 1 %][% end %][% p %]
+count: "[% p = 0 %][% for post in site.categories.coverage %][% p = p + 1 %][% end %][% p %]"
 title: Media Coverage
 subtitle: "News articles and press release mentions"
 menu: preface

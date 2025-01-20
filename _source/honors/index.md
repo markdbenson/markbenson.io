@@ -1,6 +1,6 @@
 ---
 layout: page
-count: [% p = 0 %][% for post in site.categories.honors %][% p = p + 1 %][% end %][% p %]
+count: "[% p = 0 %][% for post in site.categories.honors %][% p = p + 1 %][% end %][% p %]"
 title: Honors
 subtitle: "Awards and recognitions"
 menu: cv

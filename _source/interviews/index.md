@@ -1,6 +1,6 @@
 ---
 layout: page
-count: [% p = 0 %][% for post in site.categories.interviews %][% p = p + 1 %][% end %][% p %]
+count: "[% p = 0 %][% for post in site.categories.interviews %][% p = p + 1 %][% end %][% p %]"
 title: Interviews
 subtitle: "Invited interviews with media and press"
 menu: cv

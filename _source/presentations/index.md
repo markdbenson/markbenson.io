@@ -1,6 +1,6 @@
 ---
 layout: page
-count: [% p = 0 %][% for post in site.categories.presentations %][% p = p + 1 %][% end %][% p %]
+count: "[% p = 0 %][% for post in site.categories.presentations %][% p = p + 1 %][% end %][% p %]"
 title: Presentations
 subtitle: "Invited presentations and keynotes"
 menu: cv

@@ -1,6 +1,6 @@
 ---
 layout: page
-count: [% p = 0 %][% for post in site.categories.publications %][% p = p + 1 %][% end %][% p %]
+count: "[% p = 0 %][% for post in site.categories.publications %][% p = p + 1 %][% end %][% p %]"
 title: Publications
 subtitle: "Published papers, contributed articles, and a textbook"
 menu: cv

@@ -3,14 +3,14 @@
 name: Mark Benson
 author: Mark Benson
 url: https://markbenson.io/
-ignore :
-    - "^\."
-    - "^_"
-    - "^design$"
-    - "^README.md$"
-    - "^Makefile$"
-    - ".DS_Store"
-    - "access.log"
+ignore:
+    - ^\.
+    - ^_
+    - ^design$
+    - ^README.md$
+    - ^Makefile$
+    - .DS_Store
+    - access.log
 copyright: "[% use date %]&copy; [% site.author %] 2001 - [% date.format(date.now, '%Y') %]"
 cv:
     title: Mark Benson
