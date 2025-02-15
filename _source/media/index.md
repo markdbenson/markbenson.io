@@ -18,6 +18,16 @@ Social media contact info
 
 -->
 
+[% block citation %]
+    [% if post.link %][% url = post.link %][% else %][% url = post.url %][% end %]
+    [% use date %]
+    <p>
+        Benson, Mark.
+        <a href="[% post.url %]" title="Read [% post.title | smart %]">"[% post.title | smart %]."</a>
+        <em>[% if post.publisher %][% post.publisher %][% else %]Publisher[% end %]</em>.
+        [% date.format(post.date, "%B %d, %Y") %].
+    </p>
+[% end %]
 
 <div class="page-section pt-80-b-50-cont">
 <div class="container">
@@ -164,17 +174,11 @@ Social media contact info
 
 <div class="container p-50-cont">
 <div class="mb-50">
-  <h2 class="section-title pr-0"><span class="bold">PREVIOUS ENGAGEMENTS</span></h2>
+  <h2 class="section-title pr-0"><span class="bold">PREVIOUS SPEAKING ENGAGEMENTS</span></h2>
 </div>
 <div class="container">
 [% for post in site.categories.presentations.reverse %]
-  [% if post.link %][% url = post.link %][% else %][% url = post.url %][% end %]
-  [% use date %]
-  <p class="pb-20">
-    <b style="font-size: 1.4em">[% if post.publisher %][% post.publisher %][% else %]Publisher[% end %]</b><br />
-    <a href="[% post.url %]" title="Read [% post.title | smart %]">[% post.title | smart %]</a>,
-    [% date.format(post.date, "%m/%d/%Y") %]
-  </p> 
+[% include citation %]
 [% end %]
 </div>
 </div>
@@ -185,13 +189,7 @@ Social media contact info
 </div>
 <div class="container">
 [% for post in site.categories.publications.reverse %]
-  [% if post.link %][% url = post.link %][% else %][% url = post.url %][% end %]
-  [% use date %]
-  <p class="pb-20">
-    <b style="font-size: 1.4em">[% if post.publisher %][% post.publisher %][% else %]Publisher[% end %]</b><br />
-    <a href="[% post.url %]" title="Read [% post.title | smart %]">[% post.title | smart %]</a>,
-    [% date.format(post.date, "%m/%d/%Y") %]
-  </p> 
+[% include citation %]
 [% end %]
 </ul>
 </div>
@@ -204,13 +202,7 @@ Social media contact info
 </div>
 <div class="container">
 [% for post in site.categories.interviews.reverse %]
-  [% if post.link %][% url = post.link %][% else %][% url = post.url %][% end %]
-  [% use date %]
-  <p class="pb-20">
-    <b style="font-size: 1.4em">[% if post.publisher %][% post.publisher %][% else %]Publisher[% end %]</b><br />
-    <a href="[% post.url %]" title="Read [% post.title | smart %]">[% post.title | smart %]</a>,
-    [% date.format(post.date, "%m/%d/%Y") %]
-  </p> 
+[% include citation %]
 [% end %]
 </div>
 </div>
@@ -222,18 +214,21 @@ Social media contact info
 </div>
 <div class="container">
 [% for post in site.categories.coverage.reverse %]
-  [% if post.link %][% url = post.link %][% else %][% url = post.url %][% end %]
-  [% use date %]
-  <p class="pb-20">
-    <b style="font-size: 1.4em">[% if post.publisher %][% post.publisher %][% else %]Publisher[% end %]</b><br />
-    <a href="[% post.url %]" title="Read [% post.title | smart %]">[% post.title | smart %]</a>,
-    [% date.format(post.date, "%m/%d/%Y") %]
-  </p> 
+[% include citation %]
 [% end %]
 </div>
 </div>
 
-
+<div class="container p-50-cont">
+<div class="mb-50">
+  <h2 class="section-title pr-0"><span class="bold">PATENTS</span></h2>
+</div>  
+<div class="container">
+[% for post in site.categories.patents.reverse %]
+[% include citation %]
+[% end %]
+</div>
+</div> 
 
 
 </div>
