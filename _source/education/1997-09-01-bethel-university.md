@@ -9,5 +9,5 @@ start: 1997
 end: 2001
 ---
 
-Studied Computer Science and received a Mathematics minor. Also, captain of the tennis team.
+Studied computer science and minored in mathematics. Bible study leader. Bass player at chapel/vespers. Tennis team captain.
 

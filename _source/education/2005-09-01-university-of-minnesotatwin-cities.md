@@ -9,5 +9,5 @@ date: 2005-09-01T17:28:12
 categories: education
 ---
 
-Studied lock-free access mechanisms for reading and writing to shared resources in multi-threaded applications written for hardware platforms with multi-core CPUs.
+Studied extensible language grammars and lock-free memory abstractions for multi-threaded applications.
 

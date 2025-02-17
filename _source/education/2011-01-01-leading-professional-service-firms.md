@@ -9,5 +9,5 @@ date: 2011-01-01T17:23:04
 categories: education
 ---
 
-Studied microeconomics, competitive strategy, and organizational behavior as part of the Executive Education program at Harvard Business School.
+Areas of focus: strategic growth & adaptation, leadership & talent development, culture & engagement, decision-making & influence as part of the Executive Education program at Harvard Business School.
 
