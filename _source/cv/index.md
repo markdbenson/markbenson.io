@@ -31,10 +31,10 @@ menu: cv
                 <p class="mb-20">[% site.cv.summary %]</p>
                 <p class="mb-20"><span class="bold">SKILLS:</span> [% for skill in site.cv.skills %][% skill %] [% unless loop.last %]| [% end %][% end %]</p>
                 <div class="row">
-                    <div class="col-md-6">
+                    <div class="col-md-5">
                         <p class="mb-30"><span class="bold">STRENGTHS:</span> [% for strength in site.cv.strengths %] [% strength %][% if loop.last %]. [% else %], [% end %][% end %]</p>
                     </div>
-                    <div class="col-md-6">
+                    <div class="col-md-7">
                         <p class="mb-30"><span class="bold">PERSONALITY:</span> [% site.cv.personality %]</p>
                     </div>
                 </div>
