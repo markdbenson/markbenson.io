@@ -10,9 +10,9 @@ date: 2011-02-01T16:38:49
 categories: experience
 ---
 
-* Direct product software development activities and engineering talent, including recruitment, offers, reviews, training, career development, and mentoring to attract and retain top talent.
-* Develop and communicate corporate software strategy by analyzing, identifying, and pursuing technologies and partnerships that enhance and defend Logic PD's long-term stability and brand position in the marketplace.
-* Co-lead the Technology Roadmap Development program to identify and cultivate technologies that augment the company’s IP portfolio through a structured process that solicits and empowers innovation throughout all levels of the company.
-* Created and launched the 3rd Party Partner Program to select and grow business relationships that offer value-added options to customers, furthering Logic PD’s brand as a well-connected trusted technology advisor.
-* Established Logic PD’s Early Adopter Program (EAP) to provide key customers early access to Logic PD products hardware and software artifacts prior to general availability through distribution.
+- Led product software development and engineering talent management, driving recruitment, mentorship, and career growth to attract and retain top talent.  
+- Shaped and communicated corporate software strategy by identifying key technologies and partnerships that strengthened Logic PD’s market position and long-term stability.  
+- Drove technology innovation by co-leading the Technology Roadmap Development program, fostering company-wide contributions that enhanced the IP portfolio.  
+- Launched and expanded the 3rd Party Partner Program, building strategic business relationships that provided value-added solutions for customers and reinforced Logic PD’s reputation as a trusted technology advisor.  
+- Established the Early Adopter Program (EAP), providing key customers early access to hardware and software, accelerating feedback cycles, and strengthening market adoption.  
 

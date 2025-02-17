@@ -10,11 +10,8 @@ date: 2018-10-29T16:38:49
 categories: experience
 ---
 
-* Responsible for attracting, retaining, and growing top software engineering talent for cloud engineering teams including core IoT primitives, rules & behaviors, eventing, security management, release engineering, and developer enablement services.
-
-* Responsible for structuring, measuring, and improving all aspects of the software development process and related activities to improve agility, speed, performance, and quality in a way that aligns and empowers autonomous teams.
-
-* Responsible for delivering a globally-available and distributed software platform that is reliable, scalable, and secure while meeting regional latency and performance requirements.
-
-* Key leadership role in annual and quarterly strategic planning initiatives for the engineering organization to ensure that all teams and units are aligned with business objectives and operate as a cohesive unit.
+- Integrated SmartThings into Samsung appliances (2019): Enabled SmartThings functionality in Samsung appliances (e.g., Family Hub refrigerator) through an add-on SmartThings dongle, expanding the ecosystem and driving adoption of connected home experiences.
+- Announced strategic smart lighting partnership (2019): Partnered with Signify (Philips Hue) to integrate smart lighting control into SmartThings, driving adoption of synchronized lighting automation and enhancing the smart home experience.
+- Expanded voice assistant integration (2018): Spearheaded integration with Amazon Alexa and Google Assistant, enabling hands-free control of SmartThings devices and significantly improving accessibility and user engagement.
+- Consolidated to a single cloud platform (2018): Successfully unified ARTIK Cloud and Samsung Connect Cloud into SmartThings Cloud, enhancing interoperability across Samsung and third-party IoT ecosystems, resulting in a more seamless and scalable smart home platform.
 

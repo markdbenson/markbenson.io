@@ -10,15 +10,10 @@ date: 2012-09-01T16:38:49
 categories: experience
 ---
 
-* Responsible for 5-year technology roadmap for the company to ensure long-term stability and position in the emerging Industrial Internet of Things market.
-
-* Responsible for technical talent for information technology, engineering, product management, technical communications, quality assurance, information security, and support services, including recruitment, hiring, career development, performance management, and retention for positions ranging from Vice Presidents to Directors to Managers to engineers and other administrative staff.
-
-* Frequent speaker at community and professional events as an industry thought-leader and communicator to further the enterprise IoT industry, and grow Exosite brand strength in the marketplace.
-
-* Responsible for the company's intellectual property portfolio, including patent prosecution, trademarks, and software license terms, and contracts.
-
-* Responsible for competitive strategy and intelligence including win/loss analysis, competitive dimensions, competitive forces, competitive landscape predictions, and the strategy for developing symbiotic ecosystem partnerships.
-
-* Responsible for corporate metrics and dashboards to give insight into business performance and to drive the leadership team to action-oriented, data-driven decisions and results.
+* Defined and led the company’s 5-year technology roadmap, ensuring long-term stability and a competitive position in the emerging Industrial Internet of Things (IIoT) market.
+* Built and developed high-performing technical teams across IT, engineering, product management, technical communications, quality assurance, information security, and support services—driving recruitment, career growth, and retention from executive leadership to individual contributors.
+* Engaged and influenced industry audiences as a frequent speaker at professional events, strengthening Exosite’s brand and advancing enterprise IoT thought leadership.
+* Managed and expanded the company’s intellectual property portfolio, overseeing patent prosecution, trademarks, software license terms, and contracts to safeguard innovation and competitive advantage.
+* Drove competitive strategy through rigorous market intelligence, win/loss analysis, and ecosystem partnerships, positioning the company for strategic growth and differentiation.
+* Designed and implemented corporate metrics and dashboards that provided actionable insights, enabling data-driven decisions and measurable business outcomes across the leadership team.
 
