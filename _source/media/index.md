@@ -23,7 +23,7 @@ Social media contact info
     [% use date %]
     <p>
         Benson, Mark.
-        <a href="[% post.url %]" title="Read [% post.title | smart %]">"[% post.title | smart %]."</a>
+        "<a href="[% post.url %]" title="Read [% post.title | smart %]">[% post.title | smart %]</a>."
         <em>[% if post.publisher %][% post.publisher %][% else %]Publisher[% end %]</em>.
         [% date.format(post.date, "%B %d, %Y") %].
     </p>
