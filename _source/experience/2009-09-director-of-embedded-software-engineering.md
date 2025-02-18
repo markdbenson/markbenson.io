@@ -10,9 +10,13 @@ date: 2009-09-01T16:38:49
 categories: experience
 ---
 
-* Directed service software development engineering talent, including recruitment, offers, reviews, training, career development, and mentoring to achieve $2.2M annual revenue with a $.9M gross margin contribution at 14% CAGR.
-* Developed business by presenting product development products and services to potential clients via project plans, statements of work, terms and conditions, and face-to-face consultative selling techniques.
-* Managed design service resource staffing issues by assigning personnel to product development projects using sales forecasts, yield projections, and resource modeling techniques.
-* Introduced Monte Carlo methods, tools, and processes to the business development team for quantitatively assessing design service program risk to aid in the pricing process for fixed-bid programs.
-* Acted as program manager for an ITAR-rated soldier vision system yielding $1.8M in design services revenue with 30+ team members over 18 months.
+- **Directed Service Software Development Engineering Talent**: Led recruitment, offers, reviews, training, career development, and mentoring efforts to achieve $2.2M in annual revenue with $0.9M gross margin. 
+
+- **Developed Business Through Client Engagement**: Presented product development services to potential clients via project plans, statements of work, terms and conditions, and consultative selling techniques.
+
+- **Managed Design Service Resource Staffing**: Assigned personnel to product development projects using sales forecasts, yield projections, and resource modeling techniques to optimize efficiency.
+
+- **Introduced Monte Carlo Risk Assessment**: Implemented Monte Carlo methods, tools, and processes for the business development team to quantitatively assess design service program risk, improving pricing strategies for fixed-bid programs.
+
+- **Program and Systems Lead for ITAR-Rated Soldier Vision System**: Led a $1.8M design services program with a 30+ member team over 18 months, delivering mission-critical defense technology.
 
