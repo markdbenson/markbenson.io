@@ -10,6 +10,8 @@ date: 2022-02-03T12:38:49
 categories: experience
 ---
 
+- **Launched AI-driven natural-language routine creation** (July 2025): Introduced the “Routine Creation Assistant” inside SmartThings, enabling users to define home-automations via plain-language commands such as “turn off all the lights when I leave the house,” powered by large-language-model technology.
+
 - **Launched SmartThings Family Care** (August 2024): Introduced a caregiver-focused service that leverages AI and connected devices to monitor daily activity patterns, send alerts, and assist with scheduling medication reminders and medical appointments.
 
 - **Achieved ISO 27001 Certification for SmartThings** (July 2024): Secured ISO/IEC 27001:2022 certification from the British Standards Institution (BSI), validating SmartThings' adherence to international standards for information security management and data protection.
