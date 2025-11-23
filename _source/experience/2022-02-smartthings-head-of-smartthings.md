@@ -28,7 +28,7 @@ categories: experience
 
 - **Embedded SmartThings Hub in Family Hub Refrigerators** (January 2023): Integrated SmartThings Hub functionality into Samsung’s Bespoke 4-Door Flex™ refrigerator, eliminating the need for a separate hub while supporting Matter and other smart home protocols.
 
-- **Launched SmartThings Pet Care** (June 2022): Delivered a connected-pet experience that helps homeowners monitor, locate, and care for their pets. Enabled goal-setting and activity tracking through Galaxy Tags, supported lost-pet location, and introduced bark detection through JetBot 90 AI+ that can undock, record clips, and identify which pet is barking. Added automations to play calming sounds or "pet zen" content on YouTube or Samsung TV Plus, trigger feeders when owners are away, and integrate with Dr. Tail for remote veterinary guidance.
+- **Launched SmartThings Pet Care** (June 2022): Delivered a connected-pet experience that helps homeowners monitor, locate, and care for their pets, including activity tracking and finding through Galaxy Tags. Also introduced bark detection through robot vacuums such as the JetBot 90 AI+ that can undock, find pets, record clips, and play calming sounds or "pet zen" content on YouTube or Samsung TV Plus. Additionally, owners can trigger pet feeders on a schedule and connect with the Dr. Tail service for remote veterinary guidance.
 
 - **Redefined SmartThings Vision and Mission** (April 2022): Recast SmartThings' strategic direction to align with Samsung’s broader vision, emphasizing intuitive, trusted, and frictionless connected experiences that drive recurring business value and sustainable differentiation.
 
