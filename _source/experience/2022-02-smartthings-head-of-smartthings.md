@@ -22,11 +22,13 @@ categories: experience
 
 - **Integrated Tesla Energy Products into SmartThings** (October 2023): Partnered with Tesla to enable SmartThings control of Powerwall and Solar Roof, providing users with a unified platform for energy management and automation.
 
+- **Replaced Legacy Technical Debt** (2018–2023): Executed a multi-year initiative (Phoenix project) to modernize SmartThings' backend infrastructure, improving reliability, scalability, and performance across the platform.
+
 - **Launched SmartThings Station at CES** (January 2023): Introduced an innovative smart home hub that combines Matter support, Zigbee and Thread connectivity, 15W wireless charging, and a Smart Button for triggering home automations.
 
 - **Embedded SmartThings Hub in Family Hub Refrigerators** (January 2023): Integrated SmartThings Hub functionality into Samsung’s Bespoke 4-Door Flex™ refrigerator, eliminating the need for a separate hub while supporting Matter and other smart home protocols.
 
-- **Replaced Legacy Technical Debt** (2018–2023): Executed a multi-year initiative (Phoenix project) to modernize SmartThings' backend infrastructure, improving reliability, scalability, and performance across the platform.
+- **Launched SmartThings Pet Care** (June 2022): Delivered a connected-pet experience that helps homeowners monitor, locate, and care for their pets. Enabled goal-setting and activity tracking through Galaxy Tags, supported lost-pet location, and introduced bark detection through JetBot AI 90+ that can undock, record clips, and identify which pet is barking. Added automations to play calming sounds or Pet Zen content, trigger feeders when owners are away, and integrate with Dr. Tail for remote veterinary guidance.
 
 - **Redefined SmartThings Vision and Mission** (April 2022): Recast SmartThings' strategic direction to align with Samsung’s broader vision, emphasizing intuitive, trusted, and frictionless connected experiences that drive recurring business value and sustainable differentiation.
 
