@@ -2,8 +2,8 @@ BASEDIR=$(CURDIR)
 INPUTDIR=$(BASEDIR)/_source
 OUTPUTDIR=$(BASEDIR)/_output
 
-#DAPPER=dapper
-DAPPER=~/dapper/bin/dapper
+DAPPER=dapper
+#DAPPER=~/dapper/bin/dapper
 
 build:
 	$(DAPPER) build
