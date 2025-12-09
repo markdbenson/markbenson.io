@@ -20,6 +20,8 @@ categories: experience
 
 - **Released Map View for 3D Home Visualization** (May 2024): Launched a new SmartThings feature that enables users to create a 3D map of their home, simplifying device management with real-time monitoring of security cameras, temperature, energy usage, and more.
 
+- **Released Map View for 3D Home Visualization** (May 2024): Introduced a SmartThings feature that generates a 3D home map using hand sketches, uploaded floor plans, or LiDAR from a robot vacuum. Delivered a clearer way for users to visualize and control their smart homes, resolving a top usability pain point and creating a foundation for new partnerships by enabling in-context promotion of partner devices, furniture, and retail solutions.
+
 - **Integrated Tesla Energy Products into SmartThings** (October 2023): Partnered with Tesla to enable SmartThings control of Powerwall and Solar Roof, providing users with a unified platform for energy management and automation.
 
 - **Replaced Legacy Technical Debt** (2018–2023): Executed a multi-year initiative (Phoenix project) to modernize SmartThings' backend infrastructure, improving reliability, scalability, and performance across the platform.
