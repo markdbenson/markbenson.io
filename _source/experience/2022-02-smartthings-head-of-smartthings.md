@@ -12,15 +12,17 @@ categories: experience
 
 - **Launched AI-driven natural-language routine creation** (July 2025): Introduced the “Routine Creation Assistant” inside SmartThings, enabling users to define home-automations via plain-language commands such as “turn off all the lights when I leave the house,” powered by large-language-model technology.
 
-- **Launched SmartThings Family Care** (August 2024): Introduced a caregiver-focused service that leverages AI and connected devices to monitor daily activity patterns, send alerts, and assist with scheduling medication reminders and medical appointments.
+- **Launched The Connected Home Experience with Ashley Furniture** (October 2024): Formed a retail partnership to showcase SmartThings in Ashley’s flagship showroom, featuring interactive lifestyle vignettes with 200+ connected devices from Samsung and partner brands. Expanded SmartThings’ presence in furniture retail and simplified smart home discovery for customers.
+
+- **Launched SmartThings Family Care** (August 2024): Delivered an AI-powered caregiver service that uses motion sensors, smart plugs, wearables, appliances, and other connected devices to learn daily activity patterns, detect anomalies, and provide real-time alerts. Enabled medication and appointment reminders, supported aging-in-place scenarios, and strengthened family connectivity through proactive insights.
 
 - **Achieved ISO 27001 Certification for SmartThings** (July 2024): Secured ISO/IEC 27001:2022 certification from the British Standards Institution (BSI), validating SmartThings' adherence to international standards for information security management and data protection.
 
 - **Introduced SmartThings Pro** (June 2024): Unveiled SmartThings Pro at InfoComm 2024, a business-focused evolution of the platform with customizable APIs and AI-powered energy management, driving operational efficiency and sustainability.
 
-- **Released Map View for 3D Home Visualization** (May 2024): Launched a new SmartThings feature that enables users to create a 3D map of their home, simplifying device management with real-time monitoring of security cameras, temperature, energy usage, and more.
+- **Released Map View for 3D Home Visualization** (May 2024): Introduced a SmartThings feature that generates a 3D home map using hand sketches, uploaded floor plans, or LiDAR mapping from a robot vacuum, giving users a clearer way to visualize and control their smart homes and addressing a top usability pain point. Enabled in-context promotion of partner devices, furniture, and retail solutions.
 
-- **Released Map View for 3D Home Visualization** (May 2024): Introduced a SmartThings feature that generates a 3D home map using hand sketches, uploaded floor plans, or LiDAR from a robot vacuum. Delivered a clearer way for users to visualize and control their smart homes, resolving a top usability pain point and creating a foundation for new partnerships by enabling in-context promotion of partner devices, furniture, and retail solutions.
+- **Expanded SmartThings Partnership with Philips Hue** (March 2024): Deepened collaboration with Philips Hue to integrate the Hue Sync TV app into the SmartThings ecosystem, enabling immersive lighting that synchronizes Philips Hue lights with video and audio on Samsung TVs and creating richer multi-device entertainment routines through the SmartThings app. Strengthened cross-brand device interoperability and elevated home entertainment scenarios for users worldwide.
 
 - **Integrated Tesla Energy Products into SmartThings** (October 2023): Partnered with Tesla to enable SmartThings control of Powerwall and Solar Roof, providing users with a unified platform for energy management and automation.
 
